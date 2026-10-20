@@ -1,0 +1,16 @@
+{
+ "summaries": [
+  {
+   "name": "Jira",
+   "summary": "Jira is suggested as a task tracking tool to track tasks, progress, and deadlines when delegating work to a team."
+  },
+  {
+   "name": "Trello",
+   "summary": "Trello is suggested as a task tracking tool to track tasks, progress, and deadlines when delegating work to a team."
+  },
+  {
+   "name": "Asana",
+   "summary": "Asana is suggested as a task tracking tool to track tasks, progress, and deadlines when delegating work to a team."
+  }
+ ]
+}

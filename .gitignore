@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+*.so
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Local embedded Postgres data (pgserver)
+.devdb/
+
+# Embedded graph databases (derived; rebuildable from the ledger).
+.falkordb/
+.graphdb*/
+
+# Environment / secrets
+.env*
+!.env.example
+
+# Test & tooling caches
+.pytest_cache/
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+coverage.xml
+benchmarks/*_report.json
+testdata/**/runs/
+supabase/.temp/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+.next/
+.vercel/
+
+# Local coding-agent settings are never part of the project.
+.claude/
+
+# OS
+.DS_Store
+
+# Detached dev-server pid/log (nohup)
+.run/
+
+# LongMemEval raw dataset (third-party, 15MB — fetch via HF; the run60 sample is committed)
+testdata/longmemeval/longmemeval_oracle.json
+
+# LoCoMo official dataset, resumable run artifacts, bridge queue, and derived
+# per-tenant Kuzu graphs (third-party/derived; the harness + scorer are tracked).
+testdata/locomo/data/
+testdata/locomo/runs/
+.bridge-locomo/
+.graphdb-locomo/
+.bridge-locomo-*/
+.graphdb-locomo-*/
+
+# LongMemEval bridge queue + graphiti-lane graphs (experiment)
+.lme_bridge/
+.graphdb-graphiti/
+
+# v4 engine: per-tenant Kùzu graphs + LLM bridge queue (fixtures/graphiti IS committed)
+.graphdb-v4/
+.bridge/
+.graphdb-v4-lme/
+.vercel

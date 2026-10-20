@@ -1,0 +1,84 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Any.do",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Google Calendar",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Apple Calendar",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Yoga Studio",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Strides",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Google Keep",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "HabitBull",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Loop Habit Tracker",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Pomodoro Technique",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Foundations of Yoga",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Gentle Yoga",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Vinyasa Flow for Beginners",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Mountain Pose",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Downward-Facing Dog",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "Lululemon",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "Jade Yoga",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

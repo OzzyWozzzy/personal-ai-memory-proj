@@ -1,0 +1,44 @@
+{
+ "summaries": [
+  {
+   "name": "Cucumber Lime Refresher",
+   "summary": "Cucumber Lime Refresher combines tequila, fresh lime juice, cucumber syrup (cucumber slices infused in simple syrup), and a splash of soda water, garnished with a cucumber slice and a lime wheel."
+  },
+  {
+   "name": "Jalapeño Pineapple Spritz",
+   "summary": "Jalapeño Pineapple Spritz mixes tequila, pineapple juice, jalapeño pepper syrup (sliced jalapeños infused in simple syrup), and a splash of lemon-lime soda, garnished with a pineapple wedge and a slice of jalapeño."
+  },
+  {
+   "name": "Grapefruit Ginger Fizz",
+   "summary": "Grapefruit Ginger Fizz combines tequila, grapefruit juice, fresh lime juice, and ginger liqueur, topped with soda water and garnished with a slice of grapefruit and a sprig of rosemary."
+  },
+  {
+   "name": "Cantaloupe Agua Fresca",
+   "summary": "Cantaloupe Agua Fresca blends tequila, cantaloupe puree, fresh lime juice, and a splash of agave syrup, strained over ice and garnished with a cantaloupe ball and a sprig of mint."
+  },
+  {
+   "name": "Spicy Mango Mule",
+   "summary": "Spicy Mango Mule mixes tequila, mango puree, lime juice, ginger beer, and a dash of cayenne pepper, served in a copper mug with a lime wheel and a sprig of mint."
+  },
+  {
+   "name": "Tequila Sunrise",
+   "summary": "Tequila Sunrise is a classic cocktail made with tequila, orange juice, and grenadine, garnished with a slice of orange and a cherry."
+  },
+  {
+   "name": "El Diablo",
+   "summary": "El Diablo is a spicy and smoky cocktail made with tequila, ginger beer, lime juice, and a splash of cassis, garnished with a slice of lime and a sprig of mint."
+  },
+  {
+   "name": "Cucumber Collins",
+   "summary": "Cucumber Collins is a refreshing, light cocktail made with tequila, cucumber puree, lime juice, and a splash of soda water, garnished with a slice of cucumber and a sprig of mint."
+  },
+  {
+   "name": "Tequila Spritz",
+   "summary": "Tequila Spritz is a fruity, bubbly cocktail made with tequila, prosecco, lime juice, and a splash of fruit juice (such as pineapple or grapefruit), garnished with a slice of fruit and a sprig of mint."
+  },
+  {
+   "name": "Blood Orange Margarita",
+   "summary": "Blood Orange Margarita is a twist on the classic margarita made with tequila, blood orange juice, lime juice, and a splash of agave syrup, garnished with a slice of blood orange and a salt rim."
+  }
+ ]
+}

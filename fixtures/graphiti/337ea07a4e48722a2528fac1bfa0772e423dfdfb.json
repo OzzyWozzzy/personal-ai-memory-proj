@@ -1,0 +1,26 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "the user's peace lily",
+   "target_entity_name": "the user's succulent",
+   "relation_type": "ACQUIRED_TOGETHER_WITH",
+   "fact": "The user's peace lily and the user's succulent were both purchased from the nursery two weeks before May 21, 2023",
+   "valid_at": "2023-05-07T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's fern",
+   "target_entity_name": "the user's peace lily",
+   "relation_type": "HAS_DIFFERENT_HUMIDITY_NEEDS_THAN",
+   "fact": "The user's fern requires more humidity than the user's peace lily; ferns thrive in very humid conditions often above 50% relative humidity, while peace lilies can tolerate average humidity levels around 40-50%",
+   "valid_at": "2023-05-21T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

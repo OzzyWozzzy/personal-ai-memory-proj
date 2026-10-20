@@ -1,0 +1,662 @@
+{
+ "extracted_entities": [
+  {
+   "name": "Alex",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Justin Guitar",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Guitar Tricks",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "MusicTheory.net",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "The Music Theory Academy",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Fingerstyle Guitar",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Guitar Fingerstyle",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Andy Guitar",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "James Taylor's Guitar Lessons",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Marty Music",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "GuitarLessons365",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "GuitarJamz",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/guitar",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/musictheory",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Guitar Forum",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Music Theory Forum",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Fender Play",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Yousician",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Jazz at Lincoln Center",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Jazz Theory 101",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "The Jazz Piano Site",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Berklee College of Music Online",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Sax on the Web",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Saxophone Lessons 365",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Neff Music",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Eric Neff",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Improvisation for Saxophone",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Jazz Improvisation",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "University of Edinburgh",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "ii-V-I Progression",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Saxophone Transcriptions",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Jazz Transcriptions",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "WBGO",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "The Jazz Podcast",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Jazz at 100",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/jazz",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/saxophone",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Ableton Live",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "FL Studio",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Logic Pro X",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "GarageBand",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Cubase",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "The Pro Audio Files",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Music Production Tutorials",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "DAW Templates",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Udemy",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Coursera",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Skillshare",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/WeAreTheMusicMakers",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/Ableton",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/FL_Studio",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/LogicPro",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Harmonica.com",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "HarmonicaLessons.com",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Harmonica Lessons 365",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Adam Gussow",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Harmonica Tutorials 360",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Harmonica Forum",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "r/harmonica",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Guitar Amplifier Encyclopedia",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "GuitarPlayer.com",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Premier Guitar",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Guitar Amplifier Reviews",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "ToneQuest Report",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Guitar Amplifier Tutorials",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Effects Database",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Pedalboard Planner",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Guitar Effects 101",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Pedal Demos",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Effects Explained",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Pedalboard of the Month",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "The Guitar Handbook",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Vintage Guitar",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "GuitarHistory.com",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Guitar History",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Vintage Guitar Reviews",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Twinkle, Twinkle, Little Star",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Mary Had a Little Lamb",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "When the Saints Go Marching In",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Oh, Susanna",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Blowin' in the Wind",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Sweet Home Chicago",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Sweet Little Sixteen",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Chuck Berry",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Boom Boom",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "John Lee Hooker",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Sitting on Top of the World",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Howlin' Wolf",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Harmonica Boogie",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Sonny Boy Williamson II",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Cross Road Blues",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Robert Johnson",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Key to the Highway",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Little Walter",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

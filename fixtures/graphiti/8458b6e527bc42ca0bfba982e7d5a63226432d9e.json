@@ -1,0 +1,224 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Dyson Ball Animal 2",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Dyson Ball Animal 2 vacuum, with 270 Air Watts of suction and whole-machine HEPA filtration, is recommended to handle the shedding of the user's cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Shark Navigator Lift-Away Professional",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Shark Navigator Lift-Away Professional vacuum, with 1200 Watts of suction and HEPA filtration, is recommended to handle the shedding of the user's cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hoover WindTunnel 2 Rewind Pet Bagless",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Hoover WindTunnel 2 Rewind Pet Bagless vacuum, with 1200 Watts of suction and a pet hair tool, is recommended to handle the shedding of the user's cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bissell Pet Hair Eraser 1650A",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Bissell Pet Hair Eraser 1650A vacuum, with 1300 Watts of suction and a tangle-free brush roll, is recommended to handle the shedding of the user's cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miele Complete C3 Limited Edition",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Miele Complete C3 Limited Edition vacuum, with 1200 Watts of suction and an electrobrush for pet hair, is recommended to handle the shedding of the user's cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dyson V11 Animal Cordless",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Dyson V11 Animal Cordless vacuum, with 185 Air Watts of suction and up to 60 minutes of battery life, is recommended to handle the shedding of the user's cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spider Plant",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Spider Plant (Chlorophytum comosum), effective at removing air pollutants like formaldehyde and xylene, is recommended for a room with the user's shedding cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Peace Lily",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Peace Lily (Spathiphyllum wallisii), which removes toxins like ammonia and benzene, is recommended for a room with the user's shedding cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dracaena",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Dracaena, effective at removing trichloroethylene, formaldehyde, and benzene, is recommended for a room with the user's shedding cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Snake Plant",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Snake Plant (Sansevieria Trifasciata), which removes formaldehyde, benzene, and trichloroethylene, is recommended for a room with the user's shedding cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pothos",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Pothos (Epipremnum aureum), effective at removing formaldehyde, xylene, and toluene, is recommended for a room with the user's shedding cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rubber Plant",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Rubber Plant (Ficus elastica), which removes formaldehyde, benzene, and trichloroethylene, is recommended for a room with the user's shedding cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Aloe Vera",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Aloe Vera (Aloe barbadensis), which removes formaldehyde, benzene, and trichloroethylene, is recommended for a room with the user's shedding cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bamboo Palm",
+   "target_entity_name": "the user's cat",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The Bamboo Palm (Chamaedorea seifrizii), effective at removing trichloroethylene, formaldehyde, and benzene, is recommended for a room with the user's shedding cat.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miracle-Gro Indoor Plant Food",
+   "target_entity_name": "Spider Plant",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Miracle-Gro Indoor Plant Food, a water-soluble fertilizer, is recommended for fertilizing a Spider Plant during the growing season (spring and summer), diluted to half strength.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miracle-Gro Indoor Plant Food",
+   "target_entity_name": "Snake Plant",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Miracle-Gro Indoor Plant Food, a water-soluble fertilizer, is recommended for fertilizing a Snake Plant during the growing season (spring and summer), diluted to half strength.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Schultz Indoor Plant Food",
+   "target_entity_name": "Spider Plant",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Schultz Indoor Plant Food, a balanced fertilizer, is recommended for fertilizing a Spider Plant during the growing season (spring and summer), diluted to half strength.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Schultz Indoor Plant Food",
+   "target_entity_name": "Snake Plant",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Schultz Indoor Plant Food, a balanced fertilizer, is recommended for fertilizing a Snake Plant during the growing season (spring and summer), diluted to half strength.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Espoma Organic Indoor Plant Fertilizer",
+   "target_entity_name": "Spider Plant",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Espoma Organic Indoor Plant Fertilizer, an organic slow-release fertilizer, is recommended for fertilizing a Spider Plant during the growing season (spring and summer), diluted to half strength.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Espoma Organic Indoor Plant Fertilizer",
+   "target_entity_name": "Snake Plant",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Espoma Organic Indoor Plant Fertilizer, an organic slow-release fertilizer, is recommended for fertilizing a Snake Plant during the growing season (spring and summer), diluted to half strength.",
+   "valid_at": "2023-05-27T11:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

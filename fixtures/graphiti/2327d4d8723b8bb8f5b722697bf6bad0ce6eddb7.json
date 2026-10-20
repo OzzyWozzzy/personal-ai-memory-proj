@@ -1,0 +1,92 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Jackson",
+   "target_entity_name": "Julia",
+   "relation_type": "IS_TWIN_OF",
+   "fact": "Jackson and Julia are twins, born on February 12th.",
+   "valid_at": "2023-02-12T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rachel",
+   "target_entity_name": "Jackson",
+   "relation_type": "IS_MOTHER_OF",
+   "fact": "Rachel, the user's sister-in-law, is the mother of the twins Jackson and Julia.",
+   "valid_at": "2023-03-17T17:38:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rachel",
+   "target_entity_name": "Julia",
+   "relation_type": "IS_MOTHER_OF",
+   "fact": "Rachel, the user's sister-in-law, is the mother of the twins Jackson and Julia.",
+   "valid_at": "2023-03-17T17:38:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Olivia",
+   "target_entity_name": "Art Studio Party",
+   "relation_type": "CELEBRATES_WITH",
+   "fact": "For Olivia's 6th birthday, the user decided on an Art Studio Party theme with various art stations.",
+   "valid_at": "2023-03-17T17:38:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jackson",
+   "target_entity_name": "Woodland Wonderland",
+   "relation_type": "CONSIDERING_THEME",
+   "fact": "The user's brother and his wife are considering a Woodland Wonderland theme for Jackson and Julia's first birthday party.",
+   "valid_at": "2023-03-17T17:38:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jackson",
+   "target_entity_name": "Little Explorer Party",
+   "relation_type": "CONSIDERING_THEME",
+   "fact": "The user's brother and his wife are considering a Little Explorer Party theme for Jackson and Julia's first birthday party.",
+   "valid_at": "2023-03-17T17:38:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Julia",
+   "target_entity_name": "Woodland Wonderland",
+   "relation_type": "CONSIDERING_THEME",
+   "fact": "The user's brother and his wife are considering a Woodland Wonderland theme for Jackson and Julia's first birthday party.",
+   "valid_at": "2023-03-17T17:38:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Julia",
+   "target_entity_name": "Little Explorer Party",
+   "relation_type": "CONSIDERING_THEME",
+   "fact": "The user's brother and his wife are considering a Little Explorer Party theme for Jackson and Julia's first birthday party.",
+   "valid_at": "2023-03-17T17:38:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

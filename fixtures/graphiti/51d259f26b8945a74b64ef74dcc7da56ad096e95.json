@@ -1,0 +1,109 @@
+{
+ "extracted_entities": [
+  {
+   "name": "Anacharis",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Java Moss",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Amazon Swords",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Cabomba",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Water Wisteria",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Anubias",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hornwort",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "API CO2 Booster",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Seachem Flourish",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "API Aquarium Fertilizer",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Tropica Plant Nutrition",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Seachem Iron",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "API Iron Supplement",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Tropica Iron Fertilizer",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "guppies",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

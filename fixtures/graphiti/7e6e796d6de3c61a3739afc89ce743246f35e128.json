@@ -1,0 +1,29 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Spinach and Feta Quiche",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Nibbles",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Fresh Chevre",
+   "duplicate_candidate_id": 3
+  },
+  {
+   "id": 3,
+   "name": "Langstroth hive",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Top-bar hive",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

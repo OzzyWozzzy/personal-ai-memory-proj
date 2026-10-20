@@ -1,0 +1,235 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "LAX",
+   "target_entity_name": "Los Angeles",
+   "relation_type": "LOCATED_IN",
+   "fact": "LAX is the airport serving Los Angeles",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "JFK",
+   "target_entity_name": "New York",
+   "relation_type": "LOCATED_IN",
+   "fact": "JFK is the airport serving New York",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "LAX",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "The user's American Airlines flight from LAX to JFK was delayed by 2 hours due to bad weather",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "JFK",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "The user's American Airlines flight from LAX to JFK was delayed by 2 hours due to bad weather",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "New York",
+   "relation_type": "OPERATES_FLIGHTS_FROM",
+   "fact": "The user previously had a bad experience with American Airlines' in-flight entertainment system on a flight from New York to Los Angeles",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Los Angeles",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "The user previously had a bad experience with American Airlines' in-flight entertainment system on a flight from New York to Los Angeles",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Boston",
+   "relation_type": "OPERATES_FLIGHTS_FROM",
+   "fact": "Delta offers a flight from Boston (BOS) to Miami (MIA) departing 6:00 AM with a layover in ATL, priced at $158 and earning 2,344 SkyMiles",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Miami",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "Delta offers a flight from Boston (BOS) to Miami (MIA) departing 6:00 AM with a layover in ATL, priced at $158 and earning 2,344 SkyMiles",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Miami",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "American Airlines offers a flight from Boston (BOS) to Miami (MIA) departing 7:00 AM with a layover in CLT, priced at $173",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "JetBlue",
+   "target_entity_name": "Miami",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "JetBlue offers a non-stop flight from Boston (BOS) to Miami (MIA) departing 8:00 AM, priced at $178",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "JetBlue",
+   "target_entity_name": "Fort Lauderdale",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "JetBlue's non-stop flight B6 1018 from Boston to Fort Lauderdale, departing 7:00 AM and arriving 10:35 AM, was booked for the user",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spirit Airlines",
+   "target_entity_name": "Fort Lauderdale",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "Spirit Airlines offers a non-stop flight from Boston (BOS) to Fort Lauderdale (FLL) departing 8:30 AM, priced at $123 basic fare with no checked bag",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Fort Lauderdale",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "Delta's return flight DL 1242/DL 2166 from Fort Lauderdale to Boston with a layover in ATL, departing 5:30 PM and arriving 9:35 PM, was booked for the user",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "ATL",
+   "relation_type": "LAYOVER_AT",
+   "fact": "Delta's Boston-Miami/Fort Lauderdale flights and the user's booked FLL-to-BOS return flight (DL 1242/DL 2166) route through a layover in ATL",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "CLT",
+   "relation_type": "LAYOVER_AT",
+   "fact": "American Airlines' Boston-to-Miami flight has a layover in CLT",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta SkyMiles",
+   "target_entity_name": "Delta",
+   "relation_type": "PART_OF",
+   "fact": "Delta SkyMiles is Delta's loyalty program, used to try to upgrade the user's Fort Lauderdale-to-Boston return flight to Comfort+ (15,000 miles) or First Class (30,000 miles)",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fly-Fi",
+   "target_entity_name": "JetBlue",
+   "relation_type": "PART_OF",
+   "fact": "Fly-Fi is JetBlue's in-flight entertainment system, accessible via free Wi-Fi on personal devices",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Even More Space",
+   "target_entity_name": "JetBlue",
+   "relation_type": "PART_OF",
+   "fact": "Even More Space is JetBlue's paid seat selection option offering up to 37 inches of legroom for $10-$25 per seat",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "ExpertFlyer",
+   "target_entity_name": "Delta",
+   "relation_type": "MONITORS",
+   "fact": "ExpertFlyer is a third-party service that can be used to set up custom alerts for Delta flight upgrade availability",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Boston Logan International Airport",
+   "target_entity_name": "Boston",
+   "relation_type": "LOCATED_IN",
+   "fact": "Boston Logan International Airport (BOS) is the departure airport for the user's JetBlue flight to Fort Lauderdale",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fort Lauderdale-Hollywood International Airport",
+   "target_entity_name": "Fort Lauderdale",
+   "relation_type": "LOCATED_IN",
+   "fact": "Fort Lauderdale-Hollywood International Airport (FLL) is the arrival airport for the user's JetBlue flight from Boston",
+   "valid_at": "2023-02-14T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

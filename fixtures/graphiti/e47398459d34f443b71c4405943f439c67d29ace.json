@@ -1,0 +1,627 @@
+{
+ "extracted_entities": [
+  {
+   "name": "Hawaii",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Oahu",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Maui",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kauai",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Big Island",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Cancun",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Bali",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "New York City",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Statue of Liberty",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Central Park",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "American Museum of Natural History",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Paris",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Eiffel Tower",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Disneyland Paris",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Luxembourg Gardens",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Singapore",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Gardens by the Bay",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Marina Bay Sands",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Universal Studios Singapore",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Singapore Zoo",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Sentosa Island",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Yellowstone National Park",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Alaska",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Caribbean Islands",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Bahamas",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "St. Maarten",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Jamaica",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Mediterranean Europe",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Barcelona",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Rome",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Athens",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Volcanoes National Park",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kilauea",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Thurston Lava Tube",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Jaggar Museum",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Mauna Kea",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Mauna Kea Visitor Information Station",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kealakekua Bay",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hapuna Beach",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Honokaope Bay",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kohala Zipline",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Zip Isle",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Na'alapa Stables",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Paniolo Horseback Adventures",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hilo Farmers Market",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Pacific Tsunami Museum",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hawaii Tropical Botanical Garden",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kaloko-Honokohau National Historical Park",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hawaii Island Brewery",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kailua-Kona",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Merriman's",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "The Farmhouse at Kahua Ranch",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Shave Ice Co.",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Anuenue Ice Cream",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kazumura Cave",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kona Tiki Hotel",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kona Inn",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kona Hostel",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Holualoa Inn",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kona Makai Condos",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Wyndham Kona Hawaiian Resort",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Coffee Shack",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kalani Retreat",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hale Hoola B&B",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kona Village Inn",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kona Seaside Hotel",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hale Kai O'Kailua",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kona Coffee Living History Farm",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Mountain Thunder Coffee",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Greenwell Farms",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Rainbow Falls",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Wailoa River State Recreation Area",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hilo Public Library",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Akaka Falls State Park",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Cafe Pesto",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hilo Bay Cafe",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kuhio Grille",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "The Fish and The Hog",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Hilo Town Tavern",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Miyo's",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Kalapana Cafe",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Punalu'u Bakery",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Helena's Hawaiian Food",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Loco Moco",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Poi",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Lomi Salmon",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Haupia",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

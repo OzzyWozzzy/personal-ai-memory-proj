@@ -1,0 +1,186 @@
+{
+ "extracted_entities": [
+  {
+   "name": "Boston",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Miami",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Fort Lauderdale",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "American Airlines",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "LAX",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "JFK",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Delta",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Delta SkyMiles",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "JetBlue",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Spirit Airlines",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "New York",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "ATL",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "CLT",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Fly-Fi",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Even More Space",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "ExpertFlyer",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Allianz Travel Insurance",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "TravelGuard Insurance",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Travelex Insurance Services",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Squaremouth Travel Insurance",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Expedia",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Orbitz",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Travelocity",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Boston Logan International Airport",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Fort Lauderdale-Hollywood International Airport",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "extracted_entities": [
+  {
+   "name": "Simple Dill Pickle Recipe",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "lacto-fermentation",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Lactobacillus plantarum",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "kosher salt",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

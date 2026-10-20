@@ -1,0 +1,400 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Pasadena City College (PCC)",
+   "target_entity_name": "UCLA",
+   "relation_type": "PRECEDED",
+   "fact": "The user earned an Associate's degree in Computer Science from Pasadena City College (PCC) in May 2016, before joining UCLA.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Andrew Ng's Machine Learning course",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "Andrew Ng's Machine Learning course is offered on Coursera.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Andrew Ng",
+   "target_entity_name": "Andrew Ng's Machine Learning course",
+   "relation_type": "TEACHES",
+   "fact": "Andrew Ng's Machine Learning course is a classic course by the pioneer of AI and ML, Andrew Ng.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Machine Learning by Stanford University",
+   "target_entity_name": "Stanford Online",
+   "relation_type": "OFFERED_ON",
+   "fact": "Machine Learning by Stanford University is offered on Stanford Online.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Machine Learning by Stanford University",
+   "target_entity_name": "Stanford University",
+   "relation_type": "OFFERED_BY",
+   "fact": "Machine Learning by Stanford University is offered by Stanford University.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Deep Learning Specialization",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "The Deep Learning Specialization is offered on Coursera.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Deep Learning Specialization",
+   "target_entity_name": "Andrew Ng",
+   "relation_type": "TAUGHT_BY",
+   "fact": "The Deep Learning Specialization is another popular course by Andrew Ng, focusing on deep learning techniques.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Machine Learning with Python (DataCamp course)",
+   "target_entity_name": "DataCamp",
+   "relation_type": "OFFERED_ON",
+   "fact": "Machine Learning with Python is offered on DataCamp, covering scikit-learn and TensorFlow.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Artificial Intelligence (AI) by Columbia University",
+   "target_entity_name": "edX",
+   "relation_type": "OFFERED_ON",
+   "fact": "Artificial Intelligence (AI) by Columbia University is offered on edX.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Artificial Intelligence (AI) by Columbia University",
+   "target_entity_name": "Columbia University",
+   "relation_type": "OFFERED_BY",
+   "fact": "Artificial Intelligence (AI) is offered by Columbia University, exploring machine learning, computer vision, and natural language processing.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "AI for Everyone",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "AI for Everyone is a beginner-friendly course offered on Coursera.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Natural Language Processing with Deep Learning",
+   "target_entity_name": "Stanford Online",
+   "relation_type": "OFFERED_ON",
+   "fact": "Natural Language Processing with Deep Learning is offered on Stanford Online, focusing on NLP with deep learning techniques.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Computer Vision by University of Michigan",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "Computer Vision by University of Michigan is offered on Coursera.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Computer Vision by University of Michigan",
+   "target_entity_name": "University of Michigan",
+   "relation_type": "OFFERED_BY",
+   "fact": "The Computer Vision course is offered by University of Michigan, covering image processing, feature detection, and object recognition.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Deep Learning for Computer Vision (Udemy course)",
+   "target_entity_name": "Udemy",
+   "relation_type": "OFFERED_ON",
+   "fact": "Deep Learning for Computer Vision is offered on Udemy, covering CNNs, object detection, and segmentation.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Natural Language Processing with Python (DataCamp course)",
+   "target_entity_name": "DataCamp",
+   "relation_type": "OFFERED_ON",
+   "fact": "Natural Language Processing with Python is offered on DataCamp.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Reinforcement Learning by Sutton & Barto",
+   "target_entity_name": "Udemy",
+   "relation_type": "OFFERED_ON",
+   "fact": "Reinforcement Learning by Sutton & Barto is offered on Udemy.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Deep Reinforcement Learning (Coursera course)",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "Deep Reinforcement Learning is offered on Coursera.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Object Detection and Tracking (University of Pennsylvania course)",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "Object Detection and Tracking by University of Pennsylvania is offered on Coursera, covering object detection, tracking, and segmentation using deep learning.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Object Detection and Tracking (University of Pennsylvania course)",
+   "target_entity_name": "University of Pennsylvania",
+   "relation_type": "OFFERED_BY",
+   "fact": "Object Detection and Tracking is offered by University of Pennsylvania.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Object Detection and Segmentation (University of Michigan course)",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "Object Detection and Segmentation by University of Michigan is offered on Coursera, focusing on CNNs and deep learning techniques.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Object Detection and Segmentation (University of Michigan course)",
+   "target_entity_name": "University of Michigan",
+   "relation_type": "OFFERED_BY",
+   "fact": "Object Detection and Segmentation is offered by University of Michigan.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Deep Learning for Object Detection (NVIDIA Deep Learning Institute course)",
+   "target_entity_name": "NVIDIA Deep Learning Institute",
+   "relation_type": "OFFERED_ON",
+   "fact": "Deep Learning for Object Detection is offered on the NVIDIA Deep Learning Institute, teaching object detection using YOLO, SSD, and Faster R-CNN.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "NVIDIA Deep Learning Institute",
+   "target_entity_name": "NVIDIA",
+   "relation_type": "PART_OF",
+   "fact": "The NVIDIA Deep Learning Institute is part of NVIDIA.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Computer Vision: Algorithms and Applications",
+   "target_entity_name": "Richard Szeliski",
+   "relation_type": "AUTHORED_BY",
+   "fact": "Computer Vision: Algorithms and Applications was authored by Richard Szeliski.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Deep Learning for Computer Vision with Python",
+   "target_entity_name": "Adrian Rosebrock",
+   "relation_type": "AUTHORED_BY",
+   "fact": "Deep Learning for Computer Vision with Python was authored by Adrian Rosebrock.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Computer Vision: A Modern Approach",
+   "target_entity_name": "David Forsyth",
+   "relation_type": "AUTHORED_BY",
+   "fact": "Computer Vision: A Modern Approach was authored by David Forsyth.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Computer Vision: A Modern Approach",
+   "target_entity_name": "Jean Ponce",
+   "relation_type": "AUTHORED_BY",
+   "fact": "Computer Vision: A Modern Approach was authored by Jean Ponce.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Object Detection and Recognition in Digital Images",
+   "target_entity_name": "Lambert Schomaker",
+   "relation_type": "AUTHORED_BY",
+   "fact": "Object Detection and Recognition in Digital Images was authored by Lambert Schomaker.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mask R-CNN",
+   "target_entity_name": "Matterport",
+   "relation_type": "HAS_TUTORIAL_BY",
+   "fact": "Matterport provides a tutorial on implementing Mask R-CNN for object detection and segmentation using Python and Keras.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "YOLO9000",
+   "target_entity_name": "YOLO (You Only Look Once)",
+   "relation_type": "IMPROVED_VERSION_OF",
+   "fact": "YOLO9000 is an improved version of YOLO (You Only Look Once).",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "YOLOv3",
+   "target_entity_name": "YOLO (You Only Look Once)",
+   "relation_type": "LATEST_VERSION_OF",
+   "fact": "YOLOv3 is the latest version of YOLO (You Only Look Once).",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "YOLO9000: Better, Faster, Stronger",
+   "target_entity_name": "YOLO9000",
+   "relation_type": "DESCRIBES",
+   "fact": "The paper \"YOLO9000: Better, Faster, Stronger\" describes YOLO9000, an improved version of YOLO.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "YOLOv3: An Incremental Improvement",
+   "target_entity_name": "YOLOv3",
+   "relation_type": "DESCRIBES",
+   "fact": "The paper \"YOLOv3: An Incremental Improvement\" describes YOLOv3, the latest version of YOLO.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "NVIDIA's DriveWorks",
+   "target_entity_name": "NVIDIA",
+   "relation_type": "MADE_BY",
+   "fact": "NVIDIA's DriveWorks is a software development kit (SDK) for autonomous vehicles made by NVIDIA.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "NVIDIA's DriveWorks",
+   "target_entity_name": "YOLO (You Only Look Once)",
+   "relation_type": "INCLUDES",
+   "fact": "NVIDIA's DriveWorks includes a YOLO-based object detection module.",
+   "valid_at": "2021-08-20T13:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

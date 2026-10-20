@@ -1,0 +1,103 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Neff Music",
+   "target_entity_name": "Eric Neff",
+   "relation_type": "FOUNDED_BY",
+   "fact": "Neff Music is run by saxophonist and educator Eric Neff, who shares his knowledge on jazz improvisation, technique, and music theory",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jazz Improvisation",
+   "target_entity_name": "University of Edinburgh",
+   "relation_type": "OFFERED_BY",
+   "fact": "The Jazz Improvisation online course is offered by the University of Edinburgh, covering scales, modes, and chord progressions",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jazz Improvisation",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "The Jazz Improvisation course is hosted on Coursera",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sweet Little Sixteen",
+   "target_entity_name": "Chuck Berry",
+   "relation_type": "PERFORMED_BY",
+   "fact": "\"Sweet Little Sixteen\" is a Chuck Berry song recommended as an easy blues harmonica riff for beginners",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Boom Boom",
+   "target_entity_name": "John Lee Hooker",
+   "relation_type": "PERFORMED_BY",
+   "fact": "\"Boom Boom\" is a John Lee Hooker song recommended as an easy blues harmonica riff for beginners",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sitting on Top of the World",
+   "target_entity_name": "Howlin' Wolf",
+   "relation_type": "PERFORMED_BY",
+   "fact": "\"Sitting on Top of the World\" is a Howlin' Wolf song recommended as an easy blues harmonica riff for beginners",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Harmonica Boogie",
+   "target_entity_name": "Sonny Boy Williamson II",
+   "relation_type": "PERFORMED_BY",
+   "fact": "\"Harmonica Boogie\" is a Sonny Boy Williamson II song recommended as a harmonica-specific song for beginners",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cross Road Blues",
+   "target_entity_name": "Robert Johnson",
+   "relation_type": "PERFORMED_BY",
+   "fact": "\"Cross Road Blues\" is a Robert Johnson song recommended as a harmonica-specific song for beginners",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Key to the Highway",
+   "target_entity_name": "Little Walter",
+   "relation_type": "PERFORMED_BY",
+   "fact": "\"Key to the Highway\" is a Little Walter song recommended as a harmonica-specific song for beginners",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

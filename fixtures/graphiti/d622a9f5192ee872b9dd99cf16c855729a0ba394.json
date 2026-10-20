@@ -1,0 +1,81 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Micro Set",
+   "target_entity_name": "Ford F-150",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Micro Set is recommended as a decal setting solution to help decals conform to curved surfaces on the Ford F-150 pickup truck model.",
+   "valid_at": "2023-05-30T17:18:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mr. Mark Setter",
+   "target_entity_name": "Ford F-150",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Mr. Mark Setter is recommended as a decal setting solution to help decals conform to curved surfaces on the Ford F-150 pickup truck model.",
+   "valid_at": "2023-05-30T17:18:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo Model Color Rust",
+   "target_entity_name": "Ford F-150",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Vallejo Model Color Rust is recommended for creating a realistic, subtle rust effect on the wheel wells and suspension components of the Ford F-150 pickup truck model.",
+   "valid_at": "2023-05-30T17:18:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo Model Color Rusty Red",
+   "target_entity_name": "Ford F-150",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Vallejo Model Color Rusty Red is recommended for creating a realistic, subtle rust effect on the wheel wells and suspension components of the Ford F-150 pickup truck model.",
+   "valid_at": "2023-05-30T17:18:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo Model Color Burnt Iron",
+   "target_entity_name": "Ford F-150",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Vallejo Model Color Burnt Iron is recommended for creating a realistic, subtle rust effect on the wheel wells and suspension components of the Ford F-150 pickup truck model.",
+   "valid_at": "2023-05-30T17:18:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mig Productions Rust Powder",
+   "target_entity_name": "Ford F-150",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Mig Productions' Rust powder is recommended as a weathering powder for creating rust effects on the Ford F-150 pickup truck model.",
+   "valid_at": "2023-05-30T17:18:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "AK Interactive Rust and Scale Powder",
+   "target_entity_name": "Ford F-150",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "AK Interactive's Rust and Scale powder is recommended as a weathering powder for creating rust effects on the Ford F-150 pickup truck model.",
+   "valid_at": "2023-05-30T17:18:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

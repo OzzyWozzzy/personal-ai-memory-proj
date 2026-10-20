@@ -1,0 +1,81 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Honolulu",
+   "relation_type": "FLEW_TO",
+   "fact": "The user flew with American Airlines from their hometown to Honolulu at the start of a week-long Hawaii vacation from April 20th to 27th.",
+   "valid_at": "2023-04-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Honolulu",
+   "target_entity_name": "Maui",
+   "relation_type": "CONNECTING_FLIGHT_TO",
+   "fact": "After arriving in Honolulu, the user took a connecting flight to Maui.",
+   "valid_at": "2023-04-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Uber",
+   "target_entity_name": "Hawaii",
+   "relation_type": "USED_DURING_TRIP_TO",
+   "fact": "The user took at least 10 Uber rides during their week-long vacation to Hawaii from April 20th to 27th.",
+   "valid_at": "2023-04-20T00:00:00Z",
+   "invalid_at": "2023-04-27T00:00:00Z",
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "AAdvantage",
+   "relation_type": "HAS_LOYALTY_PROGRAM",
+   "fact": "American Airlines' loyalty program, through which flyers earn miles, is called AAdvantage.",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "British Airways",
+   "relation_type": "PARTNERS_WITH",
+   "fact": "American Airlines has a partner airline relationship with British Airways, allowing AAdvantage miles to be earned when flying with it.",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Iberia",
+   "relation_type": "PARTNERS_WITH",
+   "fact": "American Airlines has a partner airline relationship with Iberia, allowing AAdvantage miles to be earned when flying with it.",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Finnair",
+   "relation_type": "PARTNERS_WITH",
+   "fact": "American Airlines has a partner airline relationship with Finnair, allowing AAdvantage miles to be earned when flying with it.",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "summaries": [
+  {
+   "name": "Nikon AF-S Nikkor 50mm f/1.8G",
+   "summary": "Nikon AF-S Nikkor 50mm f/1.8G is a beginner-friendly prime lens recommended for learning aperture, depth of field, and composition, priced around $220."
+  },
+  {
+   "name": "Sony E 50mm f/1.8 OSS",
+   "summary": "Sony E 50mm f/1.8 OSS is a beginner-friendly prime lens recommended for learning aperture, depth of field, and composition, priced around $250."
+  },
+  {
+   "name": "Nikon AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR",
+   "summary": "Nikon AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR is a beginner-friendly zoom lens offering flexible focal length adjustment, priced around $250."
+  },
+  {
+   "name": "Sony E 16-50mm f/3.5-5.6 OSS",
+   "summary": "Sony E 16-50mm f/3.5-5.6 OSS is a beginner-friendly zoom lens offering flexible focal length adjustment, priced around $350."
+  },
+  {
+   "name": "Sigma 18-35mm f/1.8 DC HSM Art",
+   "summary": "Sigma 18-35mm f/1.8 DC HSM Art is a third-party lens recommended as offering similar quality to brand-name lenses at a lower price, priced around $400."
+  },
+  {
+   "name": "Tamron 18-400mm f/3.5-6.3 Di II VC HLD",
+   "summary": "Tamron 18-400mm f/3.5-6.3 Di II VC HLD is a third-party lens recommended as offering similar quality to brand-name lenses at a lower price, priced around $650."
+  },
+  {
+   "name": "WordPress",
+   "summary": "WordPress is a popular, free blogging platform the user decided to start their photography blog with, registering a domain name for it. Users can start with a free plan and upgrade as they grow."
+  },
+  {
+   "name": "Blogger",
+   "summary": "Blogger is a blogging platform option, listed alongside WordPress, Squarespace, and Wix, for starting a blog."
+  },
+  {
+   "name": "Squarespace",
+   "summary": "Squarespace is a blogging platform option, listed alongside WordPress, Blogger, and Wix, for starting a blog."
+  },
+  {
+   "name": "Wix",
+   "summary": "Wix is a blogging platform option, listed alongside WordPress, Blogger, and Squarespace, for starting a blog."
+  },
+  {
+   "name": "GoDaddy",
+   "summary": "GoDaddy is a domain registrar recommended for registering a blog's domain name."
+  }
+ ]
+}

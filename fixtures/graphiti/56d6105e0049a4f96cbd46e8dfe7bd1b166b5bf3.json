@@ -1,0 +1,28 @@
+{
+ "summaries": [
+  {
+   "name": "Ride with GPS",
+   "summary": "Ride with GPS is a route planning website and app (web, iOS, Android) that allows creating and customizing bike routes, finding bike-friendly roads, and getting turn-by-turn directions."
+  },
+  {
+   "name": "MapMyRide",
+   "summary": "MapMyRide is an app (web, iOS, Android) providing route planning, GPS tracking, and performance analysis, with a large community-driven route database."
+  },
+  {
+   "name": "Strava",
+   "summary": "Strava is a social network for cyclists (web, iOS, Android) offering route planning, GPS tracking, and performance analysis; users can browse popular routes, create their own, and compete with friends."
+  },
+  {
+   "name": "Google Maps",
+   "summary": "Google Maps (web, iOS, Android), while not cycling-specific, can find bike-friendly roads using its \"Bicycling\" mode, which gives routes that avoid highways and prefer bike paths and lanes."
+  },
+  {
+   "name": "Gatorade",
+   "summary": "Gatorade is a sports drink containing electrolytes (sodium, potassium, calcium) recommended to help replace those lost through sweat during long or intense bike rides."
+  },
+  {
+   "name": "Nuun",
+   "summary": "Nuun is a sports drink containing electrolytes (sodium, potassium, calcium) recommended to help replace those lost through sweat during long or intense bike rides."
+  }
+ ]
+}

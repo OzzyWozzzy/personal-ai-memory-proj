@@ -1,0 +1,70 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Chocolate Cake",
+   "target_entity_name": "Espresso Powder",
+   "relation_type": "ENHANCED_BY",
+   "fact": "The user's chocolate cake turned out amazing because the espresso powder really enhanced the flavor.",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chocolate Cake",
+   "target_entity_name": "The user's sister",
+   "relation_type": "BAKED_FOR",
+   "fact": "The user baked a chocolate cake for their sister's birthday party last weekend.",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Whole Wheat Baguette",
+   "target_entity_name": "Whole Wheat Flour",
+   "relation_type": "MADE_WITH",
+   "fact": "The user used whole wheat flour to make a delicious whole wheat baguette last Saturday.",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Strawberry Tart",
+   "target_entity_name": "Seasonal Fruit Tart",
+   "relation_type": "IS_TYPE_OF",
+   "fact": "The user decided to make a Strawberry Tart, choosing strawberries as the fruit for the Seasonal Fruit Tart dessert idea suggested for their dinner party.",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Strawberry Tart",
+   "target_entity_name": "All-Purpose Flour",
+   "relation_type": "MADE_WITH",
+   "fact": "The user decided to stick with all-purpose flour for the Strawberry Tart crust.",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Stand Mixer",
+   "target_entity_name": "Strawberry Tart",
+   "relation_type": "USED_TO_MAKE",
+   "fact": "The user plans to use their new stand mixer, which they've been using nonstop since getting it a few weeks ago, to help make the crust for the Strawberry Tart.",
+   "valid_at": "2023-05-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

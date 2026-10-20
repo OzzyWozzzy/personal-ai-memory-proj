@@ -1,0 +1,64 @@
+{
+ "summaries": [
+  {
+   "name": "Windows Battery Report",
+   "summary": "Windows Battery Report is a built-in Windows 10 tool (accessed by searching \"battery report\" in the Start menu) that generates a detailed report on a laptop battery's health, including capacity, usage patterns, and estimated battery life."
+  },
+  {
+   "name": "Coconut Battery",
+   "summary": "Coconut Battery is a free Mac app providing detailed information on a MacBook's battery, including capacity, cycle count, and health."
+  },
+  {
+   "name": "BatteryMon",
+   "summary": "BatteryMon is a free Windows tool that displays detailed information about a laptop's battery, including capacity, voltage, and temperature."
+  },
+  {
+   "name": "HWiNFO",
+   "summary": "HWiNFO is a free Windows system monitoring tool that includes a battery health check feature."
+  },
+  {
+   "name": "Netflix",
+   "summary": "The user streams movies on Netflix and noticed improved streaming quality after upgrading their internet speed to 500 Mbps about three weeks prior to 2023-05-25."
+  },
+  {
+   "name": "Google Chrome",
+   "summary": "Google Chrome is recommended as a battery-saving browser due to its built-in power-saving features."
+  },
+  {
+   "name": "Western Digital My Passport",
+   "summary": "Western Digital My Passport is a popular, compact, and affordable external HDD option with capacities up to 5TB."
+  },
+  {
+   "name": "Seagate Backup Plus",
+   "summary": "Seagate Backup Plus is a reliable and portable external HDD option with capacities up to 5TB."
+  },
+  {
+   "name": "Samsung T5 Portable SSD",
+   "summary": "Samsung T5 Portable SSD is a fast and compact external SSD option with capacities up to 2TB."
+  },
+  {
+   "name": "LaCie Rugged",
+   "summary": "LaCie Rugged is a durable and water-resistant external HDD option with capacities up to 5TB, ideal for those needing a rugged drive."
+  },
+  {
+   "name": "G-Technology G-Drive",
+   "summary": "G-Technology G-Drive is a high-performance external HDD option with capacities up to 10TB, designed for creative professionals."
+  },
+  {
+   "name": "Google Drive",
+   "summary": "Google Drive is a cloud storage service with 15GB of free storage and paid plans starting at $1.99/month."
+  },
+  {
+   "name": "Microsoft OneDrive",
+   "summary": "Microsoft OneDrive is a cloud storage service with 5GB of free storage and paid plans starting at $1.99/month."
+  },
+  {
+   "name": "Dropbox",
+   "summary": "Dropbox is a cloud storage service with 2GB of free storage and paid plans starting at $11.99/month."
+  },
+  {
+   "name": "the user's Western Digital 2TB external hard drive",
+   "summary": "The user already owns a Western Digital 2TB external hard drive that has been working great, used to back up important files, photos, and videos."
+  }
+ ]
+}

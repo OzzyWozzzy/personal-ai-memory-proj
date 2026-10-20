@@ -1,0 +1,103 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "rustic Italian bread",
+   "target_entity_name": "whole wheat baguette",
+   "relation_type": "CONSIDERED_SAME_FLOUR_AS",
+   "fact": "The user is considering using the same flour that was used to make the whole wheat baguette for the rustic Italian bread recipe.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "rustic Italian bread",
+   "target_entity_name": "vital wheat gluten",
+   "relation_type": "RECOMMENDED_ADDITIVE",
+   "fact": "If whole wheat flour is used for the rustic Italian bread, adding a small amount of vital wheat gluten is recommended to help strengthen the dough and improve the crust.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "rustic Italian bread",
+   "target_entity_name": "biga",
+   "relation_type": "CAN_USE_PREFERMENT",
+   "fact": "For the rustic Italian bread recipe, a biga can be used as a preferment to add complexity to the dough and extend the fermentation time.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "rustic Italian bread",
+   "target_entity_name": "poolish",
+   "relation_type": "CAN_USE_PREFERMENT",
+   "fact": "For the rustic Italian bread recipe, a poolish can be used as a preferment to add complexity to the dough and extend the fermentation time.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "biga",
+   "target_entity_name": "the user's sourdough starter",
+   "relation_type": "MADE_WITH",
+   "fact": "A biga is a type of Italian preferment made with flour, water, and a small amount of the user's sourdough starter, allowed to ferment for about 12-14 hours.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "poolish",
+   "target_entity_name": "the user's sourdough starter",
+   "relation_type": "MADE_WITH",
+   "fact": "A poolish is a type of French preferment made with flour, water, and a small amount of the user's sourdough starter, allowed to ferment for about 18-24 hours.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "rustic Italian bread",
+   "target_entity_name": "the user's sourdough starter",
+   "relation_type": "FERMENTED_WITH",
+   "fact": "The user plans to use a slower rise with their sourdough starter, instead of commercial yeast, to create a preferment for the rustic Italian bread recipe.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "rustic Italian bread",
+   "target_entity_name": "Maldon salt",
+   "relation_type": "RECOMMENDED_SALT",
+   "fact": "For a slower rise on the rustic Italian bread recipe, using a coarser, flakier salt like Maldon salt is recommended to help control yeast growth.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "rustic Italian bread",
+   "target_entity_name": "kosher salt",
+   "relation_type": "RECOMMENDED_SALT",
+   "fact": "For a slower rise on the rustic Italian bread recipe, using a coarser, flakier salt like kosher salt is recommended to help control yeast growth.",
+   "valid_at": "2023-05-25T04:27:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

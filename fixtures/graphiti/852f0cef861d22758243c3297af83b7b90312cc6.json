@@ -1,0 +1,84 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "the user's peace lily",
+   "duplicate_candidate_id": 0
+  },
+  {
+   "id": 1,
+   "name": "Snake Plant",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "the user's succulent",
+   "duplicate_candidate_id": 1
+  },
+  {
+   "id": 3,
+   "name": "Orchid",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "the user's fern",
+   "duplicate_candidate_id": 2
+  },
+  {
+   "id": 5,
+   "name": "Spider Plant",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Miracle-Gro Indoor Plant Food (20-20-20)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Espoma Organic Indoor Plant Fertilizer (2-2-2)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Schultz All Purpose Plant Food (20-20-20)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Miracle-Gro Cactus, Palm & Citrus Food (10-20-10)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Espoma Organic Cactus! Fertilizer (5-2-6)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Schultz Cactus and Succulent Food (10-20-10)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Miracle-Gro Orchid Food (30-10-10)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Espoma Organic Orchid! Fertilizer (15-30-15)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "Schultz Orchid Food (20-20-20)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "Deneve Minimal Aroma Humidifier",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

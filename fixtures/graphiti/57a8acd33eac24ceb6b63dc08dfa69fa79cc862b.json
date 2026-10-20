@@ -1,0 +1,290 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Daikanyama",
+   "target_entity_name": "Tokyo",
+   "relation_type": "LOCATED_IN",
+   "fact": "Daikanyama is a neighborhood in Tokyo where the user found a great coffee shop.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Minato Mirai 21",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Minato Mirai 21 is a futuristic district in Yokohama with a stunning harbor view.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Landmark Tower",
+   "target_entity_name": "Minato Mirai 21",
+   "relation_type": "LOCATED_IN",
+   "fact": "Landmark Tower, which offers panoramic views of the city from its observation deck, is located within Minato Mirai 21.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yokohama Chinatown",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yokohama Chinatown, one of the largest Chinatowns in the world with over 500 shops and restaurants, is located in Yokohama.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yokohama Red Brick Warehouse",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yokohama Red Brick Warehouse is a historic warehouse complex converted into a shopping and dining destination in Yokohama.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yamashita Park",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yamashita Park is a scenic waterfront park in Yokohama with views of the harbor.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sankeien Garden",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Sankeien Garden is a Japanese garden in Yokohama that is especially beautiful during autumn with maple trees turning red and orange.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cup Noodles Museum",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Cup Noodles Museum, dedicated to the history of instant ramen, is located in Yokohama.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yokohama Museum of Art",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yokohama Museum of Art is a modern art museum in Yokohama featuring Japanese and international art.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Meiji Shrine",
+   "target_entity_name": "Harajuku",
+   "relation_type": "LOCATED_IN",
+   "fact": "Meiji Shrine is a serene shrine located in the midst of bustling Harajuku.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kawai Shrine",
+   "target_entity_name": "Harajuku",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kawai Shrine is a smaller, lesser-known shrine located in a quiet alleyway in Harajuku.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cat Street",
+   "target_entity_name": "Harajuku",
+   "relation_type": "LOCATED_IN",
+   "fact": "Cat Street is a trendy, lesser-known shopping street in Harajuku.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Takenoko Dori",
+   "target_entity_name": "Harajuku",
+   "relation_type": "LOCATED_IN",
+   "fact": "Takenoko Dori is a trendy, lesser-known shopping street in Harajuku.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kawai Shrine's Lucky Bell",
+   "target_entity_name": "Kawai Shrine",
+   "relation_type": "PART_OF",
+   "fact": "Kawai Shrine's Lucky Bell is a unique feature of Kawai Shrine that, according to legend, grants a wish when rung.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kanemasa",
+   "target_entity_name": "kanimeshi",
+   "relation_type": "SERVES",
+   "fact": "Kanemasa has served high-quality kanimeshi (crab rice bowl) for over 30 years, with crab that is always fresh and flavorful.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kanemasa",
+   "target_entity_name": "Yokohama Chinatown",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kanemasa is a well-known restaurant located in Yokohama Chinatown.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tsukiji Itadori Uogashi Nihon-Ichi",
+   "target_entity_name": "namashirasu",
+   "relation_type": "SERVES",
+   "fact": "Tsukiji Itadori Uogashi Nihon-Ichi is a sushi restaurant known for its fresh, seasonal namashirasu (raw sardine sushi), which often sells out quickly.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tsukiji Itadori Uogashi Nihon-Ichi",
+   "target_entity_name": "Yokohama Fish Market",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Tsukiji Itadori Uogashi Nihon-Ichi is a sushi restaurant located near the Yokohama Fish Market.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yokohama Fish Market",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yokohama Fish Market has food stalls offering a variety of fresh seafood, including kanimeshi and namashirasu, at reasonable prices in Yokohama.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yokohama Central Market",
+   "target_entity_name": "Yokohama Fish Market",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Yokohama Central Market is a bustling marketplace located near the Yokohama Fish Market.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yokohama Central Market",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yokohama Central Market has many food stalls and restaurants serving fresh seafood such as sushi, sashimi, and grilled fish, and sells souvenirs and local goods, in Yokohama.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yokohama Oktoberfest",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yokohama Oktoberfest is a German-style beer festival with food, drinks, and live music, taking place in Yokohama from mid-October to early November.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yokohama Autumn Leaves Festival",
+   "target_entity_name": "Yokohama",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yokohama Autumn Leaves Festival (Yokohama Koyo Matsuri) features autumn foliage, food stalls, and traditional Japanese performances, usually taking place in Yokohama in late November.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maple Leaf Tunnel",
+   "target_entity_name": "Minato Mirai 21",
+   "relation_type": "LOCATED_IN",
+   "fact": "Maple Leaf Tunnel is a 100-meter-long tunnel lined with maple trees illuminated in red, orange, and yellow, part of the autumn illuminations at Minato Mirai 21.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Harvest Moon Garden",
+   "target_entity_name": "Minato Mirai 21",
+   "relation_type": "LOCATED_IN",
+   "fact": "Harvest Moon Garden is a beautifully lit garden featuring a large, glowing moon and autumn flowers, part of the autumn illuminations at Minato Mirai 21.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cosmo World",
+   "target_entity_name": "Minato Mirai 21",
+   "relation_type": "LOCATED_IN",
+   "fact": "Cosmo World is an amusement park located within Minato Mirai 21, featuring a light show and projection mapping on the Ferris wheel during autumn illuminations.",
+   "valid_at": "2023-10-15T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Simple Dill Pickle Recipe",
+   "target_entity_name": "lacto-fermentation",
+   "relation_type": "USES",
+   "fact": "The Simple Dill Pickle Recipe uses a traditional lacto-fermentation method, making it easy to prepare with minimal equipment.",
+   "valid_at": "2023-05-23T00:55:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Simple Dill Pickle Recipe",
+   "target_entity_name": "kosher salt",
+   "relation_type": "USES",
+   "fact": "The Simple Dill Pickle Recipe calls for 1/4 cup of kosher salt as an ingredient in the brine.",
+   "valid_at": "2023-05-23T00:55:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "lacto-fermentation",
+   "target_entity_name": "Lactobacillus plantarum",
+   "relation_type": "INVOLVES",
+   "fact": "Lacto-fermentation of pickles occurs when natural bacteria on the cucumbers, like Lactobacillus plantarum, feed on the sugars present in the cucumbers and produce lactic acid.",
+   "valid_at": "2023-05-23T00:55:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "kosher salt",
+   "target_entity_name": "lacto-fermentation",
+   "relation_type": "USED_IN",
+   "fact": "Kosher salt plays a crucial role in lacto-fermentation by inhibiting unwanted microorganisms, providing a source of nutrients for beneficial bacteria, and enhancing flavor.",
+   "valid_at": "2023-05-23T00:55:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

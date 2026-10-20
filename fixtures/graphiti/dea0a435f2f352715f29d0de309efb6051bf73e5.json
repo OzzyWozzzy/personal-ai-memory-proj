@@ -1,0 +1,345 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Synchronicity: An Acausal Connecting Principle",
+   "target_entity_name": "Carl Jung",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Synchronicity: An Acausal Connecting Principle\" was written by Carl Jung, exploring synchronicity as an acausal, non-local connection between events.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Synchronicity Key: The Hidden Intelligence Guiding the Universe and You",
+   "target_entity_name": "David Wilcock",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Synchronicity Key: The Hidden Intelligence Guiding the Universe and You\" was written by David Wilcock.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Field of Synchronicity",
+   "target_entity_name": "Trish MacGregor",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Field of Synchronicity\" was written by Trish MacGregor.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Tibetan Book of the Dead",
+   "target_entity_name": "Evans-Wentz",
+   "relation_type": "TRANSLATED_BY",
+   "fact": "\"The Tibetan Book of the Dead\" was translated by Evans-Wentz.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Miracle of Mindfulness",
+   "target_entity_name": "Thich Nhat Hanh",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Miracle of Mindfulness\" was written by the Buddhist monk and peace activist Thich Nhat Hanh.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Power of Now",
+   "target_entity_name": "Eckhart Tolle",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Power of Now\" was written by Eckhart Tolle.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Spontaneous Fulfillment of Desire",
+   "target_entity_name": "Deepak Chopra",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Spontaneous Fulfillment of Desire\" was written by Deepak Chopra.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Synchrodestiny",
+   "target_entity_name": "Deepak Chopra",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Synchrodestiny\" was written by Deepak Chopra.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Celestine Prophecy",
+   "target_entity_name": "James Redfield",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Celestine Prophecy\" was written by James Redfield.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fingerprints of the Gods",
+   "target_entity_name": "Graham Hancock",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Fingerprints of the Gods\" was written by journalist and author Graham Hancock.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Supernatural",
+   "target_entity_name": "Graham Hancock",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Supernatural\" was written by Graham Hancock.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bell's Theorem",
+   "target_entity_name": "John Bell",
+   "relation_type": "PROVEN_BY",
+   "fact": "Bell's Theorem was proved by physicist John Bell in 1964, showing that entanglement implies non-locality.",
+   "valid_at": "1964-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Orchestrated Objective Reduction (Orch-OR) Theory",
+   "target_entity_name": "Roger Penrose",
+   "relation_type": "PROPOSED_BY",
+   "fact": "The Orchestrated Objective Reduction (Orch-OR) Theory was proposed by neuroscientist Roger Penrose along with Stuart Hameroff.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Orchestrated Objective Reduction (Orch-OR) Theory",
+   "target_entity_name": "Stuart Hameroff",
+   "relation_type": "PROPOSED_BY",
+   "fact": "The Orchestrated Objective Reduction (Orch-OR) Theory was proposed by anesthesiologist Stuart Hameroff along with Roger Penrose.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics",
+   "target_entity_name": "Roger Penrose",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics\" was written by mathematician and physicist Roger Penrose, introducing the Orch-OR theory.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Shadows of the Mind: A Search for the Missing Science of Consciousness",
+   "target_entity_name": "Roger Penrose",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Shadows of the Mind: A Search for the Missing Science of Consciousness\" was written by Roger Penrose, providing a deeper exploration of the Orch-OR theory.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Consciousness and the Universe: Quantum Physics, Evolution, and the Nature of Reality",
+   "target_entity_name": "Roger Penrose",
+   "relation_type": "EDITED_BY",
+   "fact": "\"Consciousness and the Universe: Quantum Physics, Evolution, and the Nature of Reality\" was edited by Roger Penrose, Stuart Hameroff, and Deepak Chopra.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Consciousness and the Universe: Quantum Physics, Evolution, and the Nature of Reality",
+   "target_entity_name": "Stuart Hameroff",
+   "relation_type": "EDITED_BY",
+   "fact": "\"Consciousness and the Universe: Quantum Physics, Evolution, and the Nature of Reality\" was edited by Roger Penrose, Stuart Hameroff, and Deepak Chopra.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Consciousness and the Universe: Quantum Physics, Evolution, and the Nature of Reality",
+   "target_entity_name": "Deepak Chopra",
+   "relation_type": "EDITED_BY",
+   "fact": "\"Consciousness and the Universe: Quantum Physics, Evolution, and the Nature of Reality\" was edited by Roger Penrose, Stuart Hameroff, and Deepak Chopra.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Orchestrated Objective Reduction (Orch-OR) Theory of Consciousness",
+   "target_entity_name": "Stuart Hameroff",
+   "relation_type": "AUTHORED_BY",
+   "fact": "The seminal 1996 paper \"Orchestrated Objective Reduction (Orch-OR) Theory of Consciousness\" was written by Stuart Hameroff and Roger Penrose.",
+   "valid_at": "1996-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Orchestrated Objective Reduction (Orch-OR) Theory of Consciousness",
+   "target_entity_name": "Roger Penrose",
+   "relation_type": "AUTHORED_BY",
+   "fact": "The seminal 1996 paper \"Orchestrated Objective Reduction (Orch-OR) Theory of Consciousness\" was written by Stuart Hameroff and Roger Penrose.",
+   "valid_at": "1996-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Quantum Computation in Microtubules: The Penrose-Hameroff 'Orch-OR' Model",
+   "target_entity_name": "Stuart Hameroff",
+   "relation_type": "AUTHORED_BY",
+   "fact": "The 2014 paper \"Quantum Computation in Microtubules: The Penrose-Hameroff 'Orch-OR' Model\" was written by Stuart Hameroff and Roger Penrose.",
+   "valid_at": "2014-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Quantum Computation in Microtubules: The Penrose-Hameroff 'Orch-OR' Model",
+   "target_entity_name": "Roger Penrose",
+   "relation_type": "AUTHORED_BY",
+   "fact": "The 2014 paper \"Quantum Computation in Microtubules: The Penrose-Hameroff 'Orch-OR' Model\" was written by Stuart Hameroff and Roger Penrose.",
+   "valid_at": "2014-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Global Consciousness Project",
+   "target_entity_name": "Roger D. Nelson",
+   "relation_type": "LED_BY",
+   "fact": "The Global Consciousness Project is an ongoing study led by psychologist Roger D. Nelson, monitoring global consciousness and synchronistic events since 1998.",
+   "valid_at": "1998-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Global Consciousness Project: A Study of Collective Consciousness",
+   "target_entity_name": "Roger D. Nelson",
+   "relation_type": "AUTHORED_BY",
+   "fact": "The 2015 paper \"The Global Consciousness Project: A Study of Collective Consciousness\" was written by Roger D. Nelson.",
+   "valid_at": "2015-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "FieldREG II: Consciousness, Quantum Mechanics, and the Global Consciousness Project",
+   "target_entity_name": "Roger D. Nelson",
+   "relation_type": "AUTHORED_BY",
+   "fact": "The 2018 paper \"FieldREG II: Consciousness, Quantum Mechanics, and the Global Consciousness Project\" was written by Roger D. Nelson.",
+   "valid_at": "2018-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Princeton Engineering Anomalies Research (PEAR) Lab",
+   "target_entity_name": "Robert Jahn",
+   "relation_type": "FOUNDED_BY",
+   "fact": "The Princeton Engineering Anomalies Research (PEAR) Lab was founded by physicist Robert Jahn.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Quantum Activist",
+   "target_entity_name": "Stuart Hameroff",
+   "relation_type": "FEATURES",
+   "fact": "The 2015 documentary \"The Quantum Activist\" features Stuart Hameroff, exploring the connections between quantum mechanics, consciousness, and the Orch-OR theory.",
+   "valid_at": "2015-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Nature of Consciousness",
+   "target_entity_name": "Roger Penrose",
+   "relation_type": "FEATURES",
+   "fact": "The 2017 documentary \"The Nature of Consciousness\" features Roger Penrose, exploring the mysteries of consciousness including the Orch-OR theory.",
+   "valid_at": "2017-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Global Consciousness Project: A Conversation with Roger Nelson",
+   "target_entity_name": "Roger D. Nelson",
+   "relation_type": "FEATURES",
+   "fact": "The 2018 video \"The Global Consciousness Project: A Conversation with Roger Nelson\" features an in-depth interview with Roger D. Nelson discussing the project's findings.",
+   "valid_at": "2018-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Global Consciousness Project: A Conversation with Roger Nelson",
+   "target_entity_name": "The Global Consciousness Project",
+   "relation_type": "ABOUT",
+   "fact": "The 2018 video \"The Global Consciousness Project: A Conversation with Roger Nelson\" discusses the Global Consciousness Project's findings and implications.",
+   "valid_at": "2018-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

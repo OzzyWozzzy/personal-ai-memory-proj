@@ -1,0 +1,169 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Codecademy",
+   "target_entity_name": "HTML",
+   "relation_type": "TEACHES",
+   "fact": "Codecademy is a resource for learning HTML through interactive lessons and projects perfect for beginners.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Codecademy",
+   "target_entity_name": "CSS",
+   "relation_type": "TEACHES",
+   "fact": "Codecademy is a resource for learning CSS through interactive lessons and projects perfect for beginners.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Codecademy",
+   "target_entity_name": "JavaScript",
+   "relation_type": "TEACHES",
+   "fact": "Codecademy is a resource for learning JavaScript through interactive lessons and projects perfect for beginners.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "FreeCodeCamp",
+   "target_entity_name": "HTML",
+   "relation_type": "TEACHES",
+   "fact": "FreeCodeCamp's front-end development curriculum includes HTML.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "FreeCodeCamp",
+   "target_entity_name": "CSS",
+   "relation_type": "TEACHES",
+   "fact": "FreeCodeCamp's front-end development curriculum includes CSS.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "FreeCodeCamp",
+   "target_entity_name": "JavaScript",
+   "relation_type": "TEACHES",
+   "fact": "FreeCodeCamp's front-end development curriculum includes JavaScript.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "FreeCodeCamp",
+   "target_entity_name": "React",
+   "relation_type": "TEACHES",
+   "fact": "FreeCodeCamp's front-end development curriculum includes React.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "NodeSchool",
+   "target_entity_name": "Node.js",
+   "relation_type": "TEACHES",
+   "fact": "NodeSchool is a community-driven project offering workshops and interactive courses on Node.js, a popular back-end technology.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Udacity",
+   "target_entity_name": "Python",
+   "relation_type": "TEACHES",
+   "fact": "Udacity offers back-end development courses on Python.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Udacity",
+   "target_entity_name": "SQL",
+   "relation_type": "TEACHES",
+   "fact": "Udacity offers back-end development courses on SQL.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Udacity",
+   "target_entity_name": "Flask",
+   "relation_type": "TEACHES",
+   "fact": "Udacity offers back-end development courses on the Flask web application framework.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Udacity",
+   "target_entity_name": "Django",
+   "relation_type": "TEACHES",
+   "fact": "Udacity offers back-end development courses on the Django web application framework.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coursera",
+   "target_entity_name": "Java",
+   "relation_type": "TEACHES",
+   "fact": "Coursera offers back-end development courses on Java.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coursera",
+   "target_entity_name": "Spring",
+   "relation_type": "TEACHES",
+   "fact": "Coursera offers back-end development courses on the Spring web application framework.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coursera",
+   "target_entity_name": "Hibernate",
+   "relation_type": "TEACHES",
+   "fact": "Coursera offers back-end development courses on the Hibernate web application framework.",
+   "valid_at": "2023-05-23T01:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

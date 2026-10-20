@@ -1,0 +1,323 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Zagg",
+   "target_entity_name": "InvisibleShield",
+   "relation_type": "HAS_PRODUCT_LINE",
+   "fact": "Zagg offers a range of screen protector options, including their popular InvisibleShield series.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tech21",
+   "target_entity_name": "Evo-Check technology",
+   "relation_type": "HAS_FEATURE",
+   "fact": "Tech21 wallet cases include advanced features like Evo-Check technology.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Qi",
+   "target_entity_name": "Wireless Power Consortium (WPC)",
+   "relation_type": "CERTIFIED_BY",
+   "fact": "Qi wireless charging power banks should be Qi-certified by the Wireless Power Consortium (WPC) to guarantee they meet safety and performance standards.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Zagg",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Zagg is recommended as a brand offering durable, scratch-resistant screen protectors for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "TechArmor",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "TechArmor is recommended as a brand offering high-definition, scratch- and drop-resistant screen protectors for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spigen",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Spigen is recommended as a brand offering tempered glass and film-based screen protectors, as well as wallet cases with card slots and cash storage, for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "BodyGuardz",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "BodyGuardz is recommended as a brand offering tempered glass and screen armor screen protectors for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Belkin",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Belkin is recommended as a brand offering screen protectors with anti-glare and fingerprint resistance for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Anker",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Anker is recommended as a brand offering affordable, high-quality tempered glass and film-based screen protectors, as well as high-capacity, fast-charging portable power banks, for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "OtterBox",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "OtterBox is recommended as a brand offering rugged, durable screen protectors and a wallet case with 3-4 card slots and a cash compartment for the iPhone 13 Pro, though the wallet case is bulkier and pricier than other options.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mophie",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Mophie is recommended as a brand offering premium screen protectors with anti-glare and smudge-resistance, wallet cases with wireless charging compatibility, and premium power banks with wireless charging for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UAG (Urban Armor Gear)",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "UAG (Urban Armor Gear) is recommended as a brand offering rugged, durable screen protectors and wallet cases for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Skinomi",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Skinomi is recommended as a brand offering tempered glass and film-based screen protectors focused on clarity and durability for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nomad",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Nomad is recommended as a brand offering premium leather wallet cases for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fossil",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Fossil is recommended as a brand offering fashionable wallet cases in leather and vegan leather for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bellroy",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Bellroy is recommended as a brand offering slim, stylish wallet cases with premium materials and craftsmanship for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Incipio",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Incipio is recommended as a brand offering wallet cases with RFID-blocking material and durable TPU construction for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Speck",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Speck is recommended as a brand offering high-quality wallet cases focused on protection, style, and functionality for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Case-Mate",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Case-Mate is recommended as a brand offering wallet cases with card slots, cash storage, and durable construction for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tech21",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Tech21 is recommended as a brand offering wallet cases with Evo-Check technology for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jackery",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Jackery is recommended as a brand offering high-capacity, compact, and affordable portable power banks for charging the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "EcoFlow",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "EcoFlow is recommended as a brand offering innovative power banks with fast charging and wireless charging for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Aukey",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Aukey is recommended as a brand offering affordable, high-capacity, fast-charging power banks for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Romoss",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Romoss is recommended as a brand offering high-capacity, compact, and affordable portable power banks for charging the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Xiaomi",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Xiaomi is recommended as a brand offering high-quality power banks with fast charging and high-capacity batteries for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "EC Technology",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "EC Technology is recommended as a brand offering high-capacity power banks with fast charging and wireless charging for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "RavPower",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "RavPower is recommended as a brand offering high-quality power banks with fast charging and high-capacity batteries for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Auromars",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Auromars is recommended as a brand offering high-quality power banks with fast charging and high-capacity batteries for the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Best Buy",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "SOLD_ACCESSORY_FOR",
+   "fact": "The user already has a portable power bank purchased from Best Buy that has been working well for charging the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T04:34:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

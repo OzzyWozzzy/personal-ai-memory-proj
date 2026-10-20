@@ -1,0 +1,29 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "the user's basil plant",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "the user's snake plant",
+   "duplicate_candidate_id": 5
+  },
+  {
+   "id": 2,
+   "name": "the user's sister",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "spider mites",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "springtails",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

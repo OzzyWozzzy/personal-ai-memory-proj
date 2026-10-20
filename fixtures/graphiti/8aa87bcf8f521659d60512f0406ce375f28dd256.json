@@ -1,0 +1,213 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Cook's Illustrated",
+   "target_entity_name": "America's Test Kitchen",
+   "relation_type": "AFFILIATED_WITH",
+   "fact": "Cook's Illustrated is a trusted cooking resource from the same team as America's Test Kitchen, focused on recipe development, cooking techniques, and product reviews",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "ChefSteps",
+   "target_entity_name": "Grant Achatz",
+   "relation_type": "FOUNDED_BY",
+   "fact": "ChefSteps is a cooking website founded by Grant Achatz, known for in-depth guides on advanced cooking techniques like sous vide and molecular gastronomy",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "r/Cooking",
+   "target_entity_name": "Reddit",
+   "relation_type": "PART_OF",
+   "fact": "r/Cooking is a large Reddit community with topics ranging from beginner questions to advanced cooking techniques",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "r/Recipes",
+   "target_entity_name": "Reddit",
+   "relation_type": "PART_OF",
+   "fact": "r/Recipes is a Reddit community for sharing and discovering new recipes and getting feedback on creations",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "r/Food",
+   "target_entity_name": "Reddit",
+   "relation_type": "PART_OF",
+   "fact": "r/Food is a Reddit community focused on food culture, trends, and discussions",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "r/CookingTechniques",
+   "target_entity_name": "Reddit",
+   "relation_type": "PART_OF",
+   "fact": "r/CookingTechniques is a Reddit subreddit dedicated to learning and mastering various cooking techniques",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Discord",
+   "target_entity_name": "r/Cooking",
+   "relation_type": "HOSTS_SERVER_FOR",
+   "fact": "The Cooking Subreddit's Discord Server is a chat platform for real-time discussions and cooking support",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Binging with Babish",
+   "target_entity_name": "Andrew Rea",
+   "relation_type": "CREATED_BY",
+   "fact": "Binging with Babish is a YouTube channel by Andrew Rea, a chef and filmmaker, focused on cooking techniques, recipe analysis, and food science",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Thomas Keller",
+   "target_entity_name": "The French Laundry",
+   "relation_type": "FOUNDED",
+   "fact": "Thomas Keller is the renowned chef behind The French Laundry",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Thomas Keller",
+   "target_entity_name": "Per Se",
+   "relation_type": "FOUNDED",
+   "fact": "Thomas Keller is the renowned chef behind Per Se",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tasty",
+   "target_entity_name": "BuzzFeed",
+   "relation_type": "PRODUCED_BY",
+   "fact": "Tasty is a popular YouTube channel from BuzzFeed featuring quick, easy, and delicious recipes, cooking challenges, and kitchen hacks",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Salt Bae",
+   "target_entity_name": "Nusret Gökçe",
+   "relation_type": "CREATED_BY",
+   "fact": "Salt Bae is a YouTube channel by Nusret Gökçe, a Turkish chef and restaurateur known for his precision and flair in the kitchen",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Laura in the Kitchen",
+   "target_entity_name": "Laura Vitale",
+   "relation_type": "CREATED_BY",
+   "fact": "Laura in the Kitchen is a YouTube channel where Laura Vitale shares her Italian-American cooking heritage through recipe videos, cooking challenges, and kitchen tips",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Pioneer Woman",
+   "target_entity_name": "Ree Drummond",
+   "relation_type": "CREATED_BY",
+   "fact": "The Pioneer Woman is a YouTube channel where Ree Drummond, a food blogger and cookbook author, shares her favorite recipes, cooking techniques, and kitchen essentials",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "It's Alive!",
+   "target_entity_name": "Brad Leone",
+   "relation_type": "CREATED_BY",
+   "fact": "It's Alive! is a YouTube channel by Brad Leone, a chef and food enthusiast, focused on fermentation, cooking techniques, and ingredient exploration",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Pasta Queen",
+   "target_entity_name": "Nadia Caterina Munno",
+   "relation_type": "CREATED_BY",
+   "fact": "The Pasta Queen is a YouTube channel by Nadia Caterina Munno, an Italian chef and food blogger, featuring pasta recipes and Italian desserts",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chinese Food Made Easy",
+   "target_entity_name": "Ching-He Huang",
+   "relation_type": "CREATED_BY",
+   "fact": "Chinese Food Made Easy is a YouTube channel by Ching-He Huang, a Taiwanese-British chef and food writer, featuring easy-to-follow Chinese recipes and cooking techniques",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Manjula's Kitchen",
+   "target_entity_name": "Manjula Jain",
+   "relation_type": "CREATED_BY",
+   "fact": "Manjula's Kitchen is a YouTube channel by Manjula Jain, an Indian chef and cookbook author, featuring traditional Indian recipes and cooking techniques",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bhavna's Kitchen",
+   "target_entity_name": "Bhavna Patel",
+   "relation_type": "CREATED_BY",
+   "fact": "Bhavna's Kitchen is a YouTube channel by Bhavna Patel, an Indian chef and food blogger, featuring traditional Indian recipes and cooking techniques",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "summaries": [
+  {
+   "name": "Johns Hopkins University",
+   "summary": "The user completed a Data Science specialization from Johns Hopkins University before pursuing further machine learning study."
+  },
+  {
+   "name": "Udacity",
+   "summary": "Udacity offers a \"YOLO for Autonomous Driving\" tutorial and an \"Autonomous Vehicle Object Detection using YOLO\" video, covering pedestrian, car, and traffic light detection."
+  },
+  {
+   "name": "Kaggle",
+   "summary": "Kaggle is a platform for participating in machine learning and computer vision competitions and practicing with real-world datasets."
+  },
+  {
+   "name": "TensorFlow",
+   "summary": "TensorFlow is a machine learning framework with built-in support for computer vision tasks, official tutorials, a TensorFlow Object Detection API, and a TensorFlow-based YOLO implementation used for autonomous vehicle and pedestrian object detection."
+  },
+  {
+   "name": "PyTorch",
+   "summary": "PyTorch is a machine learning framework with built-in support for computer vision tasks and official tutorials; PyTorchvision is its framework for computer vision tasks including object detection and segmentation."
+  },
+  {
+   "name": "Machine Learning Mastery",
+   "summary": "Machine Learning Mastery is a blog with practical ML/AI tutorials, including a YOLOv3 tutorial, and articles on using YOLO for autonomous vehicle and pedestrian detection."
+  },
+  {
+   "name": "AI Alignment",
+   "summary": "AI Alignment is a podcast exploring the latest developments in AI research."
+  },
+  {
+   "name": "Towards Data Science",
+   "summary": "Towards Data Science is a Medium publication featuring articles on machine learning, AI, and data science."
+  },
+  {
+   "name": "Machine Learning Subreddit",
+   "summary": "The Machine Learning Subreddit is an online community of machine learning enthusiasts, researchers, and practitioners."
+  },
+  {
+   "name": "PyImageSearch",
+   "summary": "PyImageSearch is a blog with in-depth computer vision tutorials using Python and OpenCV, including tutorials on YOLO, YOLOv3, SSD object detection, and Adrian Rosebrock's computer vision tutorials."
+  },
+  {
+   "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+   "summary": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) is a leading journal in computer vision and pattern recognition."
+  },
+  {
+   "name": "ImageNet",
+   "summary": "ImageNet is a large-scale image dataset used for object recognition and classification."
+  },
+  {
+   "name": "CIFAR-10",
+   "summary": "CIFAR-10 is a popular dataset used for image classification and object recognition."
+  },
+  {
+   "name": "Open Images Dataset",
+   "summary": "The Open Images Dataset is a large-scale dataset used for object detection and segmentation."
+  },
+  {
+   "name": "PASCAL VOC",
+   "summary": "PASCAL VOC is a dataset for object detection and segmentation containing 20 object classes."
+  },
+  {
+   "name": "COCO (Common Objects in Context)",
+   "summary": "COCO (Common Objects in Context) is a dataset for object detection, segmentation, and captioning containing 80 object classes."
+  },
+  {
+   "name": "KITTI Object Detection Benchmark",
+   "summary": "The KITTI Object Detection Benchmark is a dataset for object detection in autonomous driving scenarios, covering pedestrian, car, and traffic light detection."
+  },
+  {
+   "name": "Caltech Pedestrian Dataset",
+   "summary": "The Caltech Pedestrian Dataset is used for pedestrian detection in autonomous driving scenarios."
+  },
+  {
+   "name": "Cityscapes Dataset",
+   "summary": "The Cityscapes Dataset is used for semantic segmentation and object detection in urban scenarios, including pedestrian detection."
+  },
+  {
+   "name": "Argoverse Dataset",
+   "summary": "The Argoverse Dataset is used for object detection and tracking in autonomous driving scenarios."
+  },
+  {
+   "name": "OpenCV",
+   "summary": "OpenCV is a computer vision library with Python, C++, and Java interfaces, with built-in support for object detection and segmentation; used in the PyYOLO implementation and pedestrian detection tutorials."
+  },
+  {
+   "name": "Keras",
+   "summary": "Keras is a deep learning framework with built-in support for computer vision tasks, used in the Keras-YOLO implementation."
+  },
+  {
+   "name": "TensorFlow Object Detection API",
+   "summary": "The TensorFlow Object Detection API is a TensorFlow-based framework for object detection and segmentation."
+  },
+  {
+   "name": "PyTorchvision",
+   "summary": "PyTorchvision is a PyTorch-based framework for computer vision tasks, including object detection and segmentation."
+  },
+  {
+   "name": "Keras Applications",
+   "summary": "Keras Applications is a Keras-based framework for computer vision tasks, including object detection and segmentation."
+  },
+  {
+   "name": "SSD (Single Shot Detector)",
+   "summary": "SSD (Single Shot Detector) is a fast and accurate object detection system, described in its original research paper."
+  },
+  {
+   "name": "Faster R-CNN",
+   "summary": "Faster R-CNN is a fast and accurate object detection system, described in its original research paper."
+  },
+  {
+   "name": "3Blue1Brown",
+   "summary": "3Blue1Brown is a YouTube channel with a video explaining the basics of YOLO."
+  },
+  {
+   "name": "Sentdex",
+   "summary": "Sentdex is a YouTube channel with a video tutorial on implementing YOLO using Python and OpenCV."
+  },
+  {
+   "name": "Stanford CS231n",
+   "summary": "Stanford CS231n is a Stanford course featuring lectures on object detection using YOLO, including applications to autonomous vehicles and pedestrian detection."
+  }
+ ]
+}

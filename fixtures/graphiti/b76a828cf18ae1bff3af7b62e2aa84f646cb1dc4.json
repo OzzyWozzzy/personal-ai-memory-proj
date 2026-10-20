@@ -1,0 +1,136 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "MileagePlus",
+   "target_entity_name": "United Airlines",
+   "relation_type": "PART_OF",
+   "fact": "MileagePlus is United Airlines' loyalty program, allowing members to earn and redeem miles for flights, upgrades, and other rewards",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "United Polaris",
+   "target_entity_name": "United Airlines",
+   "relation_type": "PART_OF",
+   "fact": "United Polaris is United Airlines' business class premium cabin",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Premium Plus",
+   "target_entity_name": "United Airlines",
+   "relation_type": "PART_OF",
+   "fact": "Premium Plus is a premium cabin offered by United Airlines that can be reached via upgrade awards",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Economy Plus",
+   "target_entity_name": "United Airlines",
+   "relation_type": "PART_OF",
+   "fact": "Economy Plus is United Airlines' premium economy product offering up to 5 inches more legroom, wider seats, and priority boarding for an extra $20-$100 per segment",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "United Airlines",
+   "target_entity_name": "Star Alliance",
+   "relation_type": "MEMBER_OF",
+   "fact": "United Airlines is a member of the Star Alliance",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Star Alliance Gold",
+   "target_entity_name": "Star Alliance",
+   "relation_type": "PART_OF",
+   "fact": "Star Alliance Gold is a status tier granted to United Airlines Platinum members, along with access to United Polaris lounges",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Premier Silver",
+   "target_entity_name": "MileagePlus",
+   "relation_type": "PART_OF",
+   "fact": "Premier Silver is a MileagePlus status tier requiring 25,000 PQMs or 30 PQSs, offering priority check-in, security, boarding, and one free checked bag",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Premier Gold",
+   "target_entity_name": "MileagePlus",
+   "relation_type": "PART_OF",
+   "fact": "Premier Gold is a MileagePlus status tier requiring 50,000 PQMs or 60 PQSs, offering two free checked bags, priority baggage handling, and Economy Plus access at check-in",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Premier Platinum",
+   "target_entity_name": "MileagePlus",
+   "relation_type": "PART_OF",
+   "fact": "Premier Platinum is a MileagePlus status tier requiring 75,000 PQMs or 90 PQSs, offering United Polaris lounge access, Star Alliance Gold status, and higher upgrade priority",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Premier 1K",
+   "target_entity_name": "MileagePlus",
+   "relation_type": "PART_OF",
+   "fact": "Premier 1K is the top MileagePlus status tier requiring 100,000 PQMs or 120 PQSs, offering personalized service, dedicated check-in/security lines, and the highest upgrade priority",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "United Airlines",
+   "target_entity_name": "Chicago",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "The user took a business trip to Chicago with United Airlines in March, flying out on the 10th and returning on the 12th, with two flights each way",
+   "valid_at": "2023-03-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "United Airlines",
+   "target_entity_name": "Las Vegas",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "The user is considering flying to Las Vegas soon with United Airlines and possibly bringing a surfboard",
+   "valid_at": "2023-04-27T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

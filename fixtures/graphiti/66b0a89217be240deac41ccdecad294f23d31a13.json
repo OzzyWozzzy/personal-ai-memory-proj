@@ -1,0 +1,119 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Atlanta",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "American Airlines AAdvantage",
+   "duplicate_candidate_id": 6
+  },
+  {
+   "id": 2,
+   "name": "LATAM",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Air France",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "KLM",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Virgin Atlantic",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Citi AAdvantage Executive credit card",
+   "duplicate_candidate_id": 7
+  },
+  {
+   "id": 7,
+   "name": "British Airways",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Cathay Pacific",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Qantas",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Chase Ultimate Rewards",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Amex Membership Rewards",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Chase Sapphire Preferred",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Chase Sapphire Reserve",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "Amex Platinum",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "Citi Premier",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 16,
+   "name": "Capital One Venture",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 17,
+   "name": "United MileagePlus",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 18,
+   "name": "Google Flights",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 19,
+   "name": "Marriott",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 20,
+   "name": "Hyatt",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 21,
+   "name": "SkyTeam",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 22,
+   "name": "Star Alliance",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

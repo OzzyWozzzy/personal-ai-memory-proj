@@ -1,0 +1,257 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "St. Joseph River",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "FLOWS_INTO",
+   "fact": "The St. Joseph River (Michigan) flows into Lake Michigan and is a trout-fishing hotspot due to structural features like drop-offs, weed beds, and gravel bars.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grand River",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "FLOWS_INTO",
+   "fact": "The Grand River (Michigan) flows into Lake Michigan and is a trout-fishing hotspot due to structural features like drop-offs, weed beds, and gravel bars.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Milwaukee River",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "FLOWS_INTO",
+   "fact": "The Milwaukee River (Wisconsin) flows into Lake Michigan and is a trout-fishing hotspot due to structural features like drop-offs, weed beds, and gravel bars.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chicago Light Shipwreck",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Chicago Light Shipwreck is an underwater structure in Lake Michigan that provides habitat for trout and other species.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gary Reef",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Gary Reef (Indiana) is an underwater structure in Lake Michigan that provides habitat for trout and other species.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Saugatuck Reef",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Saugatuck Reef (Michigan) is an underwater structure in Lake Michigan that provides habitat for trout and other species.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Navy Pier",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Chicago's Navy Pier on Lake Michigan is a spot where trout often seek shelter, especially during strong winds or cold fronts.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "McKinley Marina",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Milwaukee's McKinley Marina on Lake Michigan is a spot where trout often seek shelter, especially during strong winds or cold fronts.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "St. Joseph's Harbor",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "LOCATED_IN",
+   "fact": "St. Joseph's Harbor (Michigan) on Lake Michigan is a spot where trout often seek shelter, especially during strong winds or cold fronts.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Big Horn River",
+   "target_entity_name": "Montana",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Big Horn River is a must-fish fly fishing destination in Montana.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Madison River",
+   "target_entity_name": "Montana",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Madison River is a must-fish fly fishing destination in Montana.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Missouri River",
+   "target_entity_name": "Montana",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Missouri River is a must-fish fly fishing destination in Montana.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Arkansas River",
+   "target_entity_name": "Colorado",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Arkansas River is a popular fly fishing destination in Colorado, known as an excellent example of a tailwater fishery.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Blue River",
+   "target_entity_name": "Colorado",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Blue River is a popular fly fishing destination in Colorado, known as an excellent example of a tailwater fishery.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "South Platte River",
+   "target_entity_name": "Colorado",
+   "relation_type": "LOCATED_IN",
+   "fact": "The South Platte River is a popular fly fishing destination in Colorado.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rapala Spinners",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Rapala Spinners (e.g., the Original Floater or Deep Tail Dancer, in silver or gold finishes with a slow to medium retrieve) are recommended for trout fishing in Lake Michigan.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mepps Aglia",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Mepps Aglia spinners (sizes 1/16 to 1/4 oz, in silver, gold, or copper) are recommended for trout fishing in Lake Michigan.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Blue Fox Vibrax",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Blue Fox Vibrax spinners (size 1 or 2, in silver, gold, or chartreuse) are recommended for trout fishing in Lake Michigan.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rooster Tail",
+   "target_entity_name": "Lake Michigan",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Rooster Tail spinners (sizes 1/16 to 1/4 oz, in white, silver, or gold) are recommended for trout fishing in Lake Michigan.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fly Tyer's Bible",
+   "target_entity_name": "Peter C. Whitlock",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Fly Tyer's Bible,\" a guide covering the basics, tools, materials, and techniques for tying over 300 flies, was written by Peter C. Whitlock.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fly Tying for Beginners",
+   "target_entity_name": "Mike Lawson",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Fly Tying for Beginners,\" a step-by-step guide covering essential tools, materials, and techniques, was written by Mike Lawson.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Orvis Fly Tying Guide",
+   "target_entity_name": "Tom Rosenbauer",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Orvis Fly Tying Guide,\" featuring over 300 fly patterns with clear instructions and photos, was written by Tom Rosenbauer.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fly Tier's Companion",
+   "target_entity_name": "Darrell Martin",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Fly Tier's Companion,\" a detailed guide covering advanced techniques, materials, and patterns for tying over 200 flies, was written by Darrell Martin.",
+   "valid_at": "2023-05-20T12:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

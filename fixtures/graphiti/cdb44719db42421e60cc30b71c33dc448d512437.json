@@ -1,0 +1,18 @@
+{
+ "extracted_entities": [
+  {
+   "name": "The Library of Babel",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Jorge Luis Borges",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

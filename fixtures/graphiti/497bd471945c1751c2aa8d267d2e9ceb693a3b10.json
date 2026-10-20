@@ -1,0 +1,34 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "United Airlines",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "MileagePlus",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Premium Plus",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Chicago",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Las Vegas",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Economy Plus",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

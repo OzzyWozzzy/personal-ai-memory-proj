@@ -1,0 +1,125 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Korg B1",
+   "target_entity_name": "Korg",
+   "relation_type": "MADE_BY",
+   "fact": "The Korg B1 is a $499 digital piano by Korg with weighted hammer action keys, built-in lessons, and recording capabilities",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Korg Grandstage",
+   "target_entity_name": "Korg",
+   "relation_type": "MADE_BY",
+   "fact": "The Korg Grandstage is a $799 stage piano by Korg with weighted keys, a wide range of piano, synth, and organ sounds, and recording capabilities",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Korg D1",
+   "target_entity_name": "Korg",
+   "relation_type": "MADE_BY",
+   "fact": "The Korg D1 is a $699 compact digital piano by Korg with weighted keys, a focus on piano sounds, and recording capabilities",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Roland FP-10",
+   "target_entity_name": "Roland",
+   "relation_type": "MADE_BY",
+   "fact": "The Roland FP-10 is a $799 digital piano by Roland with weighted keys, a wide sound range, and recording capabilities",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Roland FP-30",
+   "target_entity_name": "Roland",
+   "relation_type": "MADE_BY",
+   "fact": "The Roland FP-30 is a $999 digital piano by Roland with weighted keys, an extensive sound library including synths and organs, and recording capabilities",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Roland GO:KEYS",
+   "target_entity_name": "Roland",
+   "relation_type": "MADE_BY",
+   "fact": "The Roland GO:KEYS is a $499 compact keyboard by Roland with weighted keys and a focus on synth sounds",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Joe",
+   "target_entity_name": "Guitar Central",
+   "relation_type": "WORKS_AT",
+   "fact": "Joe is a guitar tech who works at Guitar Central",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Taylor GS Mini",
+   "target_entity_name": "Joe",
+   "relation_type": "TO_BE_SERVICED_BY",
+   "fact": "The user plans to take their Taylor GS Mini, which has high action causing left-hand discomfort, to guitar tech Joe by the end of the month for servicing",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hohner Special 20",
+   "target_entity_name": "eBay",
+   "relation_type": "LISTED_ON",
+   "fact": "The user is considering selling their Hohner Special 20 harmonica, which has been unused and collecting dust, on eBay",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hohner Special 20",
+   "target_entity_name": "Reverb",
+   "relation_type": "PRICE_RESEARCHED_ON",
+   "fact": "The user is advised to check Reverb for prices of similar used Hohner Special 20 harmonicas before setting a price",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hohner Special 20",
+   "target_entity_name": "Amazon",
+   "relation_type": "PRICE_RESEARCHED_ON",
+   "fact": "The user is advised to check Amazon for prices of similar used and new Hohner Special 20 harmonicas before setting a price",
+   "valid_at": "2023-02-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

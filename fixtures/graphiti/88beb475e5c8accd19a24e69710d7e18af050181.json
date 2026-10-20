@@ -1,0 +1,16 @@
+{
+ "summaries": [
+  {
+   "name": "Slack",
+   "summary": "Slack is suggested as a platform to create or join informal chat groups with colleagues for non-work-related conversations while working remotely."
+  },
+  {
+   "name": "Microsoft Teams",
+   "summary": "Microsoft Teams is suggested as a platform to create or join informal chat groups with colleagues for non-work-related conversations while working remotely."
+  },
+  {
+   "name": "Zoom",
+   "summary": "Zoom is suggested as the video conferencing platform to use for scheduling a weekly virtual coffee break with a remote team."
+  }
+ ]
+}

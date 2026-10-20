@@ -1,0 +1,224 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "the user's road bike",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "RIDDEN_IN",
+   "fact": "The user is planning a 50-mile ride on their road bike this weekend in the San Francisco Bay Area.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Golden Gate Bridge",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Golden Gate Bridge to Sausalito cycling route is a recommended route in the San Francisco Bay Area.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Golden Gate Bridge",
+   "target_entity_name": "Sausalito",
+   "relation_type": "CONNECTS_TO",
+   "fact": "A scenic cycling route runs from the Golden Gate Bridge to Sausalito, with views of Alcatraz and the Marin Headlands along the way.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Golden Gate Bridge",
+   "target_entity_name": "Alcatraz",
+   "relation_type": "OFFERS_VIEW_OF",
+   "fact": "The Golden Gate Bridge to Sausalito cycling route offers stunning views of Alcatraz.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Golden Gate Bridge",
+   "target_entity_name": "Marin Headlands",
+   "relation_type": "OFFERS_VIEW_OF",
+   "fact": "The Golden Gate Bridge to Sausalito cycling route offers stunning views of the Marin Headlands.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dumbarton Bridge",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "The 30-mile Dumbarton Bridge Loop is a recommended cycling route in the San Francisco Bay Area.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dumbarton Bridge",
+   "target_entity_name": "Fremont",
+   "relation_type": "ROUTE_PASSES_THROUGH",
+   "fact": "The 30-mile Dumbarton Bridge Loop cycling route crosses the Dumbarton Bridge and passes through the town of Fremont.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dumbarton Bridge",
+   "target_entity_name": "Newark",
+   "relation_type": "ROUTE_PASSES_THROUGH",
+   "fact": "The 30-mile Dumbarton Bridge Loop cycling route crosses the Dumbarton Bridge and passes through the town of Newark.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fremont",
+   "target_entity_name": "East Bay",
+   "relation_type": "LOCATED_IN",
+   "fact": "Fremont is one of the scenic towns in the East Bay that the Dumbarton Bridge Loop cycling route passes through.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Newark",
+   "target_entity_name": "East Bay",
+   "relation_type": "LOCATED_IN",
+   "fact": "Newark is one of the scenic towns in the East Bay that the Dumbarton Bridge Loop cycling route passes through.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "East Bay",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "The East Bay, through which the Dumbarton Bridge Loop cycling route passes, is part of the San Francisco Bay Area.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "San Mateo County Coast",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "The San Mateo County Coast is a scenic coastal cycling route recommended in the San Francisco Bay Area.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "San Mateo County Coast",
+   "target_entity_name": "Half Moon Bay",
+   "relation_type": "ROUTE_PASSES_THROUGH",
+   "fact": "The San Mateo County Coast cycling route takes riders through Half Moon Bay, with stunning ocean views and rolling hills.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "San Mateo County Coast",
+   "target_entity_name": "Pescadero",
+   "relation_type": "ROUTE_PASSES_THROUGH",
+   "fact": "The San Mateo County Coast cycling route takes riders through Pescadero, with stunning ocean views and rolling hills.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "San Mateo County Coast",
+   "target_entity_name": "Santa Cruz",
+   "relation_type": "ROUTE_PASSES_THROUGH",
+   "fact": "The San Mateo County Coast cycling route takes riders through Santa Cruz, with stunning ocean views and rolling hills.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mount Tamalpais",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Mount Tamalpais is a challenging cycling climb in the San Francisco Bay Area with breathtaking views of the Bay Area.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Berkeley Hills",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Berkeley Hills offer a scenic cycling loop in the San Francisco Bay Area with great views of the Bay and surrounding landscape.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's road bike",
+   "target_entity_name": "carbon fiber wheels",
+   "relation_type": "CONSIDERING_UPGRADE_TO",
+   "fact": "The user is considering upgrading their road bike's wheels to carbon fiber wheels, having already done 2,000 miles on the current wheels, and plans to research further and weigh their budget before deciding.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's road bike",
+   "target_entity_name": "the user's mountain bike",
+   "relation_type": "OWNED_ALONGSIDE",
+   "fact": "The user owns their road bike alongside a mountain bike, which they use for trail rides, as part of a collection of three bikes.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's road bike",
+   "target_entity_name": "the user's commuter bike",
+   "relation_type": "OWNED_ALONGSIDE",
+   "fact": "The user owns their road bike alongside a commuter bike, which they use for daily commutes, as part of a collection of three bikes.",
+   "valid_at": "2023-02-22T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

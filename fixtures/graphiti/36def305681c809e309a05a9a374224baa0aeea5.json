@@ -1,0 +1,59 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Teva",
+   "duplicate_candidate_id": 0
+  },
+  {
+   "id": 1,
+   "name": "REI (Recreational Equipment Inc.)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "DSW (Designer Shoe Warehouse)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Amazon",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Google Reviews",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Shoe Service Institute of America (SSIA)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "National Shoe Repair Association (NSRA)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Cobbler Concierge",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Shoe Spa",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Heel to Toe",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Strava",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

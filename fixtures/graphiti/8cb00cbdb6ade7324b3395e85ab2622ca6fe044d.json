@@ -1,0 +1,25 @@
+{
+ "extracted_entities": [
+  {
+   "name": "Alternative Therapies in Health and Medicine",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "International Journal of Psychophysiology",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "Music and Medicine",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

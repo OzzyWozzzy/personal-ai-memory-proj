@@ -1,0 +1,69 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Cucumber Lime Refresher",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Watermelon Basil Margarita",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Jalapeño Pineapple Spritz",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Grapefruit Ginger Fizz",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Cantaloupe Agua Fresca",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Spicy Mango Mule",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Watermelon Puree",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Basil Syrup",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Tequila Sunrise",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Tequila Sour",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Cucumber Collins",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Tequila Spritz",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Blood Orange Margarita",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

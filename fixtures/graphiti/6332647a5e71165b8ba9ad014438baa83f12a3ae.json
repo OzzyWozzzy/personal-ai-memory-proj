@@ -1,0 +1,224 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Snake Plant",
+   "target_entity_name": "Miracle-Gro Indoor Plant Food (20-20-20)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Miracle-Gro Indoor Plant Food (20-20-20) is a recommended fertilizer option for the Snake Plant.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Snake Plant",
+   "target_entity_name": "Espoma Organic Indoor Plant Fertilizer (2-2-2)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Espoma Organic Indoor Plant Fertilizer (2-2-2) is a recommended fertilizer option for the Snake Plant.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Snake Plant",
+   "target_entity_name": "Schultz All Purpose Plant Food (20-20-20)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Schultz All Purpose Plant Food (20-20-20) is a recommended fertilizer option for the Snake Plant.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Succulent",
+   "target_entity_name": "Miracle-Gro Cactus, Palm & Citrus Food (10-20-10)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Miracle-Gro Cactus, Palm & Citrus Food (10-20-10) is a recommended fertilizer option for Succulents.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Succulent",
+   "target_entity_name": "Espoma Organic Cactus! Fertilizer (5-2-6)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Espoma Organic Cactus! Fertilizer (5-2-6) is a recommended fertilizer option for Succulents.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Succulent",
+   "target_entity_name": "Schultz Cactus and Succulent Food (10-20-10)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Schultz Cactus and Succulent Food (10-20-10) is a recommended fertilizer option for Succulents.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Orchid",
+   "target_entity_name": "Miracle-Gro Orchid Food (30-10-10)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Miracle-Gro Orchid Food (30-10-10) is a recommended fertilizer option for the Orchid.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Orchid",
+   "target_entity_name": "Espoma Organic Orchid! Fertilizer (15-30-15)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Espoma Organic Orchid! Fertilizer (15-30-15) is a recommended fertilizer option for the Orchid.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Orchid",
+   "target_entity_name": "Schultz Orchid Food (20-20-20)",
+   "relation_type": "RECOMMENDED_FERTILIZER",
+   "fact": "Schultz Orchid Food (20-20-20) is a recommended fertilizer option for the Orchid.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fern",
+   "target_entity_name": "Levoit LV600HH Hybrid Humidifier",
+   "relation_type": "RECOMMENDED_HUMIDIFIER",
+   "fact": "The Levoit LV600HH Hybrid Humidifier, which offers cool and warm mist settings, an adjustable humidistat, and a 6-liter tank, is recommended for the Fern.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fern",
+   "target_entity_name": "Honeywell HUL520W Mistmate Humidifier",
+   "relation_type": "RECOMMENDED_HUMIDIFIER",
+   "fact": "The Honeywell HUL520W Mistmate Humidifier, a compact humidifier with a 1-liter tank, is recommended for the Fern.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fern",
+   "target_entity_name": "Deneve Minimal Aroma Humidifier",
+   "relation_type": "RECOMMENDED_HUMIDIFIER",
+   "fact": "The Deneve Minimal Aroma Humidifier, an ultrasonic humidifier with a 2.5-liter tank and a built-in humidistat, is recommended for the Fern.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fern",
+   "target_entity_name": "Crane Drop Ultrasonic Cool Mist Humidifier",
+   "relation_type": "RECOMMENDED_HUMIDIFIER",
+   "fact": "The Crane Drop Ultrasonic Cool Mist Humidifier, a compact humidifier with a 1-liter tank known for whisper-quiet operation, is recommended for the Fern.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "African Violet",
+   "target_entity_name": "Honeywell HUL520W Mistmate Humidifier",
+   "relation_type": "RECOMMENDED_HUMIDIFIER",
+   "fact": "The Honeywell HUL520W Mistmate Humidifier, with a 1-liter tank suitable for small spaces, is recommended for African Violets.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "African Violet",
+   "target_entity_name": "Crane Drop Ultrasonic Cool Mist Humidifier",
+   "relation_type": "RECOMMENDED_HUMIDIFIER",
+   "fact": "The Crane Drop Ultrasonic Cool Mist Humidifier, a compact humidifier with a 1-liter tank and whisper-quiet operation, is recommended for African Violets.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "African Violet",
+   "target_entity_name": "Deneve Minimal Aroma Humidifier",
+   "relation_type": "RECOMMENDED_HUMIDIFIER",
+   "fact": "The Deneve Minimal Aroma Humidifier, a sleek ultrasonic humidifier with a 2.5-liter tank that is easy to clean, is recommended for African Violets.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spider Plant",
+   "target_entity_name": "Miracle-Gro Indoor Potting Mix",
+   "relation_type": "RECOMMENDED_POTTING_MIX",
+   "fact": "Miracle-Gro Indoor Potting Mix, a well-balanced general-purpose potting mix, is recommended for the Spider Plant.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spider Plant",
+   "target_entity_name": "Black Kow All Purpose Potting Mix",
+   "relation_type": "RECOMMENDED_POTTING_MIX",
+   "fact": "Black Kow All Purpose Potting Mix, a high-quality organic potting mix with peat moss, compost, and perlite, is recommended for the Spider Plant.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spider Plant",
+   "target_entity_name": "E.B. Stone Organics Potting Mix",
+   "relation_type": "RECOMMENDED_POTTING_MIX",
+   "fact": "E.B. Stone Organics Potting Mix, a nutrient-rich eco-friendly blend of compost, peat moss, and perlite, is recommended for the Spider Plant.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spider Plant",
+   "target_entity_name": "Pro-Mix All Purpose Potting Mix",
+   "relation_type": "RECOMMENDED_POTTING_MIX",
+   "fact": "Pro-Mix All Purpose Potting Mix, a professional-grade blend of peat moss, vermiculite, and perlite, is recommended for the Spider Plant.",
+   "valid_at": "2023-05-21T17:14:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

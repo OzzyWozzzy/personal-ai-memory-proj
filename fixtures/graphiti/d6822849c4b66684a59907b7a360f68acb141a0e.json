@@ -1,0 +1,28 @@
+{
+ "summaries": [
+  {
+   "name": "Atlanta",
+   "summary": "Destination of a round-trip flight from Boston that the user took on 2023/01/15, earning 10,000 Delta SkyMiles."
+  },
+  {
+   "name": "Amex Membership Rewards",
+   "summary": "A transferable points program, similar to Chase Ultimate Rewards, that can be transferred to multiple airline loyalty programs."
+  },
+  {
+   "name": "Amex Platinum",
+   "summary": "Offers 5X points on airline flights booked directly with airlines or through Amex Travel, and a $200 airline fee credit."
+  },
+  {
+   "name": "Citi Premier",
+   "summary": "Earns points on travel purchases at a 3X points rate, with points transferable to multiple airline partners."
+  },
+  {
+   "name": "Capital One Venture",
+   "summary": "A rewards program earning 2X miles on all purchases, redeemable for travel purchases with no blackout dates or restrictions."
+  },
+  {
+   "name": "Hilton Honors",
+   "summary": "A hotel loyalty program covering a wide range of properties with a flexible points redemption system."
+  }
+ ]
+}

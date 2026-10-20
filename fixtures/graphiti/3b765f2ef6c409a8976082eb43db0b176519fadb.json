@@ -1,0 +1,543 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Kauai",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kauai is a destination in Hawaii being visited for a birthday trip",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kalalau Trail",
+   "target_entity_name": "Na Pali Coast",
+   "relation_type": "LOCATED_ALONG",
+   "fact": "The Kalalau Trail is a challenging 22-mile trail along the Na Pali Coast",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kalalau Trail",
+   "target_entity_name": "Hanakapi'ai Beach",
+   "relation_type": "LEADS_TO",
+   "fact": "A day hike option on the Kalalau Trail goes to Hanakapi'ai Beach, 4 miles round trip",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Waimea Canyon Trail",
+   "target_entity_name": "Waimea Canyon",
+   "relation_type": "OFFERS_VIEWS_OF",
+   "fact": "The 11-mile out-and-back Waimea Canyon Trail offers breathtaking views of Waimea Canyon, often called the Grand Canyon of the Pacific",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sleeping Giant Trail",
+   "target_entity_name": "Wailua",
+   "relation_type": "LOCATED_IN",
+   "fact": "The 3.6-mile out-and-back Sleeping Giant Trail is located in Wailua",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sleeping Giant Trail",
+   "target_entity_name": "Wailua River",
+   "relation_type": "OFFERS_VIEWS_OF",
+   "fact": "The Sleeping Giant Trail offers panoramic views of the Wailua River and surrounding landscape",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Awaawapuhi Trail",
+   "target_entity_name": "Koke'e State Park",
+   "relation_type": "LOCATED_IN",
+   "fact": "The 6.2-mile out-and-back Awaawapuhi Trail is located in Koke'e State Park",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Awaawapuhi Trail",
+   "target_entity_name": "Na Pali Coast",
+   "relation_type": "OFFERS_VIEWS_OF",
+   "fact": "The Awaawapuhi Trail offers stunning views of the Na Pali Coast",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Awaawapuhi Trail",
+   "target_entity_name": "Alaka'i Swamp",
+   "relation_type": "OFFERS_VIEWS_OF",
+   "fact": "The Awaawapuhi Trail offers stunning views of the Alaka'i Swamp",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "'Opaeka'a Falls Trail",
+   "target_entity_name": "'Opaeka'a Falls",
+   "relation_type": "LEADS_TO",
+   "fact": "The 1.5-mile out-and-back 'Opaeka'a Falls Trail leads to a scenic lookout point with views of the 150-foot 'Opaeka'a Falls",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kukui Trail",
+   "target_entity_name": "Waimea Canyon",
+   "relation_type": "OFFERS_VIEWS_OF",
+   "fact": "The 2.5-mile out-and-back Kukui Trail offers views of Waimea Canyon and the surrounding landscape",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fern Grotto",
+   "target_entity_name": "Wailua River",
+   "relation_type": "LOCATED_ALONG",
+   "fact": "The Fern Grotto is a natural amphitheater accessible via a short walk or kayak trip up the Wailua River",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "'Opaeka'a Falls",
+   "target_entity_name": "Wailua",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "The 150-foot 'Opaeka'a Falls is located near Wailua",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Uluwehi Falls",
+   "target_entity_name": "Wailua River State Park",
+   "relation_type": "LOCATED_IN",
+   "fact": "The 100-foot Uluwehi Falls (Secret Falls) is located in Wailua River State Park",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Waipuna Falls",
+   "target_entity_name": "Kilauea",
+   "relation_type": "LOCATED_IN",
+   "fact": "The 20-foot Waipuna Falls is located in the Kilauea area",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kuilau Ridge Trail",
+   "target_entity_name": "Kilauea",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Kuilau Ridge Trail, approximately 4 miles round trip, is located in the Kilauea area",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "'Iliau Nature Loop Trail",
+   "target_entity_name": "Waimea Canyon",
+   "relation_type": "LOCATED_IN",
+   "fact": "The 3-mile 'Iliau Nature Loop Trail is located in the Waimea Canyon area",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mark's Place",
+   "target_entity_name": "Lihue",
+   "relation_type": "LOCATED_IN",
+   "fact": "Mark's Place, a local institution serving traditional Hawaiian dishes, is located in Lihue",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mark's Place",
+   "target_entity_name": "Laulau",
+   "relation_type": "SERVES",
+   "fact": "Mark's Place serves laulau as part of its combo plate",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mark's Place",
+   "target_entity_name": "Kalua Pig",
+   "relation_type": "SERVES",
+   "fact": "Mark's Place serves kalua pig as part of its combo plate",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mark's Place",
+   "target_entity_name": "Poi",
+   "relation_type": "SERVES",
+   "fact": "Mark's Place serves poi as part of its combo plate",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kintaro",
+   "target_entity_name": "Lihue",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kintaro, a Japanese-Hawaiian fusion eatery serving authentic cuisine for over 30 years, is located in Lihue",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kintaro",
+   "target_entity_name": "Laulau",
+   "relation_type": "SERVES",
+   "fact": "Kintaro's laulau is a must-try dish",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kintaro",
+   "target_entity_name": "Kalua Pig",
+   "relation_type": "SERVES",
+   "fact": "Kintaro's kalua pig is a must-try dish",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hanalei Gourmet",
+   "target_entity_name": "Hanalei",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hanalei Gourmet, a casual family-owned restaurant, is located in Hanalei",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hanalei Gourmet",
+   "target_entity_name": "Laulau",
+   "relation_type": "SERVES",
+   "fact": "Hanalei Gourmet offers laulau among its local flavors",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hanalei Gourmet",
+   "target_entity_name": "Kalua Pig",
+   "relation_type": "SERVES",
+   "fact": "Hanalei Gourmet offers kalua pig among its local flavors",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bar Acuda",
+   "target_entity_name": "Hanalei",
+   "relation_type": "LOCATED_IN",
+   "fact": "Bar Acuda, a trendy tapas bar with farm-to-table dishes, is located in Hanalei",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bar Acuda",
+   "target_entity_name": "Laulau",
+   "relation_type": "SERVES",
+   "fact": "Bar Acuda serves laulau sliders",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bar Acuda",
+   "target_entity_name": "Kalua Pig",
+   "relation_type": "SERVES",
+   "fact": "Bar Acuda serves kalua pig tacos",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kalaheo Café",
+   "target_entity_name": "Kalaheo",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kalaheo Café, a cozy breakfast and lunch spot, is located in Kalaheo",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kalaheo Café",
+   "target_entity_name": "Laulau",
+   "relation_type": "SERVES",
+   "fact": "Kalaheo Café serves laulau omelets",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kalaheo Café",
+   "target_entity_name": "Kalua Pig",
+   "relation_type": "SERVES",
+   "fact": "Kalaheo Café serves kalua pig hash",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Eating House 1849",
+   "target_entity_name": "Kapaa",
+   "relation_type": "LOCATED_IN",
+   "fact": "Eating House 1849, a modern Hawaiian restaurant known for its Sunday brunch, is located in Kapaa",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Eating House 1849",
+   "target_entity_name": "Laulau",
+   "relation_type": "SERVES",
+   "fact": "Eating House 1849 offers a contemporary take on laulau",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Eating House 1849",
+   "target_entity_name": "Kalua Pig",
+   "relation_type": "SERVES",
+   "fact": "Eating House 1849 offers a contemporary take on kalua pig",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fish Hopper",
+   "target_entity_name": "Kapaa",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Fish Hopper, a seafood-focused restaurant, is located in Kapaa",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fish Hopper",
+   "target_entity_name": "Laulau",
+   "relation_type": "SERVES",
+   "fact": "The Fish Hopper serves laulau alongside fresh locally caught fish",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fish Hopper",
+   "target_entity_name": "Kalua Pig",
+   "relation_type": "SERVES",
+   "fact": "The Fish Hopper serves kalua pig alongside fresh locally caught fish",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Anini Beach",
+   "target_entity_name": "Kauai",
+   "relation_type": "LOCATED_IN",
+   "fact": "Anini Beach is located on the north shore of Kauai and is a sheltered spot with a high concentration of sea turtles",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Poipu Beach",
+   "target_entity_name": "Kauai",
+   "relation_type": "LOCATED_IN",
+   "fact": "Poipu Beach is a family-friendly beach on the south shore of Kauai known for sea turtle and monk seal sightings",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Koloa Landing",
+   "target_entity_name": "Poipu Beach",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Koloa Landing, a snorkeling spot known for sea turtle and fish sightings, is located near Poipu Beach",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kekaha Beach",
+   "target_entity_name": "Kauai",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kekaha Beach is located on the west coast of Kauai and is a known spot for monk seal sightings",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Polihale State Park",
+   "target_entity_name": "Kauai",
+   "relation_type": "LOCATED_IN",
+   "fact": "Polihale State Park is a scenic park on the west coast of Kauai home to a large monk seal population",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Na Pali Coast Tours",
+   "target_entity_name": "Kauai",
+   "relation_type": "OPERATES_IN",
+   "fact": "Na Pali Coast Tours has been operating on Kauai for over 30 years, offering daily snorkeling tours to the Na Pali Coast",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Na Pali Coast Tours",
+   "target_entity_name": "Na Pali Coast",
+   "relation_type": "OPERATES_TOURS_TO",
+   "fact": "Na Pali Coast Tours offers daily snorkeling tours to the Na Pali Coast using a fleet of comfortable boats",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kauai Sea Rider",
+   "target_entity_name": "Na Pali Coast",
+   "relation_type": "OPERATES_TOURS_TO",
+   "fact": "Kauai Sea Rider offers snorkeling tours to the Na Pali Coast with boats designed for comfort and stability",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Island Adventures Kauai",
+   "target_entity_name": "Na Pali Coast",
+   "relation_type": "OPERATES_TOURS_TO",
+   "fact": "Island Adventures Kauai offers snorkeling tours to the Na Pali Coast with smaller group sizes for a personalized experience",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kauai Snorkeling Tours",
+   "target_entity_name": "Na Pali Coast",
+   "relation_type": "OPERATES_TOURS_TO",
+   "fact": "Kauai Snorkeling Tours offers snorkeling tours to the Na Pali Coast as well as other snorkeling spots around the island",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

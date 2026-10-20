@@ -1,0 +1,697 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Planet Earth",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Planet Earth, a BBC series similar to Our Planet showcasing stunning natural history footage, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Blue Planet",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Blue Planet, which explores the marine world with David Attenborough, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Blue Planet",
+   "target_entity_name": "David Attenborough",
+   "relation_type": "NARRATED_BY",
+   "fact": "Blue Planet explores the marine world with narration by David Attenborough.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "March of the Penguins",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "March of the Penguins, a heartwarming documentary about Emperor Penguins in Antarctica, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "March of the Penguins",
+   "target_entity_name": "Antarctica",
+   "relation_type": "SET_IN",
+   "fact": "March of the Penguins is a documentary about Emperor Penguins set in Antarctica.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dynasties",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Dynasties (2018), which follows five iconic animal families including chimpanzees, lions, wolves, tigers, and emperor penguins, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dynasties",
+   "target_entity_name": "David Attenborough",
+   "relation_type": "NARRATED_BY",
+   "fact": "Dynasties (2018) is narrated by David Attenborough, whose soothing voice and insightful commentary add depth to the footage.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chasing Coral",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Chasing Coral (2017), a visually stunning documentary about the decline of coral reefs, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Last Lions",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Last Lions, a gripping documentary about the decline of lions in Africa, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Cave",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Cave, a harrowing documentary about a group of women who risk their lives to save others in war-torn Syria, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Cave",
+   "target_entity_name": "Syria",
+   "relation_type": "SET_IN",
+   "fact": "The Cave is a documentary set in war-torn Syria, following a group of women who risk their lives to save others.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The River Runs Red",
+   "target_entity_name": "Amazon Prime",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The River Runs Red, which explores the Amazon River and its inhabitants with explorer Mike Horn, is available on Amazon Prime.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The River Runs Red",
+   "target_entity_name": "Mike Horn",
+   "relation_type": "FEATURES",
+   "fact": "The River Runs Red features explorer Mike Horn exploring the Amazon River and its inhabitants.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The River Runs Red",
+   "target_entity_name": "Amazon River",
+   "relation_type": "SET_IN",
+   "fact": "The River Runs Red explores the Amazon River and its inhabitants.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Expedition Unknown",
+   "target_entity_name": "Discovery+",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Expedition Unknown, hosted by Josh Gates, who embarks on thrilling adventures to uncover hidden secrets and mysteries, is available on Discovery+.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Expedition Unknown",
+   "target_entity_name": "Josh Gates",
+   "relation_type": "HOSTED_BY",
+   "fact": "Expedition Unknown is hosted by Josh Gates, who embarks on thrilling adventures to uncover hidden secrets and mysteries.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Running Wild with Bear Grylls",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Running Wild with Bear Grylls, in which the survivalist takes celebrities on wild adventures in the great outdoors, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Running Wild with Bear Grylls",
+   "target_entity_name": "Bear Grylls",
+   "relation_type": "HOSTED_BY",
+   "fact": "Running Wild with Bear Grylls features survivalist Bear Grylls taking celebrities on wild adventures in the great outdoors.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Keepers",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Keepers, a true-crime series investigating a nun's murder in Baltimore, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Keepers",
+   "target_entity_name": "Baltimore",
+   "relation_type": "SET_IN",
+   "fact": "The Keepers is a true-crime series investigating a nun's murder in Baltimore.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Staircase",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Staircase, a classic true-crime documentary series about a murder trial, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Jinx: The Life and Deaths of Robert Durst",
+   "target_entity_name": "HBO Max",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Jinx: The Life and Deaths of Robert Durst, about a real estate heir accused of multiple murders, is available on HBO Max.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Jinx: The Life and Deaths of Robert Durst",
+   "target_entity_name": "Robert Durst",
+   "relation_type": "FEATURES",
+   "fact": "The Jinx: The Life and Deaths of Robert Durst is about real estate heir Robert Durst, who was accused of multiple murders.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Abducted in Plain Sight",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Abducted in Plain Sight, a shocking true story of a family's dark secrets, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Inventor: Out for Blood in Silicon Valley",
+   "target_entity_name": "HBO Max",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Inventor: Out for Blood in Silicon Valley, about the rise and fall of biotech company Theranos, is available on HBO Max.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Inventor: Out for Blood in Silicon Valley",
+   "target_entity_name": "Silicon Valley",
+   "relation_type": "SET_IN",
+   "fact": "The Inventor: Out for Blood in Silicon Valley documents the rise and fall of biotech company Theranos in Silicon Valley.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fyre: The Greatest Party That Never Happened",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Fyre: The Greatest Party That Never Happened, about the infamous failed music festival, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Game Changers",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Game Changers, a documentary about the benefits of a plant-based diet, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Family I Had",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Family I Had, a heartwarming documentary about a woman who discovers her biological family, is available on Netflix.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Imposter",
+   "target_entity_name": "Amazon Prime",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Imposter, a true story about a young Frenchman who impersonated a missing Texas boy, is available on Amazon Prime.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Reef Magic Cruises",
+   "target_entity_name": "Great Barrier Reef",
+   "relation_type": "OPERATES_AT",
+   "fact": "Reef Magic Cruises offers reef-friendly tours and supports conservation efforts at the Great Barrier Reef.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Quicksilver Cruises",
+   "target_entity_name": "Great Barrier Reef",
+   "relation_type": "OPERATES_AT",
+   "fact": "Quicksilver Cruises offers reef-friendly tours and supports conservation efforts at the Great Barrier Reef.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Belize Barrier Reef",
+   "target_entity_name": "Belize",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Belize Barrier Reef, the largest barrier reef in the Northern Hemisphere and a UNESCO World Heritage Site, is located in Belize.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "ReefCI",
+   "target_entity_name": "Belize",
+   "relation_type": "OPERATES_IN",
+   "fact": "ReefCI offers sustainable snorkeling and diving trips to the reef, and reef conservation-supporting trips, in Belize.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Belize Tourism Board",
+   "target_entity_name": "Belize",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Belize Tourism Board offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Belize.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Soneva Fushi",
+   "target_entity_name": "Maldives",
+   "relation_type": "LOCATED_IN",
+   "fact": "Soneva Fushi is a resort in the Maldives that offers eco-friendly tourism experiences, including reef conservation programs and marine biology lectures.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cheval Blanc Randheli",
+   "target_entity_name": "Maldives",
+   "relation_type": "LOCATED_IN",
+   "fact": "Cheval Blanc Randheli is a resort in the Maldives that offers eco-friendly tourism experiences, including reef conservation programs and marine biology lectures.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bonaire Dive and Sail",
+   "target_entity_name": "Bonaire",
+   "relation_type": "OPERATES_IN",
+   "fact": "Bonaire Dive and Sail offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Bonaire.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bonaire Tourism Corporation",
+   "target_entity_name": "Bonaire",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Bonaire Tourism Corporation offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Bonaire.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Red Sea",
+   "target_entity_name": "Egypt",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Red Sea, home to some of the most pristine coral reefs in the world, is located in Egypt.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Emperor Divers",
+   "target_entity_name": "Red Sea",
+   "relation_type": "OPERATES_AT",
+   "fact": "Emperor Divers offers eco-friendly liveaboard diving trips to the reef in the Red Sea.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Egyptian Ministry of Tourism",
+   "target_entity_name": "Egypt",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Egyptian Ministry of Tourism offers eco-friendly tourism experiences, including liveaboard diving trips to the reef, in Egypt.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Palau Dive Adventures",
+   "target_entity_name": "Palau",
+   "relation_type": "OPERATES_IN",
+   "fact": "Palau Dive Adventures offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Palau.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Palau Tourism Authority",
+   "target_entity_name": "Palau",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Palau Tourism Authority offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Palau.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Galapagos Islands",
+   "target_entity_name": "Ecuador",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Galapagos Islands, home to an incredible array of marine life including coral reefs, are located in Ecuador.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Galapagos Naturalist Guides",
+   "target_entity_name": "Galapagos Islands",
+   "relation_type": "OPERATES_AT",
+   "fact": "Galapagos Naturalist Guides offers eco-friendly tourism experiences, including snorkeling and diving trips to the reef, at the Galapagos Islands.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Galapagos Conservancy",
+   "target_entity_name": "Galapagos Islands",
+   "relation_type": "OPERATES_AT",
+   "fact": "The Galapagos Conservancy offers eco-friendly tourism experiences, including snorkeling and diving trips to the reef, at the Galapagos Islands.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fiji Dive",
+   "target_entity_name": "Fiji",
+   "relation_type": "OPERATES_IN",
+   "fact": "Fiji Dive offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Fiji.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fiji Tourism Authority",
+   "target_entity_name": "Fiji",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Fiji Tourism Authority offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Fiji.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cayman Dive Lodge",
+   "target_entity_name": "Cayman Islands",
+   "relation_type": "OPERATES_IN",
+   "fact": "Cayman Dive Lodge offers eco-friendly tourism experiences, including snorkeling and diving trips to the reef, in the Cayman Islands.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cayman Islands Tourism Association",
+   "target_entity_name": "Cayman Islands",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Cayman Islands Tourism Association offers eco-friendly tourism experiences, including snorkeling and diving trips to the reef, in the Cayman Islands.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Similan Explorer",
+   "target_entity_name": "Thailand",
+   "relation_type": "OPERATES_IN",
+   "fact": "Similan Explorer offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Thailand.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tourism Authority of Thailand",
+   "target_entity_name": "Thailand",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Tourism Authority of Thailand offers sustainable tourism experiences, including snorkeling and diving trips to the reef, in Thailand.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Blue Hole",
+   "target_entity_name": "Belize Barrier Reef",
+   "relation_type": "PART_OF",
+   "fact": "The Blue Hole, a stunning underwater sinkhole and famous dive site, is part of the Belize Barrier Reef.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hamanasi Adventure and Dive Resort",
+   "target_entity_name": "Belize",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hamanasi Adventure and Dive Resort is a sustainable eco-lodge in Belize that supports local conservation efforts.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Victoria House Resort",
+   "target_entity_name": "Belize",
+   "relation_type": "LOCATED_IN",
+   "fact": "Victoria House Resort in Belize offers luxurious amenities while prioritizing environmental sustainability.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chabil Mar Resort",
+   "target_entity_name": "Belize",
+   "relation_type": "LOCATED_IN",
+   "fact": "Chabil Mar Resort in Belize offers luxurious amenities while prioritizing environmental sustainability.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Belize Wildlife Conservation Society",
+   "target_entity_name": "Belize",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Belize Wildlife Conservation Society works to protect and conserve Belize's wildlife, including marine species.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sea's the Day",
+   "target_entity_name": "Belize",
+   "relation_type": "OPERATES_IN",
+   "fact": "Sea's the Day offers eco-friendly tours and supports local conservation initiatives in Belize.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Belize Dive Haven",
+   "target_entity_name": "Belize",
+   "relation_type": "OPERATES_IN",
+   "fact": "Belize Dive Haven offers eco-friendly tours and supports local conservation initiatives in Belize.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hol Chan Marine Reserve",
+   "target_entity_name": "Belize",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Hol Chan Marine Reserve, a protected area home to an incredible array of marine life, is located in Belize.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bacalar Chico National Park",
+   "target_entity_name": "Belize Barrier Reef",
+   "relation_type": "PROTECTS",
+   "fact": "Bacalar Chico National Park protects the southern part of the Belize Barrier Reef.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Belize Eco-Tourism Association",
+   "target_entity_name": "Belize",
+   "relation_type": "OPERATES_IN",
+   "fact": "The Belize Eco-Tourism Association issues an \"Eco-Tourism Certification\" to qualifying tour operators and accommodations in Belize.",
+   "valid_at": "2023-05-21T18:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

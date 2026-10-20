@@ -1,0 +1,92 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Canon EF 35mm f/2 IS USM",
+   "target_entity_name": "Canon EOS Rebel",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Canon EF 35mm f/2 IS USM lens is compatible with the Canon EOS Rebel camera, and the user chose this $299 lens for street photography.",
+   "valid_at": "2023-05-26T16:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Canon EF 50mm f/1.8 STM",
+   "target_entity_name": "Canon EOS Rebel",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Canon EF 50mm f/1.8 STM lens, priced around $125 (often found for around $100), is compatible with the Canon EOS Rebel camera and recommended for portrait photography.",
+   "valid_at": "2023-05-26T16:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Canon EF-S 15-85mm f/3.5-5.6 IS USM",
+   "target_entity_name": "Canon EOS Rebel",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Canon EF-S 15-85mm f/3.5-5.6 IS USM lens, priced around $399, is compatible with the Canon EOS Rebel camera and recommended as a versatile zoom lens for street and portrait photography.",
+   "valid_at": "2023-05-26T16:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tamron 24-70mm f/2.8-4 Di VC USD",
+   "target_entity_name": "Canon EOS Rebel",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Tamron 24-70mm f/2.8-4 Di VC USD lens, priced around $299, is compatible with the Canon EOS Rebel camera and recommended for street photography.",
+   "valid_at": "2023-05-26T16:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yongnuo 35mm f/2",
+   "target_entity_name": "Canon EOS Rebel",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Yongnuo 35mm f/2 lens, priced around $150, is compatible with the Canon EOS Rebel camera and recommended as a budget-friendly alternative to the Canon EF 35mm f/2 IS USM.",
+   "valid_at": "2023-05-26T16:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tony & Chelsea Northrup",
+   "target_entity_name": "Lightroom",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Tony & Chelsea Northrup's YouTube channel is recommended as a resource for learning how to use Lightroom.",
+   "valid_at": "2023-05-26T16:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Peter McKinnon",
+   "target_entity_name": "Lightroom",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Peter McKinnon's YouTube channel is recommended as a resource for learning how to use Lightroom.",
+   "valid_at": "2023-05-26T16:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Phlearn",
+   "target_entity_name": "Lightroom",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Phlearn's YouTube channel is recommended as a resource for learning how to use Lightroom.",
+   "valid_at": "2023-05-26T16:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

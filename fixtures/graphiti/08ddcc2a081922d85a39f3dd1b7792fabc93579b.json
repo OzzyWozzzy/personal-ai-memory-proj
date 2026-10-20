@@ -1,0 +1,64 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Yamaha P-255",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Yamaha CP4",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Fender Mustang I V2",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Fender Deluxe Reverb",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Fender Hot Rod Deluxe IV",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Mesa Boogie Mark IV",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Orange Crush Pro CR120",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Fender Acoustic 40",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Fishman Loudbox Mini",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "AER Compact 60",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "MXR Dyna Comp",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Electro-Harmonix Nano Clone",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

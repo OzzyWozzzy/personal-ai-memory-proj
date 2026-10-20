@@ -1,0 +1,24 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "San Francisco Bay Area",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Purisima Creek Redwoods Open Space Preserve",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Edgewood Park and Natural Preserve",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Pulgas Ridge Open Space Preserve",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

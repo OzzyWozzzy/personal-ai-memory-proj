@@ -1,0 +1,158 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "API CO2 Booster",
+   "target_entity_name": "Amazon Swords",
+   "relation_type": "INSUFFICIENT_FERTILIZER_FOR",
+   "fact": "API CO2 Booster provides a CO2 boost but is not a comprehensive fertilizer for Amazon Swords.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "API CO2 Booster",
+   "target_entity_name": "Water Wisteria",
+   "relation_type": "INSUFFICIENT_FERTILIZER_FOR",
+   "fact": "API CO2 Booster provides a CO2 boost but is not a comprehensive fertilizer for Water Wisteria.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Seachem Flourish",
+   "target_entity_name": "Amazon Swords",
+   "relation_type": "RECOMMENDED_FERTILIZER_FOR",
+   "fact": "Seachem Flourish, a balanced fertilizer providing nitrogen, phosphorus, potassium, and micronutrients, is recommended for Amazon Swords.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Seachem Flourish",
+   "target_entity_name": "Water Wisteria",
+   "relation_type": "RECOMMENDED_FERTILIZER_FOR",
+   "fact": "Seachem Flourish, a balanced fertilizer providing nitrogen, phosphorus, potassium, and micronutrients, is recommended for Water Wisteria.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "API Aquarium Fertilizer",
+   "target_entity_name": "Amazon Swords",
+   "relation_type": "RECOMMENDED_FERTILIZER_FOR",
+   "fact": "API Aquarium Fertilizer, a balanced fertilizer with nitrogen, phosphorus, potassium, and micronutrients, is recommended for Amazon Swords.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "API Aquarium Fertilizer",
+   "target_entity_name": "Water Wisteria",
+   "relation_type": "RECOMMENDED_FERTILIZER_FOR",
+   "fact": "API Aquarium Fertilizer, a balanced fertilizer with nitrogen, phosphorus, potassium, and micronutrients, is recommended for Water Wisteria.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tropica Plant Nutrition",
+   "target_entity_name": "Amazon Swords",
+   "relation_type": "RECOMMENDED_FERTILIZER_FOR",
+   "fact": "Tropica Plant Nutrition, a premium balanced fertilizer with a broad spectrum of nutrients, is recommended for Amazon Swords.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tropica Plant Nutrition",
+   "target_entity_name": "Water Wisteria",
+   "relation_type": "RECOMMENDED_FERTILIZER_FOR",
+   "fact": "Tropica Plant Nutrition, a premium balanced fertilizer with a broad spectrum of nutrients, is recommended for Water Wisteria.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Seachem Iron",
+   "target_entity_name": "Amazon Swords",
+   "relation_type": "RECOMMENDED_IRON_SUPPLEMENT_FOR",
+   "fact": "Seachem Iron is a recommended iron-rich fertilizer for Amazon Swords.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Seachem Iron",
+   "target_entity_name": "Water Wisteria",
+   "relation_type": "RECOMMENDED_IRON_SUPPLEMENT_FOR",
+   "fact": "Seachem Iron is a recommended iron-rich fertilizer for Water Wisteria.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "API Iron Supplement",
+   "target_entity_name": "Amazon Swords",
+   "relation_type": "RECOMMENDED_IRON_SUPPLEMENT_FOR",
+   "fact": "API Iron Supplement is a recommended iron-rich fertilizer for Amazon Swords.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "API Iron Supplement",
+   "target_entity_name": "Water Wisteria",
+   "relation_type": "RECOMMENDED_IRON_SUPPLEMENT_FOR",
+   "fact": "API Iron Supplement is a recommended iron-rich fertilizer for Water Wisteria.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tropica Iron Fertilizer",
+   "target_entity_name": "Amazon Swords",
+   "relation_type": "RECOMMENDED_IRON_SUPPLEMENT_FOR",
+   "fact": "Tropica Iron Fertilizer is a recommended iron-rich fertilizer for Amazon Swords.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tropica Iron Fertilizer",
+   "target_entity_name": "Water Wisteria",
+   "relation_type": "RECOMMENDED_IRON_SUPPLEMENT_FOR",
+   "fact": "Tropica Iron Fertilizer is a recommended iron-rich fertilizer for Water Wisteria.",
+   "valid_at": "2023-05-23T15:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

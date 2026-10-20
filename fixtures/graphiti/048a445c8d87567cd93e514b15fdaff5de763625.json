@@ -1,0 +1,29 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Phlearn",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "WordPress",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Blogger",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Squarespace",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "GoDaddy",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

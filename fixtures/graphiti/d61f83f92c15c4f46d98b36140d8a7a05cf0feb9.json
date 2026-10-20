@@ -1,0 +1,74 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Boeing 737-800",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Boeing 777-200",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Airbus A321T",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Boeing 737 MAX",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Airbus A321",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Skytrax",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Consumer Reports",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Twitter",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Facebook",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "US Department of Transportation",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Allianz Global Assistance",
+   "duplicate_candidate_id": 33
+  },
+  {
+   "id": 11,
+   "name": "American Airlines app",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Baggage Delivery Guarantee",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Baggage Protection",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

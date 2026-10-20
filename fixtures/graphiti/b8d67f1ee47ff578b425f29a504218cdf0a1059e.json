@@ -1,0 +1,81 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Todoist",
+   "target_entity_name": "Eisenhower Matrix",
+   "relation_type": "USES_TECHNIQUE",
+   "fact": "Todoist tasks can be prioritized using the Eisenhower Matrix, labeling tasks as Urgent-Important, Important-Not Urgent, Urgent-Not Important, or Not Urgent-Not Important, focusing on the Urgent-Important quadrant first.",
+   "valid_at": "2023-05-22T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Todoist",
+   "target_entity_name": "Pomodoro Technique",
+   "relation_type": "USES_TECHNIQUE",
+   "fact": "The Pomodoro Technique (working on a single Todoist task for 25 minutes, then taking a 5-minute break, repeated) is recommended for focusing on one Todoist task at a time.",
+   "valid_at": "2023-05-22T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Down Dog",
+   "target_entity_name": "Foundations of Yoga",
+   "relation_type": "OFFERS_CLASS",
+   "fact": "Down Dog offers \"Foundations of Yoga,\" a 4-class series covering the basics of yoga, including breathing, alignment, and fundamental postures.",
+   "valid_at": "2023-05-22T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Down Dog",
+   "target_entity_name": "Gentle Yoga",
+   "relation_type": "OFFERS_CLASS",
+   "fact": "Down Dog offers \"Gentle Yoga,\" a 20-minute class focused on gentle stretches, relaxation, and breathing techniques.",
+   "valid_at": "2023-05-22T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Down Dog",
+   "target_entity_name": "Vinyasa Flow for Beginners",
+   "relation_type": "OFFERS_CLASS",
+   "fact": "Down Dog offers \"Vinyasa Flow for Beginners,\" a 30-minute class introducing the basics of Vinyasa Flow, including sun salutations and basic postures.",
+   "valid_at": "2023-05-22T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vinyasa Flow for Beginners",
+   "target_entity_name": "Vinyasa Flow",
+   "relation_type": "INTRODUCES_STYLE",
+   "fact": "The \"Vinyasa Flow for Beginners\" class introduces the basics of the Vinyasa Flow yoga style, including sun salutations and basic postures.",
+   "valid_at": "2023-05-22T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Microsoft To Do",
+   "target_entity_name": "Wunderlist",
+   "relation_type": "FORMERLY_KNOWN_AS",
+   "fact": "Microsoft To Do was formerly known as Wunderlist.",
+   "valid_at": "2023-05-22T07:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

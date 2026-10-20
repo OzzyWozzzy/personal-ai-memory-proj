@@ -1,0 +1,329 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Johns Hopkins University",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Pasadena City College (PCC)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "UCLA",
+   "duplicate_candidate_id": 7
+  },
+  {
+   "id": 3,
+   "name": "Andrew Ng's Machine Learning course",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Machine Learning by Stanford University",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Deep Learning Specialization",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Machine Learning with Python (DataCamp course)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Artificial Intelligence (AI) by Columbia University",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Columbia University",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "AI for Everyone",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Natural Language Processing with Deep Learning",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Computer Vision by University of Michigan",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "University of Michigan",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Deep Learning for Computer Vision (Udemy course)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "Natural Language Processing with Python (DataCamp course)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "Reinforcement Learning by Sutton & Barto",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 16,
+   "name": "Deep Reinforcement Learning (Coursera course)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 17,
+   "name": "Object Detection and Tracking (University of Pennsylvania course)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 18,
+   "name": "University of Pennsylvania",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 19,
+   "name": "Object Detection and Segmentation (University of Michigan course)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 20,
+   "name": "Deep Learning for Object Detection (NVIDIA Deep Learning Institute course)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 21,
+   "name": "Coursera",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 22,
+   "name": "Stanford Online",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 23,
+   "name": "DataCamp",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 24,
+   "name": "edX",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 25,
+   "name": "Udemy",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 26,
+   "name": "Udacity",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 27,
+   "name": "NVIDIA Deep Learning Institute",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 28,
+   "name": "Kaggle",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 29,
+   "name": "TensorFlow",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 30,
+   "name": "PyTorch",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 31,
+   "name": "Machine Learning Mastery",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 32,
+   "name": "AI Alignment",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 33,
+   "name": "Towards Data Science",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 34,
+   "name": "Machine Learning Subreddit",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 35,
+   "name": "PyImageSearch",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 36,
+   "name": "Computer Vision: Algorithms and Applications",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 37,
+   "name": "Deep Learning for Computer Vision with Python",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 38,
+   "name": "Computer Vision: A Modern Approach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 39,
+   "name": "Object Detection and Recognition in Digital Images",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 40,
+   "name": "CVPR (Conference on Computer Vision and Pattern Recognition)",
+   "duplicate_candidate_id": 34
+  },
+  {
+   "id": 41,
+   "name": "ICCV (International Conference on Computer Vision)",
+   "duplicate_candidate_id": 27
+  },
+  {
+   "id": 42,
+   "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 43,
+   "name": "ImageNet",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 44,
+   "name": "Open Images Dataset",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 45,
+   "name": "PASCAL VOC",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 46,
+   "name": "COCO (Common Objects in Context)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 47,
+   "name": "Caltech Pedestrian Dataset",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 48,
+   "name": "Cityscapes Dataset",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 49,
+   "name": "Argoverse Dataset",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 50,
+   "name": "OpenCV",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 51,
+   "name": "Keras",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 52,
+   "name": "PyTorchvision",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 53,
+   "name": "Keras Applications",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 54,
+   "name": "YOLO9000",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 55,
+   "name": "Faster R-CNN",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 56,
+   "name": "YOLO9000: Better, Faster, Stronger",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 57,
+   "name": "YOLOv3: An Incremental Improvement",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 58,
+   "name": "Matterport",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 59,
+   "name": "NVIDIA",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 60,
+   "name": "NVIDIA's DriveWorks",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 61,
+   "name": "3Blue1Brown",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 62,
+   "name": "Sentdex",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 63,
+   "name": "Stanford CS231n",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 64,
+   "name": "Autonomous Vehicle Engineering",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

@@ -1,0 +1,367 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Vallejo",
+   "target_entity_name": "Vallejo Model Color",
+   "relation_type": "HAS_PRODUCT_LINE",
+   "fact": "Vallejo's Model Color line is their flagship range, offering historical, fantasy, and sci-fi colors known for high pigmentation, excellent flow, and blending.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo",
+   "target_entity_name": "Vallejo Game Color",
+   "relation_type": "HAS_PRODUCT_LINE",
+   "fact": "Vallejo's Game Color line is designed for miniature painters, offering vibrant, bright colors and washes for fantasy and sci-fi miniatures.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo",
+   "target_entity_name": "Vallejo Panzer Aces",
+   "relation_type": "HAS_PRODUCT_LINE",
+   "fact": "Vallejo's Panzer Aces line focuses on World War II armor and military vehicles with authentic colors and washes.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo",
+   "target_entity_name": "Vallejo Effects",
+   "relation_type": "HAS_PRODUCT_LINE",
+   "fact": "Vallejo's Effects line includes specialized paints and washes for creating realistic rust, dirt, mud, and weathering effects.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo",
+   "target_entity_name": "Vallejo Metal Color",
+   "relation_type": "HAS_PRODUCT_LINE",
+   "fact": "Vallejo's Metal Color line is a range of metallic paints for creating realistic metal finishes.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo Metal Color",
+   "target_entity_name": "Metal Color - Steel (77.721)",
+   "relation_type": "INCLUDES_COLOR",
+   "fact": "Metal Color - Steel (77.721), a dark, cool gray with a slight blue undertone, is part of Vallejo's Metal Color line.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo Metal Color",
+   "target_entity_name": "Metal Color - Aluminum (77.722)",
+   "relation_type": "INCLUDES_COLOR",
+   "fact": "Metal Color - Aluminum (77.722), a light, warm gray with a slight silver undertone, is part of Vallejo's Metal Color line.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo Metal Color",
+   "target_entity_name": "Metal Color - Dark Aluminum (77.723)",
+   "relation_type": "INCLUDES_COLOR",
+   "fact": "Metal Color - Dark Aluminum (77.723), a medium-dark gray with a slight brown undertone, is part of Vallejo's Metal Color line.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo Metal Color",
+   "target_entity_name": "Metal Color - Gunmetal (77.724)",
+   "relation_type": "INCLUDES_COLOR",
+   "fact": "Metal Color - Gunmetal (77.724), a dark, rich metallic color with a slight blue undertone, is part of Vallejo's Metal Color line.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Metal Color - Steel (77.721)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Metal Color - Steel (77.721) is recommended as a base coat to create a realistic steel wheel finish on the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Metal Color - Aluminum (77.722)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Metal Color - Aluminum (77.722) is recommended for a bright, polished aluminum look, drybrushing, and edge highlighting on the Ford Mustang Shelby GT350R model's wheels.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Metal Color - Dark Aluminum (77.723)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Metal Color - Dark Aluminum (77.723) is recommended as a base coat for a darker, more weathered aluminum finish on the Ford Mustang Shelby GT350R model's wheels.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Metal Color - Gunmetal (77.724)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Metal Color - Gunmetal (77.724) is recommended for a dark, rich metallic finish on the Ford Mustang Shelby GT350R model's wheels.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grey Wash (76.513)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Grey Wash (76.513) is recommended to add depth and subtle shading to the wheels of the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Brown Wash (76.514)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Brown Wash (76.514) is recommended to add depth and subtle shading to the wheels of the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Model Varnish (76.551)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Model Varnish (76.551) is recommended as a clear coat to protect the paint and give the Ford Mustang Shelby GT350R model's wheels a glossy finish.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gloss Varnish (76.552)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Gloss Varnish (76.552) is recommended as a clear coat to protect the paint and give the Ford Mustang Shelby GT350R model's wheels a glossy finish.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Metal Primer (77.601)",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Metal Primer (77.601) is recommended to prime the wheels of the Ford Mustang Shelby GT350R model so the paint adheres properly.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo Chipping Medium",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Vallejo Chipping Medium is recommended for creating rust spots and chipped paint effects on the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tamiya Weathering Master",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Tamiya Weathering Master is recommended as a chipping medium for creating rust and chipped paint effects on the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Citadel Shade",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Citadel Shade is recommended as a wash material for weathering the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tamiya Panel Line Accent Color",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Tamiya Panel Line Accent Color is recommended as a wash material for weathering the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mig Productions",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Mig Productions is recommended as a pigment source for weathering the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "AK Interactive",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "AK Interactive is recommended as a pigment source for weathering the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Scalemates",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "PROVIDES_TUTORIALS_FOR",
+   "fact": "Scalemates is recommended as a source of weathering tutorials for the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "ModelCarTV",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "PROVIDES_TUTORIALS_FOR",
+   "fact": "ModelCarTV is recommended as a source of weathering tutorials for the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Model Maker",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "PROVIDES_TUTORIALS_FOR",
+   "fact": "The Model Maker is recommended as a source of weathering tutorials for the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hyperscale",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "PROVIDES_TUTORIALS_FOR",
+   "fact": "Hyperscale is recommended as an online forum with tutorials on weathering techniques for the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Model Mayhem",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "PROVIDES_TUTORIALS_FOR",
+   "fact": "Model Mayhem is recommended as an online forum with tutorials on weathering techniques for the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kalmbach Books",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "PROVIDES_TUTORIALS_FOR",
+   "fact": "Kalmbach Books is recommended as a publisher of books on weathering and model car building relevant to the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Osprey Publishing",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "PROVIDES_TUTORIALS_FOR",
+   "fact": "Osprey Publishing is recommended as a publisher of books on weathering and model car building relevant to the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Vallejo",
+   "target_entity_name": "Tamiya",
+   "relation_type": "HAS_LARGER_COLOR_RANGE_THAN",
+   "fact": "Vallejo offers a significantly larger color range than Tamiya, with over 800 colors across their product lines compared to Tamiya's roughly 200-300 colors.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Eduard",
+   "target_entity_name": "Ford Mustang Shelby GT350R",
+   "relation_type": "SUPPLIES_MATERIALS_FOR",
+   "fact": "Eduard manufactures photo-etched metal strips that can be used to create realistic seatbelts for the Ford Mustang Shelby GT350R model.",
+   "valid_at": "2023-05-27T02:41:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

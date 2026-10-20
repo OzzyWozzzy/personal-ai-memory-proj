@@ -1,0 +1,147 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "the user's dog Max",
+   "target_entity_name": "Golden Retriever",
+   "relation_type": "IS_A",
+   "fact": "Max is a Golden Retriever.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's dog Max",
+   "target_entity_name": "Kong Toy",
+   "relation_type": "WILL_OWN",
+   "fact": "The user decided to get Max the Kong Toy, an interactive treat-dispensing toy, planning to stuff it with peanut butter since Max loves peanut butter.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's dog Max",
+   "target_entity_name": "Yellow Dog Design",
+   "relation_type": "WILL_OWN_PRODUCT_FROM",
+   "fact": "The user decided to get Max a nylon collar from Yellow Dog Design, along with an engraved name tag.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rover",
+   "target_entity_name": "the user's dog Max",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Rover is recommended as a platform to find a local dog walker for Max.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Care.com",
+   "target_entity_name": "the user's dog Max",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Care.com is recommended as a platform to find a local dog walker for Max.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Wag!",
+   "target_entity_name": "the user's dog Max",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Wag! is recommended as a platform to find a local dog walker for Max, offering 30-minute or 1-hour walks with real-time route tracking.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Barkly Pets",
+   "target_entity_name": "the user's dog Max",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Barkly Pets is recommended as a platform to find a local dog walker for Max.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pet Sitters International",
+   "target_entity_name": "the user's dog Max",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Pet Sitters International is recommended as a network of professional pet sitters and dog walkers to find a walker for Max.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "National Association of Professional Pet Sitters",
+   "target_entity_name": "the user's dog Max",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "The National Association of Professional Pet Sitters (NAPPS) is recommended as a professional organization to find a dog walker for Max.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yellow Dog Design",
+   "target_entity_name": "Golden Retriever",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Yellow Dog Design's collars are recommended as suiting the friendly and energetic nature of Golden Retrievers.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Puppia",
+   "target_entity_name": "Golden Retriever",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Puppia's soft, comfortable, adjustable collars are recommended as suiting the friendly and energetic nature of Golden Retrievers.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coastal Pet Products",
+   "target_entity_name": "Golden Retriever",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Coastal Pet Products' collars, including martingale and breakaway styles, are recommended as suiting the friendly and energetic nature of Golden Retrievers.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ruffwear",
+   "target_entity_name": "Golden Retriever",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Ruffwear's durable, adjustable collars are recommended for outdoor enthusiasts and active dogs like Golden Retrievers.",
+   "valid_at": "2023-05-22T10:50:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

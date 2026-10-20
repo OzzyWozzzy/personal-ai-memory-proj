@@ -1,0 +1,147 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Gitzo",
+   "target_entity_name": "Gitzo's G-Lock system",
+   "relation_type": "HAS_FEATURE",
+   "fact": "Gitzo tripods feature the G-Lock system, a unique leg locking mechanism that provides excellent stability and ease of use.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Really Right Stuff",
+   "target_entity_name": "Gitzo",
+   "relation_type": "MORE_EXPENSIVE_THAN",
+   "fact": "Really Right Stuff (RRS) tripods tend to be more expensive than Gitzo tripods, especially at the high end.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gitzo",
+   "target_entity_name": "Really Right Stuff",
+   "relation_type": "LIGHTER_AND_MORE_COMPACT_THAN",
+   "fact": "Gitzo's carbon fiber tripods are generally lighter and more compact than Really Right Stuff (RRS) tripods, making them ideal for travel and backpacking.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gitzo",
+   "target_entity_name": "70-200mm zoom lens",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Gitzo tripods would be suitable for use with the 70-200mm zoom lens.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Really Right Stuff",
+   "target_entity_name": "70-200mm zoom lens",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Really Right Stuff (RRS) tripods would be suitable for use with the 70-200mm zoom lens.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nikon Z6",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "HAS_BETTER_IMAGE_QUALITY_THAN",
+   "fact": "The Nikon Z6, as a full-frame camera body, would bring significant improvements in image quality (better low-light performance, shallower depth of field, improved dynamic range) compared to the Nikon D5600.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Canon EOS R",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "HAS_BETTER_IMAGE_QUALITY_THAN",
+   "fact": "The Canon EOS R, as a full-frame camera body, would bring significant improvements in image quality (better low-light performance, shallower depth of field, improved dynamic range) compared to the Nikon D5600.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lowepro ProTactic 450 AW",
+   "target_entity_name": "Think Tank Urban Disguise 40L",
+   "relation_type": "MORE_RUGGED_THAN",
+   "fact": "The Lowepro ProTactic 450 AW is more rugged and weather-resistant, while the Think Tank Urban Disguise 40L has a more stylish, low-profile design.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Think Tank Urban Disguise 40L",
+   "target_entity_name": "Lowepro ProTactic 450 AW",
+   "relation_type": "LIGHTER_AND_SMALLER_THAN",
+   "fact": "The Think Tank Urban Disguise 40L, weighing 2.6 lbs (1.18 kg) and measuring 12.2 x 8.7 x 17.3 inches (31 x 22 x 44 cm), is smaller and lighter than the Lowepro ProTactic 450 AW, which weighs 4.3 lbs (1.95 kg) and measures 13.4 x 9.8 x 18.5 inches (34 x 25 x 47 cm).",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lowepro ProTactic 450 AW",
+   "target_entity_name": "Think Tank Urban Disguise 40L",
+   "relation_type": "HAS_LARGER_LAPTOP_COMPARTMENT_THAN",
+   "fact": "Both the Lowepro ProTactic 450 AW and the Think Tank Urban Disguise 40L have dedicated laptop compartments, but the ProTactic 450 AW's is more accessible and larger.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "14-24mm lens",
+   "target_entity_name": "70-200mm zoom lens",
+   "relation_type": "COMPLEMENTS",
+   "fact": "A 14-24mm wide-angle lens would complement the user's 70-200mm zoom lens nicely for capturing sweeping landscapes and cityscapes.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "16-35mm lens",
+   "target_entity_name": "70-200mm zoom lens",
+   "relation_type": "COMPLEMENTS",
+   "fact": "A 16-35mm wide-angle lens would complement the user's 70-200mm zoom lens nicely for capturing sweeping landscapes and cityscapes.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "16-35mm lens",
+   "target_entity_name": "14-24mm lens",
+   "relation_type": "LESS_EXTREME_WIDE_ANGLE_THAN",
+   "fact": "The 16-35mm lens is more versatile and not as extreme an ultra-wide angle as the 14-24mm lens, making it suitable for cityscapes, landscapes, and portraits with a sense of environment.",
+   "valid_at": "2023-08-30T04:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

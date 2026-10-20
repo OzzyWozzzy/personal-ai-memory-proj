@@ -1,0 +1,424 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "UCLA",
+   "duplicate_candidate_id": 0
+  },
+  {
+   "id": 1,
+   "name": "NeurIPS (Conference on Neural Information Processing Systems)",
+   "duplicate_candidate_id": 15
+  },
+  {
+   "id": 2,
+   "name": "ICML (International Conference on Machine Learning)",
+   "duplicate_candidate_id": 29
+  },
+  {
+   "id": 3,
+   "name": "ICCV (International Conference on Computer Vision)",
+   "duplicate_candidate_id": 39
+  },
+  {
+   "id": 4,
+   "name": "AAAI (Association for the Advancement of Artificial Intelligence)",
+   "duplicate_candidate_id": 49
+  },
+  {
+   "id": 5,
+   "name": "IJCAI (International Joint Conference on Artificial Intelligence)",
+   "duplicate_candidate_id": 53
+  },
+  {
+   "id": 6,
+   "name": "arXiv",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Papers with Code",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Journal of Machine Learning Research (JMLR)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Neural Computing and Applications",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "The AI Alignment Forum",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "KDnuggets",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "AI Impacts",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "AI in Industry",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "Machine Learning Podcast",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "AI Alignment Podcast",
+   "duplicate_candidate_id": 51
+  },
+  {
+   "id": 16,
+   "name": "Data Science Podcast",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 17,
+   "name": "Reddit",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 18,
+   "name": "Machine Learning Subreddit (r/MachineLearning)",
+   "duplicate_candidate_id": 30
+  },
+  {
+   "id": 19,
+   "name": "r/AI",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 20,
+   "name": "GitHub",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 21,
+   "name": "AI Newsletter",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 22,
+   "name": "Machine Learning Weekly",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 23,
+   "name": "AI Alignment Newsletter",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 24,
+   "name": "DeepLearning.ai",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 25,
+   "name": "Stanford CS231n: Convolutional Neural Networks for Visual Recognition",
+   "duplicate_candidate_id": 60
+  },
+  {
+   "id": 26,
+   "name": "MIT OpenCourseWare: Artificial Intelligence",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 27,
+   "name": "IEEE Robotics and Automation Magazine",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 28,
+   "name": "IJRR (International Journal of Robotics Research)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 29,
+   "name": "Robotics and Autonomous Systems",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 30,
+   "name": "ICRA (International Conference on Robotics and Automation)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 31,
+   "name": "IROS (International Conference on Intelligent Robots and Systems)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 32,
+   "name": "RSS (Robotics: Science and Systems)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 33,
+   "name": "MIT",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 34,
+   "name": "Stanford University",
+   "duplicate_candidate_id": 7
+  },
+  {
+   "id": 35,
+   "name": "Carnegie Mellon",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 36,
+   "name": "The Robot Report",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 37,
+   "name": "Robotics Trends",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 38,
+   "name": "IEEE Spectrum Robotics",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 39,
+   "name": "Robotics Business Review",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 40,
+   "name": "Robotics subreddit",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 41,
+   "name": "Robot Operating System (ROS)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 42,
+   "name": "MIT OpenCourseWare: Robotics",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 43,
+   "name": "Stanford CS235: Robotics",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 44,
+   "name": "Boston Dynamics",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 45,
+   "name": "Atlas",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 46,
+   "name": "Spot",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 47,
+   "name": "NASA Robotics",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 48,
+   "name": "Carnegie Mellon Robotics Institute",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 49,
+   "name": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 50,
+   "name": "Nature Medicine",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 51,
+   "name": "npj Digital Medicine",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 52,
+   "name": "Journal of Medical Systems",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 53,
+   "name": "AMIA (American Medical Informatics Association) Annual Symposium",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 54,
+   "name": "MLHC (Machine Learning for Healthcare)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 55,
+   "name": "Healthcare AI Summit",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 56,
+   "name": "Harvard",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 57,
+   "name": "HealthITAnalytics",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 58,
+   "name": "Medical Device and Diagnostic Industry (MD+DI)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 59,
+   "name": "Healthcare IT News",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 60,
+   "name": "AI in Healthcare Blog",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 61,
+   "name": "AI in Healthcare subreddit",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 62,
+   "name": "Healthcare AI LinkedIn Group",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 63,
+   "name": "Dr. Fei-Fei Li",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 64,
+   "name": "Google Health",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 65,
+   "name": "Microsoft Healthcare",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 66,
+   "name": "Stanford Health Care",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 67,
+   "name": "National Institutes of Health (NIH)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 68,
+   "name": "University of Edinburgh",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 69,
+   "name": "Radiology: Artificial Intelligence",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 70,
+   "name": "Medical Image Analysis",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 71,
+   "name": "MICCAI (Medical Image Computing and Computer Assisted Intervention)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 72,
+   "name": "SPIE Medical Imaging",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 73,
+   "name": "Medical Imaging Technology News",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 74,
+   "name": "Radiology Business Journal",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 75,
+   "name": "Stanford Radiology",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 76,
+   "name": "Cancer Research",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 77,
+   "name": "Journal of Clinical Oncology",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 78,
+   "name": "Radiology",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 79,
+   "name": "AACR (American Association for Cancer Research)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 80,
+   "name": "Radiology Business News",
+   "duplicate_candidate_id": 80
+  },
+  {
+   "id": 81,
+   "name": "Oncology Times",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 82,
+   "name": "Deep Learning for Medical Imaging with Python",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 83,
+   "name": "National Cancer Institute (NCI)",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

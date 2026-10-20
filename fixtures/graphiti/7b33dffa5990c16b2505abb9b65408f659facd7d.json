@@ -1,0 +1,455 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Japanese Alps Route",
+   "target_entity_name": "Nagano prefecture",
+   "relation_type": "PASSES_THROUGH",
+   "fact": "The Japanese Alps Route is a 350-kilometer scenic route that passes through Nagano prefecture, taking travelers through picturesque valleys, mountains, and traditional villages.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nagano-Hakuba Valley Route",
+   "target_entity_name": "Nagano City",
+   "relation_type": "CONNECTS",
+   "fact": "The Nagano-Hakuba Valley Route connects Nagano City to Hakuba Valley, passing stunning mountain vistas, hot springs, and autumn foliage.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nagano-Hakuba Valley Route",
+   "target_entity_name": "Hakuba Valley",
+   "relation_type": "CONNECTS",
+   "fact": "The Nagano-Hakuba Valley Route connects Nagano City to Hakuba Valley, passing stunning mountain vistas, hot springs, and autumn foliage.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kita-Nagano Route",
+   "target_entity_name": "Nagano prefecture",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Kita-Nagano Route explores the northern part of Nagano prefecture, offering scenic views of the Japanese Alps, traditional villages, and beautiful lakes.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hakuba Valley Ski Resort Hotel",
+   "target_entity_name": "Hakuba Valley",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hakuba Valley Ski Resort Hotel is an accommodation option located in Hakuba Valley.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hakuba Mominoki Hotel",
+   "target_entity_name": "Hakuba Valley",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hakuba Mominoki Hotel is a more budget-friendly accommodation located in Hakuba Valley.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kamikochi Imperial Hotel",
+   "target_entity_name": "Kamikochi",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kamikochi Imperial Hotel is an accommodation located in the mountain resort town of Kamikochi.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kamikochi Onsen Hotel",
+   "target_entity_name": "Kamikochi",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kamikochi Onsen Hotel is a more rustic accommodation located in Kamikochi.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Matsumoto Hotel Kagetsu",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Matsumoto Hotel Kagetsu is an accommodation located in Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Guest House Nakamachi",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Guest House Nakamachi is a more affordable accommodation located in Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nagano Tokyu REI Hotel",
+   "target_entity_name": "Nagano City",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nagano Tokyu REI Hotel is an accommodation located in Nagano City, the prefectural capital.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hotel Nagano Avenue",
+   "target_entity_name": "Nagano City",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hotel Nagano Avenue is a budget-friendly accommodation located in Nagano City.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Japanese Alps Visitor Center",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Japanese Alps Visitor Center, which provides information and guidance on the best routes and attractions, is located in Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Matsumoto Castle",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Matsumoto Castle, a National Treasure of Japan dating back to the 16th century, is located in Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kamikochi National Park",
+   "target_entity_name": "Nagano prefecture",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kamikochi National Park is a popular attraction located in Nagano prefecture.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hakuba Valley Ski Resort",
+   "target_entity_name": "Hakuba Valley",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hakuba Valley Ski Resort is a popular attraction located in Hakuba Valley.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Zenko-ji Temple",
+   "target_entity_name": "Nagano City",
+   "relation_type": "LOCATED_IN",
+   "fact": "Zenko-ji Temple, said to have been founded in the 7th century, is located in Nagano City.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hokuriku Shinkansen",
+   "target_entity_name": "Tokyo Station",
+   "relation_type": "DEPARTS_FROM",
+   "fact": "The Hokuriku Shinkansen bullet train departs from Tokyo Station and takes approximately 1 hour and 45 minutes to reach Nagano Station.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hokuriku Shinkansen",
+   "target_entity_name": "Nagano Station",
+   "relation_type": "ARRIVES_AT",
+   "fact": "The Hokuriku Shinkansen bullet train departs from Tokyo Station and takes approximately 1 hour and 45 minutes to reach Nagano Station.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nagano Shinkansen",
+   "target_entity_name": "Tokyo Station",
+   "relation_type": "DEPARTS_FROM",
+   "fact": "The Nagano Shinkansen runs from Tokyo Station to Nagano Station, with a journey time of around 2 hours.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nagano Shinkansen",
+   "target_entity_name": "Nagano Station",
+   "relation_type": "ARRIVES_AT",
+   "fact": "The Nagano Shinkansen runs from Tokyo Station to Nagano Station, with a journey time of around 2 hours.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nagano Snow Shuttle",
+   "target_entity_name": "Hakuba Valley",
+   "relation_type": "CONNECTS",
+   "fact": "The Nagano Snow Shuttle bus service connects Tokyo's Shinjuku area to Hakuba Valley, with a journey time of around 4-5 hours.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Haneda Airport",
+   "target_entity_name": "Matsumoto Airport",
+   "relation_type": "HAS_FLIGHT_TO",
+   "fact": "From Tokyo's Haneda Airport, travelers can take a short flight to Matsumoto Airport.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Narita Airport",
+   "target_entity_name": "Matsumoto Airport",
+   "relation_type": "HAS_FLIGHT_TO",
+   "fact": "From Tokyo's Narita Airport, travelers can take a short flight to Matsumoto Airport.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Narita Express",
+   "target_entity_name": "Narita Airport",
+   "relation_type": "DEPARTS_FROM",
+   "fact": "The Narita Express (N'EX) train departs from Narita Airport and travels to Tokyo Station, where travelers can transfer to the Hokuriku Shinkansen or other trains.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Narita Express",
+   "target_entity_name": "Tokyo Station",
+   "relation_type": "ARRIVES_AT",
+   "fact": "The Narita Express (N'EX) train departs from Narita Airport and travels to Tokyo Station, where travelers can transfer to the Hokuriku Shinkansen or other trains.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Harajuku",
+   "target_entity_name": "Tokyo",
+   "relation_type": "LOCATED_IN",
+   "fact": "Harajuku, where the user's new studio apartment is located, is a neighborhood in Tokyo.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Asama Onsen",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Asama Onsen is a hot spring resort area about 30 minutes from Matsumoto by bus or taxi.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Utsukushigahara Onsen",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Utsukushigahara Onsen is a scenic hot spring resort area with views of the Japanese Alps, about 45 minutes from Matsumoto by bus or taxi.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hirata Onsen",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Hirata Onsen is a historic onsen facility about 20 minutes from Matsumoto by bus or taxi.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Matsumoto Onsen Hotel",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Matsumoto Onsen Hotel, which has a public onsen facility, is located in the heart of Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nawate Street",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nawate Street is a charming street in Matsumoto lined with traditional shops, tea houses, and restaurants.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Matsumoto Folkcraft Museum",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Matsumoto Folkcraft Museum, showcasing traditional Japanese crafts like woodcarvings, pottery, and weaving, is located in Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kaichi School Museum",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kaichi School Museum, dedicated to the history of education in Japan and housed in a historic Meiji-period school building, is located in Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Matsumoto Shrine",
+   "target_entity_name": "Matsumoto Castle",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Matsumoto Shrine, a Shinto shrine dedicated to the god of war and agriculture, is located near Matsumoto Castle.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nakamachi Street",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nakamachi Street is a historic street in Matsumoto lined with traditional warehouses and shops.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Matsumoto City Museum",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Matsumoto City Museum showcases the city's history, art, and culture in Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Agata no Mori Park",
+   "target_entity_name": "Matsumoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Agata no Mori Park is a peaceful park with a pond, walking trails, and a variety of plants and flowers, located in Matsumoto.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Shinshu salmon",
+   "target_entity_name": "Nagano prefecture",
+   "relation_type": "IS_SPECIALTY_OF",
+   "fact": "Shinshu salmon is a local food specialty of Nagano prefecture.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hakuba apple pie",
+   "target_entity_name": "Hakuba Valley",
+   "relation_type": "IS_SPECIALTY_OF",
+   "fact": "Hakuba apple pie is a local food specialty associated with Hakuba Valley.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Matsumoto Castle",
+   "target_entity_name": "Zenko-ji Temple",
+   "relation_type": "RECOMMENDED_OVER",
+   "fact": "The assistant recommended prioritizing a visit to Matsumoto Castle over Zenko-ji Temple, given the user's interest in traditional Japanese culture and history.",
+   "valid_at": "2023-04-11T03:08:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

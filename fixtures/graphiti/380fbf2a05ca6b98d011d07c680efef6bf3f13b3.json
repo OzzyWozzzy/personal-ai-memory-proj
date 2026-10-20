@@ -1,0 +1,84 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Alison Krauss and Union Station",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "The Infamous Stringdusters",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "The Gibson Brothers",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Bluegrass Today",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Bluegrass Radio Network",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Kind of Blue",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "John Coltrane",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Charlie Parker with Strings",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Thelonious Monk",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "The Window",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Herbie Hancock",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Take Five",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "The Dave Brubeck Quartet",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Jazz at Lincoln Center",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "JazzTimes",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "All About Jazz",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

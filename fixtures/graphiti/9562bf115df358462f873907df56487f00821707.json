@@ -1,0 +1,290 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "International Student Orientation",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "UC Berkeley offers an International Student Orientation program to help new international students meet others, get familiar with campus, and learn about university resources",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Student Union",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The Student Union is a student service and resource at UC Berkeley that organizes events including concerts, comedy shows, and cultural festivals",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Recreational Sports Facility",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The Recreational Sports Facility is a student service and resource available on the UC Berkeley campus",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tang Center",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The Tang Center provides health and counseling services on the UC Berkeley campus",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "International Office",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The International Office at UC Berkeley organizes welcome events and provides support for homesickness and culture shock",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Student Health Insurance Plan (SHIP)",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "UC Berkeley offers a Student Health Insurance Plan (SHIP) that meets the university's minimum health insurance requirements for international students, covering medical, mental health, prescription, vision, dental, repatriation, and medical evacuation benefits",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UC Berkeley Student Health Insurance Office",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The UC Berkeley Student Health Insurance Office provides information about SHIP enrollment and waiver processes and deadlines",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "English Language Support Services",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "English Language Support Services (ELSS) at UC Berkeley provides language support including instruction, conversation practice, and academic language support for international students",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Berkeley English Language Proficiency Requirement",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The Berkeley English Language Proficiency Requirement (BEPR) is a language proficiency assessment required for non-native English speaking international students at UC Berkeley",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UC Berkeley Photography Club",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The UC Berkeley Photography Club organizes photo walks, workshops, and exhibitions for photography enthusiasts on campus",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cal Corps Public Service Center",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The Cal Corps Public Service Center at UC Berkeley is a hub for community service and volunteer opportunities, offering programs, events, and resources",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Alternative Breaks",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "Alternative Breaks is a UC Berkeley program organizing service trips during academic breaks focused on issues like environmental conservation, education, and social justice",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UC Berkeley Student Organization Directory",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The UC Berkeley Student Organization Directory lists over 1,200 student organizations covering academic, cultural, hobby, and community-service interests",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cal Performances",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "Cal Performances is a UC Berkeley performing arts series featuring world-class music, dance, and theater performances",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UC Berkeley Art Museum and Pacific Film Archive",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The UC Berkeley Art Museum and Pacific Film Archive showcases diverse art exhibitions and cinematic works on campus",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cal Athletics",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "Cal Athletics hosts Golden Bears games at UC Berkeley, including football and basketball",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Golden Bears",
+   "target_entity_name": "Cal Athletics",
+   "relation_type": "ASSOCIATED_WITH",
+   "fact": "The Golden Bears are the sports teams represented under Cal Athletics at UC Berkeley",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Berkeley International Festival",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "The Berkeley International Festival is a cultural festival celebrating diversity at UC Berkeley",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "African American Culture Week",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "African American Culture Week is a cultural festival celebrating diversity at UC Berkeley",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dia de los Muertos",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PART_OF",
+   "fact": "Dia de los Muertos is celebrated as a cultural festival at UC Berkeley",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "San Francisco International Airport",
+   "target_entity_name": "San Francisco",
+   "relation_type": "LOCATED_IN",
+   "fact": "San Francisco International Airport (SFO) is the arrival airport for the user's flight to San Francisco",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "BART",
+   "target_entity_name": "San Francisco International Airport",
+   "relation_type": "DEPARTS_FROM",
+   "fact": "BART (plus a connecting bus) is a public transportation option departing from San Francisco International Airport",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "BART",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "ARRIVES_AT",
+   "fact": "BART (plus a connecting bus) is a public transportation option arriving at UC Berkeley from San Francisco International Airport",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bayporter Express",
+   "target_entity_name": "San Francisco International Airport",
+   "relation_type": "DEPARTS_FROM",
+   "fact": "Bayporter Express is a shuttle service departing from San Francisco International Airport",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bayporter Express",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "ARRIVES_AT",
+   "fact": "Bayporter Express is a shuttle service arriving at UC Berkeley from San Francisco International Airport",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "I-20 form",
+   "target_entity_name": "F-1 student visa",
+   "relation_type": "ASSOCIATED_WITH",
+   "fact": "F-1 students must present their I-20 form along with their passport and visa at the immigration checkpoint",
+   "valid_at": "2023-04-19T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

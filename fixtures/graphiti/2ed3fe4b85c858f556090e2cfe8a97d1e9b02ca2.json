@@ -1,0 +1,34 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "rustic Italian bread",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "biga",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "poolish",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "the user's sourdough starter",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "kosher salt",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "vital wheat gluten",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Watermelon Basil Margarita",
+   "target_entity_name": "Watermelon Puree",
+   "relation_type": "CONTAINS",
+   "fact": "The Watermelon Basil Margarita recipe uses about 1-2 ounces (specifically 1/2 ounce in the given recipe) of watermelon puree, made from roasted watermelon for extra sweetness.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Watermelon Basil Margarita",
+   "target_entity_name": "Basil Syrup",
+   "relation_type": "CONTAINS",
+   "fact": "The Watermelon Basil Margarita recipe includes 1/4 ounce of basil syrup made by steeping fresh basil leaves in a sugar syrup.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Avion Silver",
+   "target_entity_name": "Watermelon Basil Margarita",
+   "relation_type": "RECOMMENDED_TEQUILA_FOR",
+   "fact": "Avion Silver, a crisp, clean tequila with notes of citrus and a hint of sweetness, is recommended as a blanco tequila to pair with the watermelon and basil flavors of the Watermelon Basil Margarita.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Casa Noble Crystal",
+   "target_entity_name": "Watermelon Basil Margarita",
+   "relation_type": "RECOMMENDED_TEQUILA_FOR",
+   "fact": "Casa Noble Crystal, a smooth, organic tequila with a subtle hint of agave and a clean finish, is recommended as a blanco tequila to pair with the watermelon and basil flavors of the Watermelon Basil Margarita.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Espolón Blanco",
+   "target_entity_name": "Watermelon Basil Margarita",
+   "relation_type": "RECOMMENDED_TEQUILA_FOR",
+   "fact": "Espolón Blanco, a bold, spicy tequila with a rich agave flavor and a crisp finish, is recommended as a blanco tequila to pair with the watermelon and basil flavors of the Watermelon Basil Margarita.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Don Julio Reposado",
+   "target_entity_name": "Watermelon Basil Margarita",
+   "relation_type": "RECOMMENDED_TEQUILA_FOR",
+   "fact": "Don Julio Reposado, a smooth, aged tequila with notes of vanilla, caramel, and a hint of oak, is recommended as a reposado tequila to pair with the watermelon and basil flavors of the Watermelon Basil Margarita.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Herradura Reposado",
+   "target_entity_name": "Watermelon Basil Margarita",
+   "relation_type": "RECOMMENDED_TEQUILA_FOR",
+   "fact": "Herradura Reposado, a rich, full-bodied tequila with flavors of agave, oak, and a hint of spice, is recommended as a reposado tequila to pair with the watermelon and basil flavors of the Watermelon Basil Margarita.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "El Jimador Reposado",
+   "target_entity_name": "Watermelon Basil Margarita",
+   "relation_type": "RECOMMENDED_TEQUILA_FOR",
+   "fact": "El Jimador Reposado, a well-balanced tequila with notes of agave, citrus, and a hint of vanilla, is recommended as a reposado tequila to pair with the watermelon and basil flavors of the Watermelon Basil Margarita.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Paloma",
+   "target_entity_name": "Tequila Sour",
+   "relation_type": "PLANNED_TO_TRY_ALONGSIDE",
+   "fact": "The user plans to try both the Paloma and the Tequila Sour during their cocktail-making class on Friday.",
+   "valid_at": "2023-06-30T12:19:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "summaries": [
+  {
+   "name": "YogaGlo",
+   "summary": "YogaGlo is a yoga app with a \"Find a Studio\" feature for locating yoga studios in a user's area."
+  },
+  {
+   "name": "Yoga International",
+   "summary": "Yoga International is a yoga app with a \"Find a Studio\" feature for locating yoga studios in a user's area."
+  },
+  {
+   "name": "Down Dog",
+   "summary": "Down Dog is a yoga app with a \"Find a Studio\" feature for locating yoga studios in a user's area."
+  },
+  {
+   "name": "Yelp",
+   "summary": "Yelp is a review website that lets users rate and review businesses, including yoga studios, filterable by location, rating, and price."
+  },
+  {
+   "name": "Google",
+   "summary": "Searching \"yoga studios near me\" or \"yoga classes near me\" on Google shows nearby studios with addresses, phone numbers, and reviews."
+  },
+  {
+   "name": "Facebook",
+   "summary": "Local Facebook groups focused on yoga, fitness, or wellness can be joined to ask for recommendations on good yoga studios or classes in the area."
+  },
+  {
+   "name": "Child's Pose",
+   "summary": "Child's Pose is recommended as a resting position during a yoga class when feeling tired or experiencing discomfort."
+  }
+ ]
+}

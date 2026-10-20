@@ -1,0 +1,389 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "New York",
+   "relation_type": "FLEW_FROM",
+   "fact": "The user flew with American Airlines from New York and had a terrible experience with the in-flight entertainment system.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Los Angeles",
+   "relation_type": "FLEW_TO",
+   "fact": "The user flew with American Airlines to Los Angeles and had a terrible experience with the in-flight entertainment system.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "United Airlines",
+   "target_entity_name": "Boston",
+   "relation_type": "FLEW_FROM",
+   "fact": "The user's United Airlines flight departed from Boston and was delayed 1 hour due to air traffic control issues.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "United Airlines",
+   "target_entity_name": "Chicago",
+   "relation_type": "FLEW_TO",
+   "fact": "The user's United Airlines flight to Chicago was delayed 1 hour due to air traffic control issues, though the pilot kept passengers well-informed.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Miami",
+   "relation_type": "CONSIDERED_FLYING_TO",
+   "fact": "The user is considering flying with American Airlines for a trip to Miami.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Miami",
+   "relation_type": "CONSIDERED_FLYING_TO",
+   "fact": "The user is considering flying with Delta for a trip to Miami.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Boeing 737-800",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "American Airlines' seat-back screen in-flight entertainment is available on most aircraft, including the Boeing 737-800.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Boeing 777-200",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "American Airlines' seat-back screen in-flight entertainment is available on most aircraft, including the Boeing 777-200.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Airbus A321T",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "American Airlines' seat-back screen in-flight entertainment is available on most aircraft, including the Airbus A321T.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "American Airlines app",
+   "relation_type": "OFFERS_APP",
+   "fact": "American Airlines lets passengers stream personal-device in-flight entertainment via the American Airlines app on most domestic flights.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Delta Studio",
+   "relation_type": "OFFERS",
+   "fact": "Delta Studio is Delta's in-flight entertainment offering, providing a wide selection of movies, TV shows, music, and games on seat-back screens or via the Fly Delta app.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Airbus A321",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "Delta's seat-back screen in-flight entertainment is available on most aircraft, including the Airbus A321.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Boeing 737-900ER",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "Delta's seat-back screen in-flight entertainment is available on most aircraft, including the Boeing 737-900ER.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Airbus A350",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "Delta's seat-back screen in-flight entertainment is available on most aircraft, including the Airbus A350.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Fly Delta app",
+   "relation_type": "OFFERS_APP",
+   "fact": "Delta lets passengers stream personal-device in-flight entertainment via the Fly Delta app on most flights.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "HBO",
+   "relation_type": "FEATURES_CONTENT_FROM",
+   "fact": "Delta Studio features exclusive in-flight entertainment content from partners including HBO.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Showtime",
+   "relation_type": "FEATURES_CONTENT_FROM",
+   "fact": "Delta Studio features exclusive in-flight entertainment content from partners including Showtime.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miami International Airport",
+   "target_entity_name": "Miami",
+   "relation_type": "LOCATED_IN",
+   "fact": "Miami International Airport (MIA) is located in Miami.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miami International Airport Hotel",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "LOCATED_INSIDE",
+   "fact": "The Miami International Airport Hotel is located inside Miami International Airport, ideal for early flights or late arrivals.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hyatt Regency Miami Airport",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "CONNECTED_TO",
+   "fact": "The Hyatt Regency Miami Airport is connected to Miami International Airport via a skybridge.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hilton Miami Airport Blue Lagoon",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "NEAR",
+   "fact": "The Hilton Miami Airport Blue Lagoon is about a 5-minute drive from Miami International Airport and offers a complimentary shuttle running every 15-20 minutes.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Crowne Plaza Miami Airport",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "NEAR",
+   "fact": "The Crowne Plaza Miami Airport is about a 10-minute drive from Miami International Airport and offers a shuttle running every 30 minutes.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fairfield Inn & Suites by Marriott Miami Airport South",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "NEAR",
+   "fact": "The Fairfield Inn & Suites by Marriott Miami Airport South is about a 10-minute drive from Miami International Airport and offers a free shuttle running every 30 minutes.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "La Quinta Inn & Suites by Wyndham Miami Airport East",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "NEAR",
+   "fact": "The La Quinta Inn & Suites by Wyndham Miami Airport East is about a 10-minute drive from Miami International Airport and offers a shuttle running every 30 minutes.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Embassy Suites by Hilton Miami International Airport",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "NEAR",
+   "fact": "The Embassy Suites by Hilton Miami International Airport is about a 10-minute drive from Miami International Airport and offers a free shuttle running every 30 minutes.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sheraton Miami Airport Hotel & Executive Meeting Center",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "NEAR",
+   "fact": "The Sheraton Miami Airport Hotel & Executive Meeting Center is about a 5-minute drive from Miami International Airport and offers a shuttle service for a fee.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "DoubleTree by Hilton Hotel Miami Airport & Convention Center",
+   "target_entity_name": "Miami International Airport",
+   "relation_type": "NEAR",
+   "fact": "The DoubleTree by Hilton Hotel Miami Airport & Convention Center is about a 10-minute drive from Miami International Airport and offers a shuttle service for a fee.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hyatt Regency Miami Airport",
+   "target_entity_name": "Port of Miami",
+   "relation_type": "OFFERS_SHUTTLE_TO",
+   "fact": "The Hyatt Regency Miami Airport offers a free shuttle service to the Port of Miami cruise terminal, with departures around 10:00 AM, 11:00 AM, and 12:00 PM, taking approximately 20-30 minutes.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hilton Miami Airport Blue Lagoon",
+   "target_entity_name": "Port of Miami",
+   "relation_type": "OFFERS_SHUTTLE_TO",
+   "fact": "The Hilton Miami Airport Blue Lagoon offers a free shuttle service to the Port of Miami cruise terminal.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Embassy Suites by Hilton Miami International Airport",
+   "target_entity_name": "Port of Miami",
+   "relation_type": "OFFERS_SHUTTLE_TO",
+   "fact": "The Embassy Suites by Hilton Miami International Airport offers a free shuttle service to the Port of Miami cruise terminal.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Crowne Plaza Miami Airport",
+   "target_entity_name": "Port of Miami",
+   "relation_type": "OFFERS_SHUTTLE_TO",
+   "fact": "The Crowne Plaza Miami Airport offers a free shuttle service to the Port of Miami cruise terminal.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "La Quinta Inn & Suites by Wyndham Miami Airport East",
+   "target_entity_name": "Port of Miami",
+   "relation_type": "OFFERS_SHUTTLE_TO",
+   "fact": "The La Quinta Inn & Suites by Wyndham Miami Airport East offers a free shuttle service to the Port of Miami cruise terminal.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spirit Airlines",
+   "target_entity_name": "Boston",
+   "relation_type": "FLIES_FROM",
+   "fact": "The user is planning to book a round-trip Spirit Airlines ticket from Boston for a spring break trip in March.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spirit Airlines",
+   "target_entity_name": "Fort Lauderdale",
+   "relation_type": "FLIES_TO",
+   "fact": "The user is planning to book a round-trip Spirit Airlines ticket to Fort Lauderdale for a spring break trip in March.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Port of Miami",
+   "target_entity_name": "Miami",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Port of Miami cruise terminal is located in Miami.",
+   "valid_at": "2023-02-28T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

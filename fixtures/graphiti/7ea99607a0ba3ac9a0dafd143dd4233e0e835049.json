@@ -1,0 +1,202 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "iPhone 13 Pro",
+   "target_entity_name": "Best Buy",
+   "relation_type": "PURCHASED_FROM",
+   "fact": "The user got their iPhone 13 Pro at a discounted price of $800 from Best Buy on Black Friday, a deal considering the regular price was $1,000.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "OtterBox Defender Series",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The OtterBox Defender Series, a rugged case with a built-in screen protector priced at $49.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spigen Ultra Hybrid",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Spigen Ultra Hybrid, a clear case with a TPU bumper and hard PC back priced at $25.99, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Case-Mate Tough Stand",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Case-Mate Tough Stand, a case with a built-in stand priced at $30.00, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mophie Juice Pack",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Mophie Juice Pack, a battery case providing up to 50% extra battery life priced at $99.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tech21 Evo Check",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Tech21 Evo Check, a slim case with a checkered pattern priced at $29.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Zagg InvisibleShield Glass+",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Zagg InvisibleShield Glass+, a tempered glass screen protector priced at $29.99, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "BodyGuardz Pure 2",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The BodyGuardz Pure 2, a tempered glass screen protector priced at $24.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "TechArmor High Definition",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The TechArmor High Definition screen protector, priced at $14.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Anker GlassGuard",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Anker GlassGuard, a tempered glass screen protector with a 9H hardness rating priced at $12.99, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Skinomi TechSkin",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Skinomi TechSkin, a screen protector with self-healing technology priced at $14.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "LifeProof FRĒ Series",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The LifeProof FRĒ Series, a waterproof case rated IP68 priced at $89.99, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Catalyst Waterproof Case",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Catalyst Waterproof Case, rated IP68 for underwater use up to 30 meters and priced at $69.99, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "OtterBox Defender Series Waterproof",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The OtterBox Defender Series Waterproof, rated IP68 and priced at $69.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UAG Monarch Series Waterproof",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The UAG Monarch Series Waterproof, rated IP68 and priced at $59.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pelican Protector Series",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Pelican Protector Series, rated IP68 and priced at $59.95, is compatible with the iPhone 13 Pro.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Amazon",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "SELLS_ACCESSORIES_FOR",
+   "fact": "Amazon is one of the online marketplaces, along with Best Buy, where iPhone 13 Pro cases and screen protectors can be found.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Best Buy",
+   "target_entity_name": "iPhone 13 Pro",
+   "relation_type": "SELLS_ACCESSORIES_FOR",
+   "fact": "Best Buy is one of the online marketplaces, along with Amazon, where iPhone 13 Pro cases and screen protectors can be found.",
+   "valid_at": "2023-05-27T13:37:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

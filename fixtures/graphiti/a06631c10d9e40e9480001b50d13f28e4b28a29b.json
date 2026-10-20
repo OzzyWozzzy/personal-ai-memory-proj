@@ -1,0 +1,136 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Goat Milk Pancakes with Fresh Egg Syrup",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Goat Milk Pancakes with Fresh Egg Syrup are made by whipping up fluffy pancakes using goat milk",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Eggs en Cocotte with Goat Milk Cream",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Eggs en Cocotte with Goat Milk Cream is made by baking eggs in ramekins with a splash of goat milk, salt, and pepper",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Goat Milk Crepes with Scrambled Eggs and Fresh Herbs",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Goat Milk Crepes with Scrambled Eggs and Fresh Herbs are made using thin crepes made with goat milk",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Quiche Lorraine with Goat Milk and Fresh Eggs",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Quiche Lorraine with Goat Milk and Fresh Eggs is made by mixing fresh eggs, goat milk, grated cheese, and diced ham or bacon into a pre-baked pie crust",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Breakfast Strata with Goat Milk and Fresh Eggs",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Breakfast Strata with Goat Milk and Fresh Eggs is a layered dish made with cubed bread, fresh eggs, goat milk, and shredded cheese",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Goat Milk French Toast with Caramelized Bananas and Scrambled Eggs",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Goat Milk French Toast with Caramelized Bananas and Scrambled Eggs is made by dipping thick slices of bread in a mixture of goat milk, eggs, and cinnamon",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Eggs in Purgatory with Goat Milk and Spinach",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Eggs in Purgatory with Goat Milk and Spinach has eggs poached in a spicy tomato sauce made with goat milk, served with wilted spinach and feta cheese",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Goat Milk Custard Tarts with Fresh Egg Yolks",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Goat Milk Custard Tarts with Fresh Egg Yolks are made by mixing goat milk, sugar, and egg yolks into pre-baked tart shells",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fresh Chevre",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Fresh Chevre (goat cheese) requires 1 gallon of goat milk, heated to 86°F (30°C), plus cheese cultures and rennet",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Goat Milk Ricotta",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Goat Milk Ricotta requires 1 quart of goat milk combined with heavy cream, salt, and vinegar or lemon juice, heated to 180°F (82°C)",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Goat Milk Mozzarella",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Goat Milk Mozzarella requires 1 gallon of goat milk, heated to 86°F (30°C), with citric acid and rennet added",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Goat Milk Feta",
+   "target_entity_name": "Goat Milk",
+   "relation_type": "USES_INGREDIENT",
+   "fact": "Goat Milk Feta requires 1 gallon of goat milk, heated to 86°F (30°C), with cheese cultures and rennet added",
+   "valid_at": "2023-01-11T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

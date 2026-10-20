@@ -1,0 +1,28 @@
+{
+ "summaries": [
+  {
+   "name": "Private Mortgage Insurance (PMI)",
+   "summary": "Private Mortgage Insurance (PMI) is required by lenders when a homebuyer puts down less than 20% of the purchase price, protecting the lender in case of default. It typically costs 0.3% to 1.5% of the original loan amount annually, added to the monthly mortgage payment. The user avoids PMI by putting 20% down ($68,000) on a $340,000 townhouse purchase."
+  },
+  {
+   "name": "FHA loans",
+   "summary": "FHA loans are a government assistance program that can offer mortgage assistance to low-to-moderate-income homebuyers."
+  },
+  {
+   "name": "VA loans",
+   "summary": "VA loans are a government assistance program that can offer mortgage assistance to low-to-moderate-income homebuyers, including veterans or active military."
+  },
+  {
+   "name": "Experian",
+   "summary": "Experian is one of the three major credit bureaus (along with TransUnion and Equifax) where a person can obtain a copy of their credit report to review for errors and dispute inaccuracies."
+  },
+  {
+   "name": "TransUnion",
+   "summary": "TransUnion is one of the three major credit bureaus (along with Experian and Equifax) where a person can obtain a copy of their credit report to review for errors and dispute inaccuracies."
+  },
+  {
+   "name": "Equifax",
+   "summary": "Equifax is one of the three major credit bureaus (along with Experian and TransUnion) where a person can obtain a copy of their credit report to review for errors and dispute inaccuracies."
+  }
+ ]
+}

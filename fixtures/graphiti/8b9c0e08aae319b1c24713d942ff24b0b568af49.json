@@ -1,0 +1,235 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Korg B1",
+   "target_entity_name": "Korg",
+   "relation_type": "MADE_BY",
+   "fact": "The Korg B1 is a $699 compact, weighted-key digital piano by Korg focused on piano sound and a natural playing experience",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Roland FP-10",
+   "target_entity_name": "Roland",
+   "relation_type": "MADE_BY",
+   "fact": "The Roland FP-10 is a $999 portable, weighted-key digital piano by Roland with Bluetooth audio/MIDI and app connectivity",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Korg Grandstage",
+   "target_entity_name": "Korg",
+   "relation_type": "MADE_BY",
+   "fact": "The Korg Grandstage is a $699 compact stage piano by Korg focused on sound quality with a lighter, portable design",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Roland FP-30",
+   "target_entity_name": "Roland",
+   "relation_type": "MADE_BY",
+   "fact": "The Roland FP-30 is a $799 compact, lightweight digital piano by Roland with Bluetooth audio/MIDI and app connectivity",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Joe",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "SERVICED",
+   "fact": "Joe serviced the user's Taylor GS Mini today, fixing the high action that was causing left-hand discomfort, and the action now feels perfect",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Taylor GS Mini",
+   "target_entity_name": "Fender Mustang I V2",
+   "relation_type": "PLAYED_THROUGH",
+   "fact": "The user has been playing their Taylor GS Mini more frequently through their Fender Mustang I V2 practice amp",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fender Acoustic 40",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $299 Fender Acoustic 40 amp is recommended to bring out the full potential of the user's Taylor GS Mini for practice and small gigs",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fishman Loudbox Mini",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $299 Fishman Loudbox Mini amp is recommended to bring out the full potential of the user's Taylor GS Mini for practice and small gigs",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "AER Compact 60",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $499 AER Compact 60 amp is recommended to bring out the full potential of the user's Taylor GS Mini for practice and small gigs",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "MXR Dyna Comp",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $99 MXR Dyna Comp compressor pedal is recommended to complement the user's Taylor GS Mini",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "MXR Dyna Comp",
+   "target_entity_name": "Fender Mustang I V2",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $99 MXR Dyna Comp compressor pedal is recommended to complement the user's Fender Mustang I V2",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Teletronix LA-2A",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $299 Teletronix LA-2A studio-grade compressor pedal is recommended to complement the user's Taylor GS Mini",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Teletronix LA-2A",
+   "target_entity_name": "Fender Mustang I V2",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $299 Teletronix LA-2A studio-grade compressor pedal is recommended to complement the user's Fender Mustang I V2",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Keeley Electronics Compressor",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $179 Keeley Electronics Compressor pedal is recommended to complement the user's Taylor GS Mini",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Keeley Electronics Compressor",
+   "target_entity_name": "Fender Mustang I V2",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $179 Keeley Electronics Compressor pedal is recommended to complement the user's Fender Mustang I V2",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Strymon Blue Sky",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $229 Strymon Blue Sky reverb pedal is recommended to complement the user's Taylor GS Mini",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Strymon Blue Sky",
+   "target_entity_name": "Fender Mustang I V2",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $229 Strymon Blue Sky reverb pedal is recommended to complement the user's Fender Mustang I V2",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Electro-Harmonix Nano Clone",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $69 Electro-Harmonix Nano Clone chorus pedal is recommended to complement the user's Taylor GS Mini",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Electro-Harmonix Nano Clone",
+   "target_entity_name": "Fender Mustang I V2",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $69 Electro-Harmonix Nano Clone chorus pedal is recommended to complement the user's Fender Mustang I V2",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "TC Electronic Flashback Delay",
+   "target_entity_name": "Taylor GS Mini",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $149 TC Electronic Flashback Delay pedal is recommended to complement the user's Taylor GS Mini",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "TC Electronic Flashback Delay",
+   "target_entity_name": "Fender Mustang I V2",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The $149 TC Electronic Flashback Delay pedal is recommended to complement the user's Fender Mustang I V2",
+   "valid_at": "2023-02-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

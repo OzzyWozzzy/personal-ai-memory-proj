@@ -1,0 +1,19 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "TetraMin",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "API",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Java Moss",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

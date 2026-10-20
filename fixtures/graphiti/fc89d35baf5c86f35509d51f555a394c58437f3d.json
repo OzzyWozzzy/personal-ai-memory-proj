@@ -1,0 +1,28 @@
+{
+ "summaries": [
+  {
+   "name": "Japan",
+   "summary": "The user moved to Japan and initially found it hard to understand the cultural context; this improved over time by making local friends and joining language exchange groups. The user has Japanese co-workers and practices the language with them."
+  },
+  {
+   "name": "Duolingo",
+   "summary": "Duolingo is one of the most popular language learning apps, using gamified exercises to teach new words, phrases, and grammar."
+  },
+  {
+   "name": "Rosetta Stone",
+   "summary": "Rosetta Stone offers immersive language lessons with speech recognition software to practice speaking."
+  },
+  {
+   "name": "Babbel",
+   "summary": "Babbel provides personalized language lessons in bite-sized chunks and offers real-world conversations."
+  },
+  {
+   "name": "Memrise",
+   "summary": "Memrise uses mnemonics to help learners memorize words, phrases, and grammatical concepts."
+  },
+  {
+   "name": "Lingodeer",
+   "summary": "Lingodeer is a language learning app that provides courses with interactive games, videos, and quizzes to help learners progress in their language skills."
+  }
+ ]
+}

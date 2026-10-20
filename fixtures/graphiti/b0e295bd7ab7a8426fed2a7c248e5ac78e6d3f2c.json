@@ -1,0 +1,34 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Verizon International Plan",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "AT&T International Day Pass",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "T-Mobile International Plan",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Google Fi",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "WhatsApp",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Skype",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

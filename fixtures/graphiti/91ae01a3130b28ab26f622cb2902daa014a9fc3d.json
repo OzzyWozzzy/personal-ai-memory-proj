@@ -1,0 +1,39 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "American Home Shield (AHS)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "HomeServe USA",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Old Republic Home Warranty",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "First American Home Warranty",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Choice Home Warranty",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Select Home Warranty",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "ShieldGold",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

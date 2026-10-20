@@ -1,0 +1,179 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Oahu",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Maui",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Big Island",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Lanai",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Hanauma Bay Nature Preserve",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Shark's Cove",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Honolua Bay",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Ke'e Beach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Kealakekua Bay",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Hapuna Beach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Hulopoe Beach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Manoa Falls Trail",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Makapu'u Point Lighthouse Trail",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Diamond Head State Monument",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "Honolulu",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "Waikiki Beach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 16,
+   "name": "Olomana Trail",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 17,
+   "name": "Kuliouou Ridge Trail",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 18,
+   "name": "Waimea Valley Trail",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 19,
+   "name": "Hawaii State Parks",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 20,
+   "name": "Na Ala Hele Trail System",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 21,
+   "name": "University of Hawaii at Manoa",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 22,
+   "name": "Morning Glass Coffee + Cafe",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 23,
+   "name": "The Nook Neighborhood Bistro",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 24,
+   "name": "Koko Head Cafe",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 25,
+   "name": "Oahu Avenue",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 26,
+   "name": "Manoa Road",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 27,
+   "name": "Kaimana Beach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 28,
+   "name": "Kahala",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 29,
+   "name": "Kailua Beach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 30,
+   "name": "Lanikai Beach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 31,
+   "name": "Waialae Beach",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 32,
+   "name": "Hawaii Kai",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 33,
+   "name": "Ko'olau Mountains",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 34,
+   "name": "Oahu's North Shore",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

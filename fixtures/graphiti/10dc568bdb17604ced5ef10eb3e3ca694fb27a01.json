@@ -1,0 +1,774 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Oahu",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "Oahu is one of the islands of Hawaii",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "Maui is one of the islands of Hawaii",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kauai",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kauai is one of the islands of Hawaii",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Big Island",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Big Island is one of the islands of Hawaii",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Statue of Liberty",
+   "target_entity_name": "New York City",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Statue of Liberty is a kid-friendly attraction in New York City",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Central Park",
+   "target_entity_name": "New York City",
+   "relation_type": "LOCATED_IN",
+   "fact": "Central Park is a kid-friendly attraction in New York City",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Museum of Natural History",
+   "target_entity_name": "New York City",
+   "relation_type": "LOCATED_IN",
+   "fact": "The American Museum of Natural History is a kid-friendly attraction in New York City",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Eiffel Tower",
+   "target_entity_name": "Paris",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Eiffel Tower is a family attraction in Paris",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Disneyland Paris",
+   "target_entity_name": "Paris",
+   "relation_type": "LOCATED_IN",
+   "fact": "Disneyland Paris is a family attraction in Paris",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Luxembourg Gardens",
+   "target_entity_name": "Paris",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Luxembourg Gardens is a family attraction in Paris",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gardens by the Bay",
+   "target_entity_name": "Singapore",
+   "relation_type": "LOCATED_IN",
+   "fact": "Gardens by the Bay is an attraction in Singapore",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Marina Bay Sands",
+   "target_entity_name": "Singapore",
+   "relation_type": "LOCATED_IN",
+   "fact": "Marina Bay Sands is an attraction in Singapore",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Universal Studios Singapore",
+   "target_entity_name": "Singapore",
+   "relation_type": "LOCATED_IN",
+   "fact": "Universal Studios Singapore is a family attraction in Singapore",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Singapore Zoo",
+   "target_entity_name": "Singapore",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Singapore Zoo is a family attraction in Singapore",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sentosa Island",
+   "target_entity_name": "Singapore",
+   "relation_type": "LOCATED_IN",
+   "fact": "Sentosa Island is a family attraction in Singapore",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bahamas",
+   "target_entity_name": "Caribbean Islands",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Bahamas is a stop on a Caribbean cruise among the Caribbean Islands",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "St. Maarten",
+   "target_entity_name": "Caribbean Islands",
+   "relation_type": "LOCATED_IN",
+   "fact": "St. Maarten is a stop on a Caribbean cruise among the Caribbean Islands",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jamaica",
+   "target_entity_name": "Caribbean Islands",
+   "relation_type": "LOCATED_IN",
+   "fact": "Jamaica is a stop on a Caribbean cruise among the Caribbean Islands",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Barcelona",
+   "target_entity_name": "Mediterranean Europe",
+   "relation_type": "LOCATED_IN",
+   "fact": "Barcelona is a historic port stop on a Mediterranean cruise",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rome",
+   "target_entity_name": "Mediterranean Europe",
+   "relation_type": "LOCATED_IN",
+   "fact": "Rome is a historic port stop on a Mediterranean cruise",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Athens",
+   "target_entity_name": "Mediterranean Europe",
+   "relation_type": "LOCATED_IN",
+   "fact": "Athens is a historic port stop on a Mediterranean cruise",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kilauea",
+   "target_entity_name": "Volcanoes National Park",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Kilauea volcano is located within Volcanoes National Park",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Thurston Lava Tube",
+   "target_entity_name": "Volcanoes National Park",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Thurston Lava Tube is located within Volcanoes National Park",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jaggar Museum",
+   "target_entity_name": "Volcanoes National Park",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Jaggar Museum is located within Volcanoes National Park",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Volcanoes National Park",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Volcanoes National Park is located on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mauna Kea Visitor Information Station",
+   "target_entity_name": "Mauna Kea",
+   "relation_type": "LOCATED_AT",
+   "fact": "The Mauna Kea Visitor Information Station is located on Mauna Kea, the tallest mountain in Hawaii",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mauna Kea",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Mauna Kea is located on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kealakekua Bay",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kealakekua Bay is a snorkeling and scuba diving spot on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hapuna Beach",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hapuna Beach is a snorkeling and scuba diving spot on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Honokaope Bay",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Honokaope Bay is a snorkeling and scuba diving spot on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kohala Zipline",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kohala Zipline offers ziplining through the lush Hawaiian rainforest on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Zip Isle",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Zip Isle offers ziplining through the lush Hawaiian rainforest on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Na'alapa Stables",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Na'alapa Stables offers horseback riding through the countryside on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Paniolo Horseback Adventures",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Paniolo Horseback Adventures offers horseback riding through the countryside on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hilo Farmers Market",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Hilo Farmers Market is a bustling Saturday market on the Big Island selling fresh produce, flowers, crafts, and local specialties",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pacific Tsunami Museum",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Pacific Tsunami Museum on the Big Island teaches about the history of tsunamis and their impact on the island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rainbow Falls",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Rainbow Falls is an 80-foot waterfall a few miles from downtown Hilo on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Wailoa River State Recreation Area",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Wailoa River State Recreation Area on the Big Island offers scenic drives, hiking, kayaking, and boat tours",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hilo Public Library",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Hilo Public Library on the Big Island is a beautiful example of Art Deco architecture",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Akaka Falls State Park",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Akaka Falls State Park, about 15 minutes north of Hilo, is on the Big Island and features stunning waterfalls and hiking trails",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kailua-Kona",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kailua-Kona is a town on the Big Island known for its laid-back atmosphere and coffee culture",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kona Tiki Hotel",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kona Tiki Hotel is a retro-style waterfront hotel in Kailua-Kona with rooms starting around $120 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kona Inn",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kona Inn is a cozy, family-run hotel in Kailua-Kona offering rooms from $100 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kona Hostel",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kona Hostel is a sociable hostel in Kailua-Kona with dorm beds starting at $30 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Holualoa Inn",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Holualoa Inn is a charming B&B in Kailua-Kona with rooms starting around $180 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kona Makai Condos",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kona Makai Condos are self-catering condos in Kailua-Kona priced from $150 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Wyndham Kona Hawaiian Resort",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Wyndham Kona Hawaiian Resort in Kailua-Kona offers studios and one-bedroom condos from $180 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coffee Shack",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Coffee Shack is an eco-friendly hostel located on a coffee farm in Kailua-Kona, with prices starting at $40 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kalani Retreat",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kalani Retreat is a wellness-focused resort in Kailua-Kona with rooms from $120 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hale Hoola B&B",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hale Hoola B&B is a cozy, family-run B&B in a quiet neighborhood in Kailua-Kona, with rooms starting around $150 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kona Village Inn",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kona Village Inn is a historic inn in the heart of Kailua-Kona with rooms starting around $120 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kona Seaside Hotel",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kona Seaside Hotel is a beachfront hotel in Kailua-Kona offering rooms from $150 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hale Kai O'Kailua",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hale Kai O'Kailua is a beachfront condo complex in Kailua-Kona priced from $180 per night",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hawaii Island Brewery",
+   "target_entity_name": "Kailua-Kona",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hawaii Island Brewery offers tours and local craft beer tastings in Kailua-Kona",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kona Coffee Living History Farm",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kona Coffee Living History Farm is a working coffee farm with guided tours and tastings on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mountain Thunder Coffee",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Mountain Thunder Coffee is a family-owned coffee farm with tours and tastings on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Greenwell Farms",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Greenwell Farms is a historic coffee farm with guided tours and tastings on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kazumura Cave",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kazumura Cave, the world's largest lava tube, is located on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cafe Pesto",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Cafe Pesto is a Hilo institution on the Big Island serving farm-to-table cuisine",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hilo Bay Cafe",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hilo Bay Cafe offers waterfront dining with views of Hilo Bay on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kuhio Grille",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kuhio Grille is a casual, family-owned eatery in Hilo on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fish and The Hog",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Fish and The Hog is a seafood restaurant in Hilo on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hilo Town Tavern",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hilo Town Tavern is a gastropub in Hilo on the Big Island serving farm-to-table cuisine and craft beers",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miyo's",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Miyo's is a small, family-run Japanese restaurant in Hilo on the Big Island",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kalapana Cafe",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kalapana Cafe is a casual cafe in Hilo on the Big Island serving locally-inspired sandwiches and salads",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Punalu'u Bakery",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Punalu'u Bakery is a popular bakery in Hilo on the Big Island offering traditional Hawaiian breads and pastries",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Helena's Hawaiian Food",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Helena's Hawaiian Food is a local institution in Hilo on the Big Island that has served traditional Hawaiian dishes for over 70 years",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kuhio Grille",
+   "target_entity_name": "Loco Moco",
+   "relation_type": "SERVES",
+   "fact": "Kuhio Grille serves classic Hawaiian comfort food including loco moco",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hilo Bay Cafe",
+   "target_entity_name": "Poi",
+   "relation_type": "SERVES",
+   "fact": "Hilo Bay Cafe's laulau is served with a side of poi made from taro root",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cafe Pesto",
+   "target_entity_name": "Poi",
+   "relation_type": "SERVES",
+   "fact": "Cafe Pesto's kalua pig, slow-cooked in an underground imu, is served with cabbage, rice, and a side of poi",
+   "valid_at": "2023-05-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

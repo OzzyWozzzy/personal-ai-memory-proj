@@ -1,0 +1,49 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Speed Demon Racing Track",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Turbocharged Tuesdays",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Winter Tune-Up",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Castrol SRF",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Motul RBF 660",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "AP Racing PRF 660",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Brembo HTX",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Performance Garage",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Tune-Up Saturday",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

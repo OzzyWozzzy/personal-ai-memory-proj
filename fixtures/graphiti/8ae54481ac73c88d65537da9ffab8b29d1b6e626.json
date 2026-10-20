@@ -1,0 +1,34 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "San Francisco",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Southwest Airlines",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "San Francisco International Airport (SFO)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Oakland International Airport (OAK)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Google Flights",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Rapid Rewards",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Miami",
+   "relation_type": "CONSIDERED_FLYING_TO",
+   "fact": "The user is planning a trip to Miami and considering flying with American Airlines.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "New York",
+   "relation_type": "FLEW_FROM",
+   "fact": "The user flew with American Airlines from New York on February 20th and had a terrible experience with the in-flight entertainment system.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Los Angeles",
+   "relation_type": "FLEW_TO",
+   "fact": "The user flew with American Airlines to Los Angeles on February 20th and had a terrible experience with the in-flight entertainment system.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Boeing 737-800",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "American Airlines' Boeing 737-800 aircraft feature seat-back screens with a touchscreen interface offering movies, TV shows, music, games, and live TV.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Boeing 777-200",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "American Airlines' Boeing 777-200 aircraft feature seat-back screens with a touchscreen interface offering movies, TV shows, music, games, and live TV.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Airbus A321T",
+   "relation_type": "FEATURES_SEATBACK_SCREENS_ON",
+   "fact": "American Airlines' Airbus A321T aircraft feature seat-back screens with a touchscreen interface offering movies, TV shows, music, games, and live TV.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Boeing 737 MAX",
+   "relation_type": "PROVIDES_TABLET_ENTERTAINMENT_ON",
+   "fact": "American Airlines provides tablet-based entertainment pre-loaded with movies, TV shows, and games on its Boeing 737 MAX aircraft.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Airbus A321",
+   "relation_type": "PROVIDES_TABLET_ENTERTAINMENT_ON",
+   "fact": "American Airlines provides tablet-based entertainment pre-loaded with movies, TV shows, and games on its Airbus A321 aircraft.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "American Airlines app",
+   "relation_type": "OFFERS_APP",
+   "fact": "American Airlines offers the American Airlines app, which lets passengers stream personal-device entertainment on select aircraft, receive flight update notifications, check in, and access a mobile boarding pass.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Twitter",
+   "relation_type": "ACTIVE_ON",
+   "fact": "American Airlines is active on Twitter under the handle @AmericanAir, where customers can reach out for assistance or report issues.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Facebook",
+   "relation_type": "ACTIVE_ON",
+   "fact": "American Airlines is active on Facebook, where customers can reach out for assistance or report issues.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Skytrax",
+   "relation_type": "RATED_BY",
+   "fact": "American Airlines has a customer service rating of 3/5 stars on Skytrax, based on over 22,000 reviews.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "TripAdvisor",
+   "relation_type": "RATED_BY",
+   "fact": "American Airlines has a customer service rating of 3.5/5 stars on TripAdvisor, based on over 33,000 reviews.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Consumer Reports",
+   "relation_type": "RATED_BY",
+   "fact": "American Airlines has a customer service rating of 64/100 from Consumer Reports, based on a survey of over 18,000 passengers.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Allianz Global Assistance",
+   "relation_type": "PARTNERS_WITH",
+   "fact": "American Airlines offers trip insurance through its partner, Allianz Global Assistance, covering trip cancellations, interruptions, delays, and baggage loss or damage.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Baggage Delivery Guarantee",
+   "relation_type": "OFFERS_POLICY",
+   "fact": "American Airlines' Baggage Delivery Guarantee promises delivery of a delayed bag within 24 hours (a $25 voucher for future travel if it fails to do so) and reimbursement of up to $3,500 for a lost bag.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Baggage Protection",
+   "relation_type": "OFFERS_POLICY",
+   "fact": "American Airlines' Baggage Protection is a separate insurance policy covering checked bags up to $1,000 per bag, with a premium of about $12-$20 per person per trip.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

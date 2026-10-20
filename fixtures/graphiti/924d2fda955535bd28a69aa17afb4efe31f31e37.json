@@ -1,0 +1,109 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "United Airlines",
+   "duplicate_candidate_id": 0
+  },
+  {
+   "id": 1,
+   "name": "Chicago",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Delta Studio",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Boeing 737-900ER",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Airbus A350",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Fly Delta app",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "HBO",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Showtime",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Miami International Airport",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Miami International Airport Hotel",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Hyatt Regency Miami Airport",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Hilton Miami Airport Blue Lagoon",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Crowne Plaza Miami Airport",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Fairfield Inn & Suites by Marriott Miami Airport South",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "La Quinta Inn & Suites by Wyndham Miami Airport East",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "Embassy Suites by Hilton Miami International Airport",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 16,
+   "name": "Sheraton Miami Airport Hotel & Executive Meeting Center",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 17,
+   "name": "DoubleTree by Hilton Hotel Miami Airport & Convention Center",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 18,
+   "name": "Uber",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 19,
+   "name": "Lyft",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 20,
+   "name": "Port of Miami",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

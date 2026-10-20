@@ -1,0 +1,279 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Spicy Shrimp Ceviche",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Spicy Shrimp Ceviche, made with lime juice, mango puree, and diced jalapeños, pairs well with Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mango Salsa with Plantain Chips",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Mango Salsa with Plantain Chips pairs nicely with Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grilled Pineapple and Prosciutto Skewers",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Grilled Pineapple and Prosciutto Skewers complement the spicy and fruity flavors of Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jalapeño Poppers",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Jalapeño Poppers, stuffed with cream cheese and mango chutney, pair with Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coconut Shrimp with Mango Chili Sauce",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Coconut Shrimp with Mango Chili Sauce pairs with Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spicy Mango Bruschetta",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Spicy Mango Bruschetta pairs with Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Crispy Fried Wontons with Mango Salsa",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Crispy Fried Wontons with Mango Salsa pairs with Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mango and Avocado Salad",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Mango and Avocado Salad, dressed with lime vinaigrette, helps cool the palate between sips of Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spicy Mango Meatballs",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Spicy Mango Meatballs pair with Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tropical Fruit Skewers with Spicy Rum Glaze",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Tropical Fruit Skewers with Spicy Rum Glaze, made with pineapple, mango, and kiwi, pair with Spicy Mango Margaritas",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grilled Jerk Chicken with Mango Salsa",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Grilled Jerk Chicken with Mango Salsa pairs with Spicy Mango Margaritas as a main course",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pan-Seared Fish Tacos with Mango Avocado Salsa",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Pan-Seared Fish Tacos with Mango Avocado Salsa pairs with Spicy Mango Margaritas as a main course",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cilantro Lime Chicken Fajitas",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Cilantro Lime Chicken Fajitas pair with Spicy Mango Margaritas as a main course",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grilled Shrimp and Pineapple Skewers with Coconut Rice",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Grilled Shrimp and Pineapple Skewers with Coconut Rice pairs with Spicy Mango Margaritas as a main course",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chipotle Lime Grilled Steak with Roasted Vegetables",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Chipotle Lime Grilled Steak with Roasted Vegetables pairs with Spicy Mango Margaritas as a main course",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coconut Curry Chicken with Mango Chutney",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Coconut Curry Chicken with Mango Chutney pairs with Spicy Mango Margaritas as a main course",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grilled Mahi-Mahi with Mango BBQ Sauce",
+   "target_entity_name": "Spicy Mango Margaritas",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Grilled Mahi-Mahi with Mango BBQ Sauce pairs with Spicy Mango Margaritas as a main course",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grilled Pineapple and Prosciutto Skewers",
+   "target_entity_name": "Spicy Shrimp Ceviche",
+   "relation_type": "SELECTED_TOGETHER_AS_APPETIZERS",
+   "fact": "The user chose to serve Grilled Pineapple and Prosciutto Skewers together with Spicy Shrimp Ceviche as appetizers at the dinner party",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coconut Lime Panna Cotta with Mango Salsa",
+   "target_entity_name": "Grilled Jerk Chicken with Mango Salsa",
+   "relation_type": "SERVED_AS_DESSERT_AFTER",
+   "fact": "The user chose Coconut Lime Panna Cotta with Mango Salsa as the dessert to serve after the Grilled Jerk Chicken with Mango Salsa main course",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pineapple Upside-Down Cake with Spicy Rum Glaze",
+   "target_entity_name": "Grilled Jerk Chicken with Mango Salsa",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Pineapple Upside-Down Cake with Spicy Rum Glaze was suggested as a dessert pairing for the Grilled Jerk Chicken with Mango Salsa meal",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mango Sorbet with Toasted Coconut and Lime Zest",
+   "target_entity_name": "Grilled Jerk Chicken with Mango Salsa",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Mango Sorbet with Toasted Coconut and Lime Zest was suggested to cleanse the palate after the Grilled Jerk Chicken with Mango Salsa",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coconut Cream Pie with a Spicy Mango Chutney",
+   "target_entity_name": "Grilled Jerk Chicken with Mango Salsa",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Coconut Cream Pie with a Spicy Mango Chutney was suggested as a dessert pairing for the Grilled Jerk Chicken with Mango Salsa meal",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jerk-Infused Chocolate Truffles",
+   "target_entity_name": "Grilled Jerk Chicken with Mango Salsa",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Jerk-Infused Chocolate Truffles, made with dark chocolate, jerk seasoning, and a hint of allspice, were suggested as a dessert pairing for the Grilled Jerk Chicken with Mango Salsa meal",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pineapple-Coconut Tarts with Spicy Mango Salsa",
+   "target_entity_name": "Grilled Jerk Chicken with Mango Salsa",
+   "relation_type": "PAIRS_WITH",
+   "fact": "Pineapple-Coconut Tarts with Spicy Mango Salsa were suggested as a dessert pairing for the Grilled Jerk Chicken with Mango Salsa meal",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grand Marnier",
+   "target_entity_name": "Coconut Lime Panna Cotta with Mango Salsa",
+   "relation_type": "USED_AS_INGREDIENT_IN",
+   "fact": "A splash of Grand Marnier can be added to the mango salsa served with the Coconut Lime Panna Cotta with Mango Salsa to give it a subtle citrus flavor",
+   "valid_at": "2023-06-16T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Belkin Boost Up",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "United States",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Mauna Loa",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

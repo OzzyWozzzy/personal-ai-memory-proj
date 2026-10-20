@@ -1,0 +1,28 @@
+{
+ "summaries": [
+  {
+   "name": "Section 8",
+   "summary": "Section 8 is a government-subsidized housing assistance program suggested as an affordable housing option for the user's apartment search, as of 2023-05-21. The user is not eligible for government assistance programs like Section 8."
+  },
+  {
+   "name": "HotPads",
+   "summary": "HotPads is a map-based rental search site with filters for price, location, and amenities. It offers a \"Commute Time\" feature showing travel time to specific locations like a volunteer job. The user has already been using HotPads in their apartment search as of 2023-05-21."
+  },
+  {
+   "name": "Walk Score",
+   "summary": "Walk Score is a resource (not exclusively a rental search site) that evaluates the walkability and public transportation access of a neighborhood, giving a score based on proximity to amenities and public transportation when an address or neighborhood is entered."
+  },
+  {
+   "name": "Apartments.com",
+   "summary": "Apartments.com is a comprehensive rental search site with filters for price, location, and amenities, and a \"Ratings & Reviews\" feature showing feedback from current and former residents."
+  },
+  {
+   "name": "Rent Jungle",
+   "summary": "Rent Jungle is a rental search engine that aggregates listings from various sources, with filters for price, location, and amenities, and a \"Neighborhood Guide\" feature providing local area insights."
+  },
+  {
+   "name": "Facebook Marketplace",
+   "summary": "Facebook Marketplace is recommended, along with Craigslist, as a local online classified site that may have affordable room rental options."
+  }
+ ]
+}

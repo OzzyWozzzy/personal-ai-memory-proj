@@ -1,0 +1,36 @@
+{
+ "summaries": [
+  {
+   "name": "Lemon Lavender Panna Cotta",
+   "summary": "A bright, citrusy, creamy dessert with a subtle floral lavender flavor, suggested as a sophisticated dinner-party dessert to contrast a rich and savory main course."
+  },
+  {
+   "name": "Raspberry Sorbet",
+   "summary": "A refreshing, light dessert suggested to cleanse the palate at a dinner party, either as a dessert or as a palate cleanser between courses."
+  },
+  {
+   "name": "Vanilla Bean Crème Brûlée",
+   "summary": "A creamy, sweet, classic dessert with caramelized sugar on top, suggested to contrast savory dinner-party flavors with its textural crunch."
+  },
+  {
+   "name": "Pistachio Kulfi",
+   "summary": "An Indian-style ice cream that is denser and creamier than traditional ice cream, with a nutty pistachio flavor suggested to complement rich and savory dinner-party flavors."
+  },
+  {
+   "name": "Citrus-Herb Granita",
+   "summary": "A light, icy dessert suggested to awaken the palate at a dinner party, infused with herbs like mint, basil, or lemongrass for a unique twist."
+  },
+  {
+   "name": "Greek Yogurt with Honey and Walnuts",
+   "summary": "A simple, elegant dessert combining the tanginess of yogurt, sweetness of honey, and crunch of walnuts, suggested as a refreshing contrast to rich dinner-party flavors."
+  },
+  {
+   "name": "Pastry Flour",
+   "summary": "Pastry flour has a lower protein content than all-purpose flour, making it ideal for delicate pastries and tart crusts, producing a tender, flaky crust with a delicate texture."
+  },
+  {
+   "name": "Cake Flour",
+   "summary": "Cake flour has an extremely low protein content, making it well suited for tender, flaky crusts, though it can be more challenging to work with due to its low gluten content."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "summaries": [
+  {
+   "name": "GreenSpace",
+   "summary": "GreenSpace is a rooftop garden event venue offering a peaceful atmosphere. It provides outdoor games including Giant Chess and Croquet, accommodates groups of up to 10 people, and offers a menu of healthy snacks and drinks."
+  },
+  {
+   "name": "Peerspace",
+   "summary": "Peerspace is a platform that allows users to rent unique event spaces, including rooftop venues."
+  },
+  {
+   "name": "Eventbrite",
+   "summary": "Eventbrite is a platform that allows users to find and book event spaces, including rooftop venues."
+  },
+  {
+   "name": "Rooftop Republic",
+   "summary": "Rooftop Republic is a rooftop event space rental company that offers a range of rooftop venue options in the city."
+  }
+ ]
+}

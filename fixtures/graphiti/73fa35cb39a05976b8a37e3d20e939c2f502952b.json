@@ -1,0 +1,235 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Garmin Express",
+   "target_entity_name": "Garmin",
+   "relation_type": "DEVELOPED_BY",
+   "fact": "Garmin Express is software developed by Garmin, downloaded to calibrate a Garmin bike computer via USB.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Garmin",
+   "target_entity_name": "GPS",
+   "relation_type": "SUPPORTS",
+   "fact": "Garmin bike computers support enabling GPS to receive satellite signals from the American GPS system for accurate location data.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Garmin",
+   "target_entity_name": "GLONASS",
+   "relation_type": "SUPPORTS",
+   "fact": "Garmin bike computers support enabling GLONASS (if available) to receive satellite signals from the Russian GLONASS system for more accurate location data.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bell Zephyr",
+   "target_entity_name": "Bell Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Bell Zephyr is a high-end road helmet manufactured by Bell Helmets, priced in the $200-$300 premium range.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bell Streak",
+   "target_entity_name": "Bell Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Bell Streak is an entry-level helmet manufactured by Bell Helmets, priced in the $30-$50 range.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Specialized Tactic 3.0",
+   "target_entity_name": "Specialized Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Specialized Tactic 3.0 is a versatile helmet for road, mountain, and commuter riding manufactured by Specialized Helmets, priced in the $200-$300 premium range.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Specialized Chapeau",
+   "target_entity_name": "Specialized Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Specialized Chapeau is a mid-range helmet manufactured by Specialized Helmets, priced in the $50-$100 range.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Specialized Evade",
+   "target_entity_name": "Specialized Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Specialized Evade is a lightweight and aerodynamic high-end helmet manufactured by Specialized Helmets.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Giro Synthe",
+   "target_entity_name": "Giro Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Giro Synthe is a premium road helmet with excellent ventilation and an aerodynamic design, manufactured by Giro Helmets, priced in the $100-$200 high-end range.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Giro Fixture",
+   "target_entity_name": "Giro Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Giro Fixture is an entry-level helmet manufactured by Giro Helmets, priced in the $30-$50 range.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Trek Vapor 3",
+   "target_entity_name": "Trek Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Trek Vapor 3 is a lightweight, ventilated helmet for road and mountain biking manufactured by Trek Helmets, priced in the $200-$300 premium range.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Trek Vapor 2",
+   "target_entity_name": "Trek Helmets",
+   "relation_type": "MANUFACTURED_BY",
+   "fact": "The Trek Vapor 2 is a mid-range helmet manufactured by Trek Helmets, priced in the $50-$100 range.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bell Zephyr",
+   "target_entity_name": "MIPS (Multi-Directional Impact Protection System)",
+   "relation_type": "HAS_FEATURE",
+   "fact": "The Bell Zephyr features MIPS (Multi-Directional Impact Protection System) technology.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Specialized Tactic 3.0",
+   "target_entity_name": "MIPS (Multi-Directional Impact Protection System)",
+   "relation_type": "HAS_FEATURE",
+   "fact": "The Specialized Tactic 3.0 features MIPS (Multi-Directional Impact Protection System) technology.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Giro Synthe",
+   "target_entity_name": "MIPS (Multi-Directional Impact Protection System)",
+   "relation_type": "HAS_FEATURE",
+   "fact": "The Giro Synthe features MIPS (Multi-Directional Impact Protection System) technology.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Giro Helmets",
+   "target_entity_name": "Roc Loc Air",
+   "relation_type": "HAS_FEATURE",
+   "fact": "Giro Helmets offers helmets with the Roc Loc Air fit system.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Trek Helmets",
+   "target_entity_name": "In-Mold construction",
+   "relation_type": "HAS_FEATURE",
+   "fact": "Trek Helmets are designed with the In-Mold construction process for comfort, ventilation, and safety.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Specialized Helmets",
+   "target_entity_name": "Tri-Fix web splitter",
+   "relation_type": "HAS_FEATURE",
+   "fact": "Specialized Helmets offers the patented Tri-Fix web splitter for improved fit and comfort.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Specialized Helmets",
+   "target_entity_name": "CPSC",
+   "relation_type": "MEETS_STANDARD",
+   "fact": "Specialized Helmets are expected to meet safety standards such as CPSC.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Specialized Helmets",
+   "target_entity_name": "Snell",
+   "relation_type": "MEETS_STANDARD",
+   "fact": "Specialized Helmets are expected to meet safety standards such as Snell.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Specialized Helmets",
+   "target_entity_name": "EN 1078",
+   "relation_type": "MEETS_STANDARD",
+   "fact": "Specialized Helmets are expected to meet safety standards such as EN 1078.",
+   "valid_at": "2024-02-20T03:10:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "LAX",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "JFK",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "ATL",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "CLT",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Fly-Fi",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Allianz Travel Insurance",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "TravelGuard Insurance",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Travelex Insurance Services",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Squaremouth Travel Insurance",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Orbitz",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Travelocity",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Boston Logan International Airport",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Fort Lauderdale-Hollywood International Airport",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "extracted_entities": [
+  {
+   "name": "the user's sourdough starter",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "name": "the user's sister",
+   "entity_type_id": 0,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

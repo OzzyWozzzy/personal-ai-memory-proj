@@ -1,0 +1,64 @@
+{
+ "summaries": [
+  {
+   "name": "DSW (Designer Shoe Warehouse)",
+   "summary": "DSW is a store recommended for buying durable sandals, offering a vast selection from brands including Merrell, Keen, and Tevas."
+  },
+  {
+   "name": "Zappos",
+   "summary": "Zappos is an online retailer recommended for buying durable sandals, carrying a wide range of styles and materials from various brands."
+  },
+  {
+   "name": "Amazon",
+   "summary": "Amazon is recommended as a retailer for durable sandals, offering a vast selection from various brands with reviews and price comparisons."
+  },
+  {
+   "name": "Yelp",
+   "summary": "Yelp is recommended as an online review platform for finding a reliable, well-rated cobbler."
+  },
+  {
+   "name": "Google Reviews",
+   "summary": "Google Reviews is recommended as an online review platform for finding a reliable, well-rated cobbler."
+  },
+  {
+   "name": "Facebook Reviews",
+   "summary": "Facebook Reviews is recommended as an online review platform for finding a reliable, well-rated cobbler."
+  },
+  {
+   "name": "Shoe Service Institute of America (SSIA)",
+   "summary": "The Shoe Service Institute of America (SSIA) is a professional organization with strict standards and codes of ethics; cobblers who are members are recommended as more trustworthy."
+  },
+  {
+   "name": "National Shoe Repair Association (NSRA)",
+   "summary": "The National Shoe Repair Association (NSRA) is a professional organization with strict standards and codes of ethics; cobblers who are members are recommended as more trustworthy."
+  },
+  {
+   "name": "Cobbler Concierge",
+   "summary": "Cobbler Concierge is a high-end online shoe repair service offering premium materials and expert craftsmanship."
+  },
+  {
+   "name": "Shoe Spa",
+   "summary": "Shoe Spa is a mail-in shoe repair service offering polishing, conditioning, and repair."
+  },
+  {
+   "name": "Heel to Toe",
+   "summary": "Heel to Toe is a shoe repair service offering mail-in and drop-off options, with a focus on sustainable and eco-friendly practices."
+  },
+  {
+   "name": "Google Maps",
+   "summary": "Google Maps is recommended for exploring new areas near the user's location to find nearby parks, trails, or scenic jogging routes."
+  },
+  {
+   "name": "MapMyRun",
+   "summary": "MapMyRun is a jogging app recommended for discovering new running routes, tracking progress, and connecting with other joggers."
+  },
+  {
+   "name": "Runkeeper",
+   "summary": "Runkeeper is a jogging app recommended for discovering new running routes, tracking progress, and connecting with other joggers."
+  },
+  {
+   "name": "Strava",
+   "summary": "Strava is a jogging app recommended for discovering new running routes, tracking progress, and connecting with other joggers."
+  }
+ ]
+}

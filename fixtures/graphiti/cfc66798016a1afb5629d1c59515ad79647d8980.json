@@ -1,0 +1,144 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "San Francisco",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "New York City",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Lake Tahoe",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Mount Rushmore",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Minneapolis",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Pittsburgh",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Black Hills",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Sierra Nevada",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Rapid City",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Tahoe City Bike Trail",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Truckee River Bike Trail",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Teton Park Road",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Grand Rounds Scenic Byway",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Hudson River Greenway",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "Hudson River",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "Placerville Bike Shop",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 16,
+   "name": "Acme Bicycles",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 17,
+   "name": "Freewheel Bike",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 18,
+   "name": "Thin Man Shop",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 19,
+   "name": "Tahoe City Bikes",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 20,
+   "name": "Mountain Bike Tahoe",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 21,
+   "name": "Jackson Hole Mountain Resort Bike Park",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 22,
+   "name": "Mount Rushmore Bike Rentals",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 23,
+   "name": "Black Hills Bicycles",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 24,
+   "name": "Nice Ride Minnesota",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 25,
+   "name": "The Hub Bike Co-op",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 26,
+   "name": "Golden Triangle Bike Rentals",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 27,
+   "name": "Venture Outdoors",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

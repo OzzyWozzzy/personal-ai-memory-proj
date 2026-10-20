@@ -1,0 +1,119 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Yokohama",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Daikanyama",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Minato Mirai 21",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Yokohama Chinatown",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Yokohama Red Brick Warehouse",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Yamashita Park",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Sankeien Garden",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Cup Noodles Museum",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Yokohama Museum of Art",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "Meiji Shrine",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Kawai Shrine",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Cat Street",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Takenoko Dori",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Kawai Shrine's Lucky Bell",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "kanimeshi",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "namashirasu",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 16,
+   "name": "Tsukiji Itadori Uogashi Nihon-Ichi",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 17,
+   "name": "Yokohama Fish Market",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 18,
+   "name": "Yokohama Central Market",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 19,
+   "name": "Yokohama Oktoberfest",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 20,
+   "name": "Yokohama Autumn Leaves Festival",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 21,
+   "name": "Maple Leaf Tunnel",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 22,
+   "name": "Harvest Moon Garden",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "summaries": [
+  {
+   "name": "ExpertFlyer",
+   "summary": "A tool suggested for monitoring flight redemption availability and finding the best mileage redemption options, such as for Delta SkyMiles."
+  },
+  {
+   "name": "Global Entry",
+   "summary": "The Citi AAdvantage Executive credit card provides a $100 credit toward the Global Entry or TSA PreCheck application fee."
+  },
+  {
+   "name": "TSA PreCheck",
+   "summary": "The Citi AAdvantage Executive credit card provides a $100 credit toward the Global Entry or TSA PreCheck application fee."
+  },
+  {
+   "name": "Airbnb",
+   "summary": "A vacation rental platform for renting a private room or apartment in Miami, with deals starting around $80-120 per night."
+  },
+  {
+   "name": "VRBO",
+   "summary": "A vacation rental platform similar to Airbnb, offering apartments and houses in Miami starting around $100-150 per night."
+  },
+  {
+   "name": "Expedia",
+   "summary": "A travel booking platform recommended for finding hotel and hostel promotions and discounts in Miami."
+  },
+  {
+   "name": "Booking.com",
+   "summary": "A travel booking platform recommended for finding hotel and hostel promotions and discounts in Miami."
+  },
+  {
+   "name": "Hotels.com",
+   "summary": "A travel booking platform recommended for finding hotel and hostel promotions and discounts in Miami."
+  },
+  {
+   "name": "TripAdvisor",
+   "summary": "A review website recommended for checking a Miami property's cleanliness, location, and overall quality before booking."
+  },
+  {
+   "name": "Yelp",
+   "summary": "A review website recommended for checking a Miami property's cleanliness, location, and overall quality before booking."
+  },
+  {
+   "name": "Google Reviews",
+   "summary": "A review website recommended for checking a Miami property's cleanliness, location, and overall quality before booking."
+  }
+ ]
+}

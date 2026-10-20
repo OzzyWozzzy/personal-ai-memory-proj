@@ -1,0 +1,34 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Bea Johnson's Zero Waste Home",
+   "duplicate_candidate_id": 1
+  },
+  {
+   "id": 1,
+   "name": "Bea Johnson",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "The Zero Waste Blog",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "The Zero Waste Lifestyle",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "@zerowastehome",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "@ecowarriorprincess",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

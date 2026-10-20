@@ -1,0 +1,32 @@
+{
+ "summaries": [
+  {
+   "name": "Yamaha P-255",
+   "summary": "A $999 professional-grade, weighted-key digital piano with a wide range of sounds, including Yamaha's CFIII concert grand piano sound."
+  },
+  {
+   "name": "Yamaha CP4",
+   "summary": "A $999 professional-grade stage piano with a wide range of sounds and a lightweight, portable design."
+  },
+  {
+   "name": "Fender Deluxe Reverb",
+   "summary": "A $799, 22-watt, all-tube guitar amp with a rich, full sound and built-in reverb, suited for jazz and classical players wanting a warm, articulate tone."
+  },
+  {
+   "name": "Fender Hot Rod Deluxe IV",
+   "summary": "A $799, 40-watt, all-tube guitar amp with a more aggressive sound and a built-in overdrive channel, versatile for various playing styles."
+  },
+  {
+   "name": "Mesa Boogie Mark IV",
+   "summary": "A $999, 25-watt, all-tube guitar amp with a warm, articulate sound and a wide range of tonal options."
+  },
+  {
+   "name": "Orange Crush Pro CR120",
+   "summary": "A $699, 120-watt, solid-state guitar amp with a powerful, articulate sound and a range of tonal options, offering great cleans and overdrives."
+  },
+  {
+   "name": "Quilter Labs Aviator",
+   "summary": "A $699, 100-watt, solid-state guitar amp with a lightweight design and a range of tonal options, easy to transport."
+  }
+ ]
+}

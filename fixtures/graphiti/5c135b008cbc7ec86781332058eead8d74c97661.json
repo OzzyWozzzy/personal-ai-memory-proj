@@ -1,0 +1,169 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Senior Software Engineer",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "BASED_IN",
+   "fact": "The user, working as a Senior Software Engineer, is based in the San Francisco Bay Area.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mount Tamalpais State Park",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Mount Tamalpais State Park is located about 30-40 minutes from the San Francisco Bay Area city center.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Muir Woods National Monument",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Muir Woods National Monument is located about 35-45 minutes from the San Francisco Bay Area city center.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Purisima Creek Redwoods Open Space Preserve",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Purisima Creek Redwoods Open Space Preserve is located about 30-40 minutes from the San Francisco Bay Area city center and has over 24 miles of trails.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Wunderlich County Park",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Wunderlich County Park is located about 30-40 minutes from the San Francisco Bay Area city center.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Edgewood Park and Natural Preserve",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Edgewood Park and Natural Preserve is located about 30-40 minutes from the San Francisco Bay Area city center.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pulgas Ridge Open Space Preserve",
+   "target_entity_name": "San Francisco Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Pulgas Ridge Open Space Preserve is located about 30-40 minutes from the San Francisco Bay Area city center.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Steep Ravine Trail",
+   "target_entity_name": "Mount Tamalpais State Park",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Steep Ravine Trail, a moderate 3.5-mile hike with scenic views of the ocean and waterfalls, is located within Mount Tamalpais State Park.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dipsea Trail",
+   "target_entity_name": "Muir Woods National Monument",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Dipsea Trail, a moderate 4.5-mile hike that takes you through the redwoods, is located within Muir Woods National Monument.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dipsea Trail",
+   "target_entity_name": "Pacific Ocean",
+   "relation_type": "OFFERS_VIEW_OF",
+   "fact": "The Dipsea Trail offers stunning views of the Pacific Ocean.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Whittemore Gulch Trail",
+   "target_entity_name": "Purisima Creek Redwoods Open Space Preserve",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Whittemore Gulch Trail, a moderate 4.5-mile hike through a lush forest with scenic views of the surrounding hills, is located within Purisima Creek Redwoods Open Space Preserve.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bear Gulch Trail",
+   "target_entity_name": "Wunderlich County Park",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Bear Gulch Trail, a moderate 4.5-mile hike through a forest of redwoods with scenic views of the surrounding hills, is located within Wunderlich County Park.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Edgewood Trail",
+   "target_entity_name": "Edgewood Park and Natural Preserve",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Edgewood Trail, a moderate 4.5-mile hike through a serpentine grassland with scenic views of the surrounding hills, is located within Edgewood Park and Natural Preserve.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cordilleras Trail",
+   "target_entity_name": "Pulgas Ridge Open Space Preserve",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Cordilleras Trail, a moderate 4.5-mile hike through a forest of redwoods with scenic views of the surrounding hills, is located within Pulgas Ridge Open Space Preserve.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Senior Software Engineer",
+   "target_entity_name": "Mount Tamalpais State Park",
+   "relation_type": "PLANS_TEAM_HIKE_AT",
+   "fact": "The user, a Senior Software Engineer, is planning a team hike with a scavenger hunt at Mount Tamalpais State Park.",
+   "valid_at": "2023-05-24T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

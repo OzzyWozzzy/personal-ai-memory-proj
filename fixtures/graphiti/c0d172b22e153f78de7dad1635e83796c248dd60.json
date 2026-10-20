@@ -1,0 +1,59 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "American Home Shield (AHS)",
+   "target_entity_name": "ShieldSilver",
+   "relation_type": "HAS_PLAN",
+   "fact": "American Home Shield (AHS) offers the ShieldSilver plan, covering major home systems like plumbing, electrical, and HVAC, priced at $299-$399 per year.",
+   "valid_at": "2023-03-08T20:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Home Shield (AHS)",
+   "target_entity_name": "ShieldGold",
+   "relation_type": "HAS_PLAN",
+   "fact": "American Home Shield (AHS) offers the ShieldGold plan, adding appliance coverage (refrigerators, ovens, dishwashers) on top of ShieldSilver, priced at $399-$499 per year.",
+   "valid_at": "2023-03-08T20:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Home Shield (AHS)",
+   "target_entity_name": "ShieldPlatinum",
+   "relation_type": "HAS_PLAN",
+   "fact": "American Home Shield (AHS) offers the ShieldPlatinum plan, its most comprehensive plan, priced at $499-$599 per year.",
+   "valid_at": "2023-03-08T20:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "ShieldGold",
+   "target_entity_name": "ShieldSilver",
+   "relation_type": "BUILDS_UPON",
+   "fact": "The ShieldGold plan builds upon the ShieldSilver plan, adding coverage for appliances like refrigerators, ovens, and dishwashers.",
+   "valid_at": "2023-03-08T20:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "ShieldPlatinum",
+   "target_entity_name": "ShieldGold",
+   "relation_type": "INCLUDES",
+   "fact": "The ShieldPlatinum plan covers all items included in the ShieldGold plan, plus additional items like garbage disposals and ceiling fans.",
+   "valid_at": "2023-03-08T20:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

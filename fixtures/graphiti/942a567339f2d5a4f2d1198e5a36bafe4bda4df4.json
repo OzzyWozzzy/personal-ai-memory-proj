@@ -1,0 +1,44 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Anubias",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "API CO2 Booster",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Seachem Flourish",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "API Aquarium Fertilizer",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Tropica Plant Nutrition",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "API Iron Supplement",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Tropica Iron Fertilizer",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "guppies",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

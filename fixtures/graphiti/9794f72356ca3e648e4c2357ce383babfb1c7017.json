@@ -1,0 +1,26 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "San Marzano tomatoes",
+   "target_entity_name": "Fresh Tomato Pasta Sauce Recipe",
+   "relation_type": "USED_IN",
+   "fact": "San Marzano tomatoes, along with plum tomatoes, are ideal for the Fresh Tomato Pasta Sauce Recipe because they have less water content and more flesh, making them perfect for reducing into a rich, thick sauce.",
+   "valid_at": "2023-05-20T22:52:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "soffritto",
+   "target_entity_name": "Fresh Tomato Pasta Sauce Recipe",
+   "relation_type": "USED_IN",
+   "fact": "Soffritto, made by sauteing onions, garlic, and sometimes carrots and celery in olive oil, forms the flavorful base to which roasted tomatoes, salt, and sugar are added in the Fresh Tomato Pasta Sauce Recipe.",
+   "valid_at": "2023-05-20T22:52:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

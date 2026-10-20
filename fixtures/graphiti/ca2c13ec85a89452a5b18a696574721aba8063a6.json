@@ -1,0 +1,15 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Jorge Luis Borges",
+   "target_entity_name": "The Library of Babel",
+   "relation_type": "AUTHORED",
+   "fact": "Jorge Luis Borges wrote the short story \"The Library of Babel\" in 1941, exploring the relationship between language and reality through a vast, labyrinthine library containing every possible combination of letters and symbols.",
+   "valid_at": "1941-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

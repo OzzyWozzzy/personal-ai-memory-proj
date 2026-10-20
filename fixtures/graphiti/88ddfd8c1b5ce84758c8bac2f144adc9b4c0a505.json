@@ -1,0 +1,44 @@
+{
+ "summaries": [
+  {
+   "name": "Teva",
+   "summary": "Teva is a sandal brand popular with outdoor enthusiasts and adventure-seekers, known for rugged construction, sturdy straps, comfortable fit, and excellent grip. The user recognizes Teva as a great brand and plans to check out its latest collection."
+  },
+  {
+   "name": "Keen",
+   "summary": "Keen makes sandals with sturdy straps suited for hiking, water activities, or casual wear."
+  },
+  {
+   "name": "Merrell",
+   "summary": "Merrell is a trusted outdoor brand offering sandals with durable straps and excellent arch support. The user recognizes Merrell as a great brand and plans to check out its latest collection."
+  },
+  {
+   "name": "Sanuk",
+   "summary": "Sanuk makes casual, comfortable sandals with sturdy straps, in styles ranging from beachy to outdoor-inspired designs."
+  },
+  {
+   "name": "Birkenstock",
+   "summary": "Birkenstock is a classic sandal brand known for contoured footbeds and durable straps, suited for everyday wear, travel, or outdoor activities."
+  },
+  {
+   "name": "Ecco",
+   "summary": "Ecco is a European brand offering high-quality sandals with sturdy straps and comfortable designs, suited for walking, hiking, or lounging."
+  },
+  {
+   "name": "OluKai",
+   "summary": "OluKai is a Hawaiian-inspired brand offering sandals with durable straps and excellent arch support, suited for water activities, hiking, or casual wear."
+  },
+  {
+   "name": "Vionic",
+   "summary": "Vionic makes comfortable, supportive sandals with sturdy straps, suited for walking, hiking, or everyday wear."
+  },
+  {
+   "name": "Hoka One One",
+   "summary": "Hoka One One is known primarily for max-cushioning shoes, but also offers high-quality sandals with sturdy straps and excellent arch support."
+  },
+  {
+   "name": "Chaco",
+   "summary": "Chaco is a brand popular with outdoor enthusiasts, offering sandals with sturdy straps and excellent grip, suited for water activities, hiking, or casual wear."
+  }
+ ]
+}

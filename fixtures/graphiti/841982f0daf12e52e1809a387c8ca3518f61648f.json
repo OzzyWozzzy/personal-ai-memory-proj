@@ -1,0 +1,59 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "@artbylisa",
+   "target_entity_name": "Instagram",
+   "relation_type": "POSTS_ON",
+   "fact": "@artbylisa is an artist the user follows on Instagram who posted a tutorial on creating a galaxy effect using acrylics.",
+   "valid_at": "2023-08-16T03:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "@artbylisa",
+   "target_entity_name": "galaxy effect",
+   "relation_type": "POSTED_TUTORIAL_ABOUT",
+   "fact": "@artbylisa posted an Instagram tutorial demonstrating how to create a galaxy effect using acrylics.",
+   "valid_at": "2023-08-16T03:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "dammar varnish",
+   "target_entity_name": "Liquitex Soluvar",
+   "relation_type": "ALTERNATIVE_VARNISH_TO",
+   "fact": "Dammar varnish and Liquitex Soluvar are both recommended varnishes specifically designed for protecting artworks.",
+   "valid_at": "2023-08-16T03:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "dammar varnish",
+   "target_entity_name": "Golden MSA Varnish",
+   "relation_type": "ALTERNATIVE_VARNISH_TO",
+   "fact": "Dammar varnish and Golden MSA Varnish are both recommended varnishes specifically designed for protecting artworks.",
+   "valid_at": "2023-08-16T03:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Liquitex Soluvar",
+   "target_entity_name": "Golden MSA Varnish",
+   "relation_type": "ALTERNATIVE_VARNISH_TO",
+   "fact": "Liquitex Soluvar and Golden MSA Varnish are both recommended varnishes specifically designed for protecting artworks.",
+   "valid_at": "2023-08-16T03:47:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

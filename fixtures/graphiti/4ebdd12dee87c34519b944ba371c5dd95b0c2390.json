@@ -1,0 +1,15 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Hatha",
+   "target_entity_name": "Vinyasa Flow",
+   "relation_type": "SIMILAR_TO",
+   "fact": "Hatha and Vinyasa Flow are both recommended as great beginner-friendly yoga styles that focus on basic postures, breathing techniques, and gentle flows.",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Google Reviews",
+   "duplicate_candidate_id": 0
+  },
+  {
+   "id": 1,
+   "name": "Floor & Decor",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

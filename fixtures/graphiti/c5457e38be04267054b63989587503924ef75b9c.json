@@ -1,0 +1,103 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Turbocharged Tuesdays",
+   "target_entity_name": "Speed Demon Racing Track",
+   "relation_type": "HELD_AT",
+   "fact": "The user completed 10 laps at the Speed Demon Racing Track with an average speed of 85mph during the Turbocharged Tuesdays event.",
+   "valid_at": "2023-03-15T10:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Winter Tune-Up",
+   "target_entity_name": "Speed Shop",
+   "relation_type": "HELD_AT",
+   "fact": "The user got a discount on a set of new brake pads during the Winter Tune-Up event at the Speed Shop earlier in the year.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tune-Up Saturday",
+   "target_entity_name": "Performance Garage",
+   "relation_type": "HELD_AT",
+   "fact": "The user got a dyno test done at the \"Tune-Up Saturday\" event at the Performance Garage, which showed the car producing 240 horsepower.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Castrol SRF",
+   "target_entity_name": "Motul RBF 660",
+   "relation_type": "ALTERNATIVE_BRAKE_FLUID_TO",
+   "fact": "Castrol SRF and Motul RBF 660 are both listed as popular high-performance brake fluid brands.",
+   "valid_at": "2023-03-15T10:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Castrol SRF",
+   "target_entity_name": "AP Racing PRF 660",
+   "relation_type": "ALTERNATIVE_BRAKE_FLUID_TO",
+   "fact": "Castrol SRF and AP Racing PRF 660 are both listed as popular high-performance brake fluid brands.",
+   "valid_at": "2023-03-15T10:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Castrol SRF",
+   "target_entity_name": "Brembo HTX",
+   "relation_type": "ALTERNATIVE_BRAKE_FLUID_TO",
+   "fact": "Castrol SRF and Brembo HTX are both listed as popular high-performance brake fluid brands.",
+   "valid_at": "2023-03-15T10:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Motul RBF 660",
+   "target_entity_name": "AP Racing PRF 660",
+   "relation_type": "ALTERNATIVE_BRAKE_FLUID_TO",
+   "fact": "Motul RBF 660 and AP Racing PRF 660 are both listed as popular high-performance brake fluid brands.",
+   "valid_at": "2023-03-15T10:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Motul RBF 660",
+   "target_entity_name": "Brembo HTX",
+   "relation_type": "ALTERNATIVE_BRAKE_FLUID_TO",
+   "fact": "Motul RBF 660 and Brembo HTX are both listed as popular high-performance brake fluid brands.",
+   "valid_at": "2023-03-15T10:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "AP Racing PRF 660",
+   "target_entity_name": "Brembo HTX",
+   "relation_type": "ALTERNATIVE_BRAKE_FLUID_TO",
+   "fact": "AP Racing PRF 660 and Brembo HTX are both listed as popular high-performance brake fluid brands.",
+   "valid_at": "2023-03-15T10:20:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

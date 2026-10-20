@@ -1,0 +1,14 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Private Mortgage Insurance (PMI)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "FHA loans",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

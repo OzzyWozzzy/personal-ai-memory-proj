@@ -1,0 +1,37 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "REI (Recreational Equipment Inc.)",
+   "target_entity_name": "Merrell",
+   "relation_type": "SELLS",
+   "fact": "REI (Recreational Equipment Inc.), an outdoor retailer, carries high-quality sandals from Merrell",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "REI (Recreational Equipment Inc.)",
+   "target_entity_name": "Keen",
+   "relation_type": "SELLS",
+   "fact": "REI (Recreational Equipment Inc.), an outdoor retailer, carries high-quality sandals from Keen",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "REI (Recreational Equipment Inc.)",
+   "target_entity_name": "Tevas",
+   "relation_type": "SELLS",
+   "fact": "REI (Recreational Equipment Inc.), an outdoor retailer, carries high-quality sandals from Tevas",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

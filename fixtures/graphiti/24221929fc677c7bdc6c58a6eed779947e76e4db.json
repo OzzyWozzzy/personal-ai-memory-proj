@@ -1,0 +1,59 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Nitrosomonas",
+   "target_entity_name": "Ammonia",
+   "relation_type": "CONVERTS",
+   "fact": "Nitrosomonas bacteria convert ammonia (NH3) into nitrite (NO2-) through a process called nitrification.",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ammonia",
+   "target_entity_name": "Nitrite",
+   "relation_type": "CONVERTED_TO",
+   "fact": "Ammonia (NH3) is converted into nitrite (NO2-) by Nitrosomonas bacteria as part of the nitrogen cycle.",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nitrobacter",
+   "target_entity_name": "Nitrite",
+   "relation_type": "CONVERTS",
+   "fact": "Nitrobacter bacteria convert nitrite (NO2-) into nitrate (NO3-).",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nitrite",
+   "target_entity_name": "Nitrate",
+   "relation_type": "CONVERTED_TO",
+   "fact": "Nitrite (NO2-) is converted into nitrate (NO3-) by Nitrobacter bacteria as part of the nitrogen cycle.",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nitrite",
+   "target_entity_name": "Ammonia",
+   "relation_type": "LESS_TOXIC_THAN",
+   "fact": "Nitrite (NO2-) is still toxic to fish, although less so than ammonia (NH3).",
+   "valid_at": "2023-05-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

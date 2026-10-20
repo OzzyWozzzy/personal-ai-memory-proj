@@ -1,0 +1,28 @@
+{
+ "summaries": [
+  {
+   "name": "NoiseTube",
+   "summary": "NoiseTube is an online tool recommended for researching a neighborhood's noise levels when evaluating a condo."
+  },
+  {
+   "name": "SoundPrint",
+   "summary": "SoundPrint is an online tool recommended for researching a neighborhood's noise levels when evaluating a condo."
+  },
+  {
+   "name": "ENERGY STAR",
+   "summary": "The ENERGY STAR label identifies energy-efficient appliances that can help save money on utility bills, recommended to look for when evaluating a condo's appliances."
+  },
+  {
+   "name": "Google",
+   "summary": "Google is recommended as an online resource for checking reviews and ratings of a condo complex, neighborhood, and management company."
+  },
+  {
+   "name": "Yelp",
+   "summary": "Yelp is recommended as an online resource for checking reviews and ratings of a condo complex, neighborhood, and management company."
+  },
+  {
+   "name": "Condo Review",
+   "summary": "Condo Review is a ratings website recommended for checking reviews of a condo complex, neighborhood, and management company."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Rick Beato",
+   "target_entity_name": "YouTube",
+   "relation_type": "HAS_CHANNEL_ON",
+   "fact": "Rick Beato runs a popular YouTube channel dedicated to teaching music theory",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Adam Neely",
+   "target_entity_name": "YouTube",
+   "relation_type": "HAS_CHANNEL_ON",
+   "fact": "Adam Neely runs a popular YouTube channel dedicated to teaching music theory",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Music Theory For Dummies",
+   "target_entity_name": "Michael Pilhofer",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Music Theory For Dummies\" was written by Michael Pilhofer",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Jazz Theory Book",
+   "target_entity_name": "Mark Levine",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"The Jazz Theory Book\" was written by Mark Levine",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

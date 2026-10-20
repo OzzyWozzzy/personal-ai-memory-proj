@@ -1,0 +1,32 @@
+{
+ "summaries": [
+  {
+   "name": "the user's cat",
+   "summary": "The user's cat sheds a lot, prompting the user to seek dust-control and air-purifying methods, pet-hair vacuum cleaner recommendations, and indoor plants safe to have around the cat."
+  },
+  {
+   "name": "Samsung",
+   "summary": "Samsung is suggested as a TV manufacturer whose authorized service centers can be looked up for TV repair service."
+  },
+  {
+   "name": "LG",
+   "summary": "LG is suggested as a TV manufacturer whose authorized service centers can be looked up for TV repair service."
+  },
+  {
+   "name": "Sony",
+   "summary": "Sony is suggested as a TV manufacturer whose authorized service centers can be looked up for TV repair service."
+  },
+  {
+   "name": "Yelp",
+   "summary": "Yelp is recommended as an online directory to find local TV repair services with customer reviews and ratings."
+  },
+  {
+   "name": "Angie's List",
+   "summary": "Angie's List is recommended as an online directory to find local TV repair services with customer reviews and ratings."
+  },
+  {
+   "name": "HomeAdvisor",
+   "summary": "HomeAdvisor is recommended as an online directory to find local TV repair services with customer reviews and ratings."
+  }
+ ]
+}

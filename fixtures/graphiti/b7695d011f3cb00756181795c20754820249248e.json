@@ -1,0 +1,510 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Samsung Galaxy S22",
+   "target_entity_name": "Best Buy",
+   "relation_type": "PURCHASED_AT",
+   "fact": "The user's Samsung Galaxy S22 was purchased from the Best Buy store at the mall on February 20th.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "iPhone 12",
+   "target_entity_name": "Samsung Galaxy S22",
+   "relation_type": "TRADED_IN_FOR",
+   "fact": "The user traded in their old iPhone 12 to get an additional $200 off the Samsung Galaxy S22.",
+   "valid_at": "2023-02-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Anker PowerCore 20000",
+   "target_entity_name": "Amazon",
+   "relation_type": "PURCHASED_AT",
+   "fact": "The user's Anker PowerCore 20000 portable power bank was purchased from Amazon a week before getting the new phone.",
+   "valid_at": "2023-02-13T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hawaii",
+   "target_entity_name": "Oahu",
+   "relation_type": "HAS_ISLAND",
+   "fact": "Oahu is one of the islands of Hawaii.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hawaii",
+   "target_entity_name": "Maui",
+   "relation_type": "HAS_ISLAND",
+   "fact": "Maui is one of the islands of Hawaii.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hawaii",
+   "target_entity_name": "Kauai",
+   "relation_type": "HAS_ISLAND",
+   "fact": "Kauai is one of the islands of Hawaii.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hawaii",
+   "target_entity_name": "Big Island",
+   "relation_type": "HAS_ISLAND",
+   "fact": "Big Island is one of the islands of Hawaii.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Oahu",
+   "target_entity_name": "Waikiki Beach",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Waikiki Beach, one of the most iconic beaches in the world, is located on Oahu.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Oahu",
+   "target_entity_name": "Pearl Harbor",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Pearl Harbor, a historic site honoring lives lost during the attack on December 7, 1941, is located on Oahu.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pearl Harbor",
+   "target_entity_name": "USS Arizona Memorial",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "The USS Arizona Memorial is part of the historic Pearl Harbor site.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Oahu",
+   "target_entity_name": "Hanauma Bay Nature Preserve",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Hanauma Bay Nature Preserve, a protected marine sanctuary and snorkeling spot, is located on Oahu.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Haleakala National Park",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Haleakala National Park, known for sunrise views from a dormant volcano summit, is located on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Road to Hana",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "The Road to Hana is a scenic coastal drive on Maui with waterfalls, beaches, and hiking trails.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Lahaina",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Lahaina, a historic town with luaus, museums, and a vibrant art scene, is located on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kauai",
+   "target_entity_name": "Na Pali Coast State Park",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Na Pali Coast State Park, a rugged coastline with hiking trails, waterfalls, and secluded beaches, is located on Kauai.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kauai",
+   "target_entity_name": "Wailua River State Park",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Wailua River State Park, a lush tropical park with boat tours and hiking trails, is located on Kauai.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Wailua River State Park",
+   "target_entity_name": "Fern Grotto",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "The Fern Grotto is reached by boat tours and hiking trails within Wailua River State Park.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Wailua River State Park",
+   "target_entity_name": "Secret Falls",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Secret Falls is reached by boat tours and hiking trails within Wailua River State Park.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kauai",
+   "target_entity_name": "Kalalau Lookout",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Kalalau Lookout, a scenic viewpoint with views of the Na Pali Coast and ocean, is located on Kauai.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Big Island",
+   "target_entity_name": "Hawaii Volcanoes National Park",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Hawaii Volcanoes National Park, with volcanic landscapes, lava tubes, and steam vents, is located on the Big Island.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Big Island",
+   "target_entity_name": "Mauna Kea",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Mauna Kea Summit, one of the world's best astronomy sites, is located on the Big Island.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Big Island",
+   "target_entity_name": "Akaka Falls State Park",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Akaka Falls State Park, a lush tropical park with waterfalls and hiking trails, is located on the Big Island.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Waihee Ridge Trail",
+   "relation_type": "HAS_TRAIL",
+   "fact": "The Waihee Ridge Trail, a 2.5-mile out-and-back trail with views of Waihee Valley and the ocean, is located on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Iao Valley State Park",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Iao Valley State Park is located on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Iao Valley State Park",
+   "target_entity_name": "Iao Valley Stream Trail",
+   "relation_type": "HAS_TRAIL",
+   "fact": "The 0.6-mile Iao Valley Stream Trail is a gentle, family-friendly hike within Iao Valley State Park.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Iao Valley State Park",
+   "target_entity_name": "Iao Needle",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "The Iao Needle rock formation is located within Iao Valley State Park.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Makena Landing Beach Trail",
+   "relation_type": "HAS_TRAIL",
+   "fact": "The Makena Landing Beach Trail, a 1.5-mile out-and-back trail to a secluded beach, is located on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Haleakala National Park",
+   "target_entity_name": "Halemau'u Trail",
+   "relation_type": "HAS_TRAIL",
+   "fact": "The 1.5-mile Halemau'u Trail is a beginner-friendly trail within Haleakala National Park.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Twin Falls Trail",
+   "relation_type": "HAS_TRAIL",
+   "fact": "The Twin Falls Trail, a 2-mile out-and-back trail with stairs and stream crossings, is located on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Twin Falls Trail",
+   "target_entity_name": "Twin Falls",
+   "relation_type": "LEADS_TO",
+   "fact": "The Twin Falls Trail leads to a picturesque waterfall and swimming hole called Twin Falls.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Twin Falls",
+   "relation_type": "HAS_STOP",
+   "fact": "Twin Falls is a popular stop along the Road to Hana with a waterfall and swimming hole.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Hana Lava Tube",
+   "relation_type": "HAS_STOP",
+   "fact": "The Hana Lava Tube, the largest lava tube on Maui with ancient Hawaiian petroglyphs, is a stop along the Road to Hana.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Wai'anapanapa State Park",
+   "relation_type": "HAS_STOP",
+   "fact": "Wai'anapanapa State Park, with a black sand beach and ancient Hawaiian temples, is a stop along the Road to Hana.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Wai'anapanapa State Park",
+   "target_entity_name": "Wai'anapanapa Caves",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "The Wai'anapanapa Caves are reached by a short hike within Wai'anapanapa State Park.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Hana Town",
+   "relation_type": "HAS_STOP",
+   "fact": "Hana Town, a charming town with shops, restaurants, and cafes, is a stop along the Road to Hana.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Oheo Gulch",
+   "relation_type": "HAS_STOP",
+   "fact": "Oheo Gulch, a series of waterfalls and pools, is a stop along the Road to Hana.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Ho'okipa Beach",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Ho'okipa Beach, a world-renowned windsurfing spot where sea turtles can be seen, is an attraction near the Road to Hana.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Mile Marker 32",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Mile Marker 32 is a scenic lookout along the Road to Hana with views of the coastline.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Koki Beach",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Koki Beach is a beautiful beach attraction along the Road to Hana.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Koki Beach",
+   "target_entity_name": "Koki Point",
+   "relation_type": "NEAR",
+   "fact": "Koki Beach has a scenic hike to nearby Koki Point, offering views of the ocean and surrounding landscape.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Hana Farm Road",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Hana Farm Road is a scenic drive through lush, tropical landscape near the Road to Hana with waterfalls, trails, and local farms.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Road to Hana",
+   "target_entity_name": "Charles Lindbergh's Grave",
+   "relation_type": "HAS_ATTRACTION",
+   "fact": "Charles Lindbergh's Grave, marking the aviator's final resting place, is a historic site along the Road to Hana.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Alamo",
+   "relation_type": "HAS_CAR_RENTAL",
+   "fact": "Alamo, known for a wide range of vehicles and competitive prices, is a recommended car rental company on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Enterprise",
+   "relation_type": "HAS_CAR_RENTAL",
+   "fact": "Enterprise, offering hybrid and electric options and a convenient airport location, is a recommended car rental company on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Hertz",
+   "relation_type": "HAS_CAR_RENTAL",
+   "fact": "Hertz, offering electric and hybrid options and a convenient airport location, is a recommended car rental company on Maui.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Maui Car Rentals",
+   "relation_type": "HAS_CAR_RENTAL",
+   "fact": "Maui Car Rentals is a local car rental company on Maui offering jeeps and vans at competitive prices.",
+   "valid_at": "2023-03-15T00:56:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

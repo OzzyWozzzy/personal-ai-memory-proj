@@ -1,0 +1,48 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Patagonia",
+   "target_entity_name": "Ethisphere Institute",
+   "relation_type": "RECOGNIZED_BY",
+   "fact": "In 2020, Patagonia was named one of the world's most ethical companies by the Ethisphere Institute for the tenth time.",
+   "valid_at": "2020-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Southwest Airlines",
+   "target_entity_name": "Glassdoor",
+   "relation_type": "RECOGNIZED_BY",
+   "fact": "Southwest Airlines has consistently been recognized for its emphasis on employee well-being, including being named one of the best places to work by Glassdoor.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Patagonia",
+   "target_entity_name": "Triumvirate",
+   "relation_type": "SIMILAR_TO",
+   "fact": "Patagonia is cited as another company that prioritizes employee safety and well-being like Triumvirate.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Southwest Airlines",
+   "target_entity_name": "Triumvirate",
+   "relation_type": "SIMILAR_TO",
+   "fact": "Southwest Airlines is cited as another company that prioritizes employee safety and well-being like Triumvirate.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

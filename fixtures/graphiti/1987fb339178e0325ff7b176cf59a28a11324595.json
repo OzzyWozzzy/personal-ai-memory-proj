@@ -1,0 +1,44 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Gitzo",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Really Right Stuff",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "70-200mm zoom lens",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Gitzo's G-Lock system",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Manfrotto",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Canon EOS R",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "14-24mm lens",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "16-35mm lens",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

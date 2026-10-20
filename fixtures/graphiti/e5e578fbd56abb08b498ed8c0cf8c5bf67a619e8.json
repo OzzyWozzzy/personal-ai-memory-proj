@@ -1,0 +1,26 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Black List",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "Black List is a series the user currently watches and enjoys very much on Netflix.",
+   "valid_at": "2023-05-23T03:35:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Doc Martin",
+   "target_entity_name": "Netflix",
+   "relation_type": "AVAILABLE_ON",
+   "fact": "The Doc Martin show was taken down on Netflix after a while, and now only the last season remains accessible, with earlier seasons removed.",
+   "valid_at": "2023-05-23T03:35:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

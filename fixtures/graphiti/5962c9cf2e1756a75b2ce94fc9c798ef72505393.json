@@ -1,0 +1,202 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Normalization",
+   "target_entity_name": "Min-max scaling",
+   "relation_type": "INCLUDES_TECHNIQUE",
+   "fact": "Normalization includes several techniques, one of which is min-max scaling, which scales features to a range like [0, 1] or [-1, 1].",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Normalization",
+   "target_entity_name": "Log scaling",
+   "relation_type": "INCLUDES_TECHNIQUE",
+   "fact": "Normalization includes several techniques, one of which is log scaling, which scales features using the logarithmic function.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Normalization",
+   "target_entity_name": "Unit length normalization",
+   "relation_type": "INCLUDES_TECHNIQUE",
+   "fact": "Normalization includes several techniques, one of which is unit length normalization, which scales features to have a length of 1.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "Normalization",
+   "relation_type": "DIFFERS_FROM",
+   "fact": "Standardization (Z-scoring) rescales features to a mean of 0 and standard deviation of 1 using the mean and standard deviation, whereas Normalization rescales features to a common range (e.g., 0 to 1) using the minimum and maximum values.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "Linear Regression",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Standardization is recommended for regression algorithms like Linear Regression because they are sensitive to feature scales.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "Ridge Regression",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Standardization is recommended for regression algorithms like Ridge Regression because they are sensitive to feature scales.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "Lasso Regression",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Standardization is recommended for regression algorithms like Lasso Regression because they are sensitive to feature scales.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "L1 regularization",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "Standardization is compatible with L1 regularization, ensuring the regularization penalty is applied equally to all features.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "L2 regularization",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "Standardization is compatible with L2 regularization, ensuring the regularization penalty is applied equally to all features.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "PCA",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Standardization is recommended when working with algorithms sensitive to feature scales, such as PCA.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "t-SNE",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Standardization is recommended when working with algorithms sensitive to feature scales, such as t-SNE.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Standardization (Z-scoring)",
+   "target_entity_name": "k-Nearest Neighbors (k-NN)",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Standardization may be a better choice when using classification algorithms sensitive to feature scales, such as k-Nearest Neighbors (k-NN).",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Normalization",
+   "target_entity_name": "k-Nearest Neighbors (k-NN)",
+   "relation_type": "ENHANCES_PERFORMANCE_OF",
+   "fact": "Normalization enhances the performance of some algorithms, such as k-Nearest Neighbors (k-NN).",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Normalization",
+   "target_entity_name": "k-means clustering",
+   "relation_type": "ENHANCES_PERFORMANCE_OF",
+   "fact": "Normalization enhances the performance of some algorithms, such as k-means clustering.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Normalization",
+   "target_entity_name": "decision trees",
+   "relation_type": "SUFFICIENT_FOR",
+   "fact": "Normalization is sufficient to prepare data for classification algorithms less sensitive to feature scales, such as decision trees.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Normalization",
+   "target_entity_name": "random forests",
+   "relation_type": "SUFFICIENT_FOR",
+   "fact": "Normalization is sufficient to prepare data for classification algorithms less sensitive to feature scales, such as random forests.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Normalization",
+   "target_entity_name": "support vector machines",
+   "relation_type": "SUFFICIENT_FOR",
+   "fact": "Normalization is sufficient to prepare data for classification algorithms less sensitive to feature scales, such as support vector machines.",
+   "valid_at": "2023-05-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Kim",
+   "target_entity_name": "Feature engineering",
+   "relation_type": "HIGHLIGHTED_IMPORTANCE_OF",
+   "fact": "Dr. Kim mentioned that feature engineering is important for model performance at the 2-day machine learning workshop the user attended on April 17-18.",
+   "valid_at": "2023-04-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

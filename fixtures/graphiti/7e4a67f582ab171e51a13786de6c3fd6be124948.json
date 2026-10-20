@@ -1,0 +1,158 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Nikon D5600",
+   "target_entity_name": "50mm prime lens",
+   "relation_type": "USED_WITH",
+   "fact": "The user recently got a new 50mm prime lens that has been working out great and uses it with their Nikon D5600",
+   "valid_at": "2023-03-11T22:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nikon D5600",
+   "target_entity_name": "18-55mm kit lens",
+   "relation_type": "USED_WITH",
+   "fact": "The user has an old 18-55mm kit lens for their Nikon D5600 that has been having issues, forcing reliance on manual focus",
+   "valid_at": "2023-03-11T22:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lowepro ProTactic 450 AW",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "CAN_FIT",
+   "fact": "The Lowepro ProTactic 450 AW's main compartment can fit the Nikon D5600 with the 50mm prime lens attached plus additional lenses such as the 18-55mm kit lens, and also fits a 15-inch laptop",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Think Tank Urban Disguise 40L",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "CAN_FIT",
+   "fact": "The Think Tank Urban Disguise 40L's main compartment can fit the Nikon D5600 with the 50mm prime lens attached and a few additional lenses, though with slightly smaller capacity and a 13-inch laptop sleeve",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Think Tank Urban Disguise 40L",
+   "target_entity_name": "Lowepro ProTactic 450 AW",
+   "relation_type": "HAS_SMALLER_CAPACITY_THAN",
+   "fact": "The Think Tank Urban Disguise 40L has a smaller capacity and less weather protection than the Lowepro ProTactic 450 AW",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gitzo GT3543LS Systematic Series 3 Carbon Fiber Tripod",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "CAN_SUPPORT",
+   "fact": "The Gitzo GT3543LS Systematic Series 3 Carbon Fiber Tripod supports up to 39.7 lbs (18 kg), more than enough for the Nikon D5600 and lenses, and costs around $800-$900",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Really Right Stuff TVC-34L Tripod",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "CAN_SUPPORT",
+   "fact": "The Really Right Stuff TVC-34L Tripod supports up to 50 lbs (23 kg), suitable for the Nikon D5600 and heavier camera setups, and costs around $1,000-$1,100",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Manfrotto MT057CXPRO4 Carbon Fiber Tripod",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "CAN_SUPPORT",
+   "fact": "The Manfrotto MT057CXPRO4 Carbon Fiber Tripod supports up to 35.3 lbs (16 kg), sufficient for the Nikon D5600 and lenses, and costs around $600-$700",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Davis & Sanford Travel Tripod",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "CAN_SUPPORT",
+   "fact": "The Davis & Sanford Travel Tripod is a budget-friendly option supporting up to 25 lbs (11 kg), sufficient for the Nikon D5600 and lenses, and costs around $200-$300",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Manfrotto MT057CXPRO4 Carbon Fiber Tripod",
+   "target_entity_name": "Manfrotto BeFree",
+   "relation_type": "CONSIDERED_AS_REPLACEMENT_FOR",
+   "fact": "The user is considering the Manfrotto MT057CXPRO4 Carbon Fiber Tripod as a replacement for their old Manfrotto BeFree tripod, which is showing signs of wear and tear",
+   "valid_at": "2023-03-11T22:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nikon D5600",
+   "target_entity_name": "Nikon Z6",
+   "relation_type": "PLANNED_UPGRADE_TO",
+   "fact": "The user is planning to upgrade their camera body from the Nikon D5600 to a full-frame model like the Nikon Z6 in the future",
+   "valid_at": "2023-03-11T22:01:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Manfrotto MT057CXPRO4 Carbon Fiber Tripod",
+   "target_entity_name": "Nikon Z6",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "The Manfrotto MT057CXPRO4 Carbon Fiber Tripod, with its 35.3 lbs (16 kg) maximum load capacity, is suitable for a full-frame Nikon Z6 and most lenses used with it",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nikon MC-36a Multi-Function Remote Cord",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "The Nikon MC-36a Multi-Function Remote Cord is a wired remote shutter release specifically designed for Nikon cameras including the Nikon D5600",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "CamRanger",
+   "target_entity_name": "Nikon D5600",
+   "relation_type": "COMPATIBLE_WITH",
+   "fact": "CamRanger, a wireless Wi-Fi remote shutter release with camera control, live view, and focus stacking, is compatible with many Nikon cameras including the Nikon D5600",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,389 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Disneyland",
+   "target_entity_name": "Halloween Time",
+   "relation_type": "HOSTS_EVENT",
+   "fact": "Disneyland hosts Halloween Time, starting mid-September with festive decorations, themed food, and special entertainment.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Halloween Time",
+   "target_entity_name": "Oogie Boogie Bash",
+   "relation_type": "INCLUDES",
+   "fact": "Halloween Time at Disneyland includes the Halloween-themed parade and the Oogie Boogie Bash as highlights.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Knott's Berry Farm",
+   "target_entity_name": "Knott's Scary Farm",
+   "relation_type": "HOSTS_EVENT",
+   "fact": "Knott's Berry Farm hosts Knott's Scary Farm, a Halloween event running through the fall featuring haunted mazes, scare zones, and live entertainment.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Six Flags Magic Mountain",
+   "target_entity_name": "Fright Fest",
+   "relation_type": "HOSTS_EVENT",
+   "fact": "Six Flags Magic Mountain hosts Fright Fest, its annual Halloween event with haunted mazes, scare zones, and themed rides from late September to early November.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Six Flags Magic Mountain",
+   "target_entity_name": "Holiday in the Park",
+   "relation_type": "HOSTS_EVENT",
+   "fact": "Six Flags Magic Mountain hosts Holiday in the Park, beginning in late November with holiday lights, festive entertainment, and special seasonal attractions.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Universal Studios Hollywood",
+   "target_entity_name": "Halloween Horror Nights",
+   "relation_type": "HOSTS_EVENT",
+   "fact": "Universal Studios Hollywood hosts Halloween Horror Nights, running mid-September to early November with elaborate haunted houses, scare zones, and thrilling rides.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Universal Studios Hollywood",
+   "target_entity_name": "Grinchmas",
+   "relation_type": "HOSTS_EVENT",
+   "fact": "Universal Studios Hollywood hosts Grinchmas, starting late November with festive decorations, live shows, and themed food.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Halloween Time",
+   "target_entity_name": "Pumpkin Beignets",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Halloween Time at Disneyland features Pumpkin Beignets, a seasonal beignet drizzled with orange glaze and topped with pumpkin spice.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Halloween Time",
+   "target_entity_name": "Mummy Dogs",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Halloween Time at Disneyland features Mummy Dogs, hot dogs wrapped in flaky pastry served with graveyard dirt (chocolate pudding with crushed Oreos and gummy worms).",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Halloween Time",
+   "target_entity_name": "Bat Wing Chicken Tenders",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Halloween Time at Disneyland features Bat Wing Chicken Tenders, chicken strips shaped like bat wings served with spicy BBQ 'blood' sauce.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Halloween Time",
+   "target_entity_name": "Candy Corn Funnel Cake",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Halloween Time at Disneyland features Candy Corn Funnel Cake, topped with candy corn, powdered sugar, and whipped cream.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Knott's Scary Farm",
+   "target_entity_name": "Graveyard Dirt Cups",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Knott's Scary Farm features Graveyard Dirt Cups, chocolate pudding parfaits with crushed Oreos, gummy worms, and edible dirt.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Knott's Scary Farm",
+   "target_entity_name": "Mummy Meatball Subs",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Knott's Scary Farm features Mummy Meatball Subs, meatballs wrapped in flaky pastry served on a toasted sub roll with marinara sauce.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Knott's Scary Farm",
+   "target_entity_name": "Skeleton Fingers Cookies",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Knott's Scary Farm features Skeleton Fingers Cookies, crunchy sugar cookies shaped like skeleton fingers.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Knott's Scary Farm",
+   "target_entity_name": "Blood-Red Punch",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Knott's Scary Farm features Blood-Red Punch, a fruity drink with a hint of grenadine served in a souvenir cup with a glow stick.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Halloween Horror Nights",
+   "target_entity_name": "Flesh-Eating Zombie Fingers",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Halloween Horror Nights features Flesh-Eating Zombie Fingers, crispy fried chicken strips coated in spicy buffalo sauce served with blue cheese dressing.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Halloween Horror Nights",
+   "target_entity_name": "Graveyard Cake Pops",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Halloween Horror Nights features Graveyard Cake Pops, bite-sized cake pops dipped in white chocolate and decorated with edible flowers and skulls.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Halloween Horror Nights",
+   "target_entity_name": "Blood of the Vine",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Halloween Horror Nights features Blood of the Vine, a sweet and fruity drink with a hint of cranberry served in a souvenir cup with a glow stick.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fright Fest",
+   "target_entity_name": "Zombie Brain Cupcakes",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Fright Fest features Zombie Brain Cupcakes, rich chocolate cupcakes filled with raspberry jelly 'brain' centers, topped with cream cheese frosting and edible sugar decorations.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fright Fest",
+   "target_entity_name": "Mummy Dogs",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Fright Fest features Mummy Dogs, hot dogs wrapped in flaky pastry served with 'tombstone' spicy mustard sauce.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fright Fest",
+   "target_entity_name": "Skeleton Keys Lime Bars",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Fright Fest features Skeleton Keys Lime Bars, tart lime bars with a shortbread crust topped with edible gold dust.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fright Fest",
+   "target_entity_name": "Witch's Brew",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "Fright Fest features Witch's Brew, a sweet and fruity drink with a hint of lemon-lime served in a souvenir cup with a glow stick.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Disneyland",
+   "target_entity_name": "Blue Bayou Restaurant",
+   "relation_type": "HAS_RESTAURANT",
+   "fact": "Blue Bayou Restaurant is a restaurant at Disneyland offering a special Halloween-themed menu during Halloween Time.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Disneyland",
+   "target_entity_name": "Carthay Circle Restaurant",
+   "relation_type": "HAS_RESTAURANT",
+   "fact": "Carthay Circle Restaurant is a restaurant at Disneyland offering a special five-course Halloween tasting menu during Halloween Time.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Disney's Paradise Pier Hotel",
+   "target_entity_name": "PCH Grill",
+   "relation_type": "HAS_RESTAURANT",
+   "fact": "PCH Grill is a buffet-style restaurant at Disney's Paradise Pier Hotel that hosts Halloween Character Dining with Disney characters in Halloween costumes.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Knott's Berry Farm",
+   "target_entity_name": "The Calico Saloon",
+   "relation_type": "HAS_RESTAURANT",
+   "fact": "The Calico Saloon is an Old West-themed saloon at Knott's Berry Farm offering a special Halloween menu, including Bat Wing Chicken Tenders and a signature Witch's Brew cocktail.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Knott's Scary Farm",
+   "target_entity_name": "Witch's Brew",
+   "relation_type": "FEATURES_FOOD",
+   "fact": "The Calico Saloon at Knott's Scary Farm offers Witch's Brew as a signature Halloween cocktail.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Universal Studios Hollywood",
+   "target_entity_name": "The Terror Tipsy Turvey Lounge",
+   "relation_type": "HAS_LOUNGE",
+   "fact": "The Terror Tipsy Turvey Lounge is an exclusive lounge experience at Halloween Horror Nights offering signature cocktails and small plates while mingling with scareactors.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Six Flags Magic Mountain",
+   "target_entity_name": "The Full Throttle Sports Bar",
+   "relation_type": "HAS_RESTAURANT",
+   "fact": "The Full Throttle Sports Bar at Six Flags Magic Mountain offers a special Halloween menu, including Zombie Brain Cupcakes and a signature Witch's Brew cocktail.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Knott's Berry Farm",
+   "target_entity_name": "The Knott's Scary Farm Boo-fet",
+   "relation_type": "OFFERS_DINING_EXPERIENCE",
+   "fact": "Knott's Berry Farm offers The Knott's Scary Farm Boo-fet, a buffet-style dining experience with priority entry and a souvenir photo.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Six Flags Magic Mountain",
+   "target_entity_name": "The Fright Fest Feast",
+   "relation_type": "OFFERS_DINING_EXPERIENCE",
+   "fact": "Six Flags Magic Mountain offers The Fright Fest Feast, a buffet-style dining experience with priority entry and a souvenir photo.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Universal Studios Hollywood",
+   "target_entity_name": "VIP Experience's Gourmet Buffet",
+   "relation_type": "OFFERS_EXPERIENCE",
+   "fact": "Universal Studios Hollywood offers the VIP Experience's Gourmet Buffet at Halloween Horror Nights, priced around $250 to over $400 per person with perks like priority entry, front-of-line access, an exclusive VIP lounge, a private tour guide, a commemorative photo, and a special VIP gift.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "VIP Experience's Gourmet Buffet",
+   "target_entity_name": "Behind-the-Scenes Tour",
+   "relation_type": "INCLUDES_ADDON",
+   "fact": "The Behind-the-Scenes Tour is an available add-on to the VIP Experience's Gourmet Buffet at Halloween Horror Nights, a 1-hour tour of the makeup and special effects department, maze design, scare zone design, costume and prop design, and backstage areas.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Carthay Circle Restaurant",
+   "target_entity_name": "The Nightmare Before Christmas",
+   "relation_type": "THEMED_ON",
+   "fact": "Carthay Circle Restaurant's Halloween Feast tasting menu features dishes inspired by Disney's Halloween classic The Nightmare Before Christmas.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Carthay Circle Restaurant",
+   "target_entity_name": "Hocus Pocus",
+   "relation_type": "THEMED_ON",
+   "fact": "Carthay Circle Restaurant's Halloween Feast tasting menu features dishes inspired by Disney's Halloween classic Hocus Pocus.",
+   "valid_at": "2023-08-15T15:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

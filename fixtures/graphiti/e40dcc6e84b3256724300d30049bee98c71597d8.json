@@ -1,0 +1,202 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "The Killers",
+   "target_entity_name": "Red Rocks Amphitheater",
+   "relation_type": "PERFORMED_AT",
+   "fact": "The Killers performed a concert at Red Rocks Amphitheater that the user attended.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Brandon Flowers",
+   "target_entity_name": "The Killers",
+   "relation_type": "IS_LEAD_SINGER_OF",
+   "fact": "Brandon Flowers is the lead singer of The Killers.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Killers",
+   "target_entity_name": "Denver",
+   "relation_type": "PERFORMED_IN",
+   "fact": "The Killers performed a concert in Denver, after which the user met lead singer Brandon Flowers.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fillmore Auditorium",
+   "target_entity_name": "The Grateful Dead",
+   "relation_type": "HOSTED",
+   "fact": "The Fillmore Auditorium has hosted legendary acts including The Grateful Dead.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fillmore Auditorium",
+   "target_entity_name": "Jimi Hendrix",
+   "relation_type": "HOSTED",
+   "fact": "The Fillmore Auditorium has hosted legendary acts including Jimi Hendrix.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Ogden Theatre",
+   "target_entity_name": "LoDo",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Ogden Theatre is a historic venue located in the heart of LoDo, hosting indie, rock, and electronic acts in an intimate setting.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "GQue BBQ",
+   "target_entity_name": "Golden, CO",
+   "relation_type": "LOCATED_IN",
+   "fact": "GQue BBQ, offering smoked brisket, ribs, and sausage, is located in Golden, CO, about a 10-15 minute drive from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dinosaur Bar-B-Que",
+   "target_entity_name": "Lakewood, CO",
+   "relation_type": "LOCATED_IN",
+   "fact": "Dinosaur Bar-B-Que, offering smoked ribs, brisket, and chicken, is located in Lakewood, CO, about a 20-25 minute drive from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Moe's Original BBQ",
+   "target_entity_name": "Wheat Ridge, CO",
+   "relation_type": "LOCATED_IN",
+   "fact": "Moe's Original BBQ, offering Southern-style BBQ like pulled pork, brisket, and chicken, is located in Wheat Ridge, CO, about a 15-20 minute drive from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Big B's Delicious BBQ",
+   "target_entity_name": "Arvada, CO",
+   "relation_type": "LOCATED_IN",
+   "fact": "Big B's Delicious BBQ, a family-owned BBQ joint offering ribs, brisket, and sausage, is located in Arvada, CO, about a 20-25 minute drive from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Wayne's Smoke Shack",
+   "target_entity_name": "Morrison, CO",
+   "relation_type": "LOCATED_IN",
+   "fact": "Wayne's Smoke Shack, a food-truck-turned-BBQ-joint offering brisket, ribs, and chicken, is located in Morrison, CO, just a few minutes from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Ship Rock Grille",
+   "target_entity_name": "Red Rocks Amphitheater",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "The Ship Rock Grille, offering American classics like burgers, sandwiches, and salads, is located just across the street from Red Rocks Amphitheater and has an outdoor patio with views of the venue's red rock formations.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Village Tavern",
+   "target_entity_name": "Red Rocks Amphitheater",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "The Village Tavern, serving pub-style fare like burgers, wings, and quesadillas, is about a 5-minute walk from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Morrison Inn",
+   "target_entity_name": "Red Rocks Amphitheater",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Morrison Inn, a historic inn with a restaurant serving American comfort food like burgers, steaks, and pasta, is about a 10-minute walk from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Fort",
+   "target_entity_name": "Red Rocks Amphitheater",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "The Fort, a historic restaurant serving Southwestern-inspired cuisine like burgers, steaks, and seafood, is located about 2 miles from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bear Creek Tavern",
+   "target_entity_name": "Red Rocks Amphitheater",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Bear Creek Tavern, offering American classics like burgers, sandwiches, and salads, is located about 2.5 miles from Red Rocks Amphitheater.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Uber",
+   "target_entity_name": "The Fort",
+   "relation_type": "USED_TO_REACH",
+   "fact": "Uber is suggested as a way to reach The Fort restaurant, located about 2 miles from Red Rocks Amphitheater, via a short drive.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Uber",
+   "target_entity_name": "Bear Creek Tavern",
+   "relation_type": "USED_TO_REACH",
+   "fact": "Uber is suggested as a way to reach Bear Creek Tavern, located about 2.5 miles from Red Rocks Amphitheater, via a short drive.",
+   "valid_at": "2023-05-23T21:26:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

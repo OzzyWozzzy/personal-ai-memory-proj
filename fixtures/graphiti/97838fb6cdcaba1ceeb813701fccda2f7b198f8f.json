@@ -1,0 +1,14 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Pablo Picasso",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Bridget Riley",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

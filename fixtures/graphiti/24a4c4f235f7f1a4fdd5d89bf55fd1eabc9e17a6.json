@@ -1,0 +1,499 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Stanford University",
+   "target_entity_name": "Silicon Valley",
+   "relation_type": "LOCATED_IN",
+   "fact": "Stanford University is located in the heart of Silicon Valley, providing access to numerous tech companies and opportunities.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of California, Berkeley",
+   "target_entity_name": "Arcadia, California",
+   "relation_type": "DISTANCE_FROM",
+   "fact": "University of California, Berkeley is about an hour and a half drive from Arcadia, California.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "California Institute of Technology (Caltech)",
+   "target_entity_name": "Pasadena",
+   "relation_type": "LOCATED_IN",
+   "fact": "California Institute of Technology (Caltech) is located in Pasadena, CA.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "California Institute of Technology (Caltech)",
+   "target_entity_name": "Arcadia, California",
+   "relation_type": "DISTANCE_FROM",
+   "fact": "California Institute of Technology (Caltech) is about 20 minutes from Arcadia, California.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of Southern California (USC)",
+   "target_entity_name": "Los Angeles",
+   "relation_type": "LOCATED_IN",
+   "fact": "University of Southern California (USC) is located in Los Angeles, CA.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of Southern California (USC)",
+   "target_entity_name": "Arcadia, California",
+   "relation_type": "DISTANCE_FROM",
+   "fact": "University of Southern California (USC) is about 30 minutes from Arcadia, California.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of California, Los Angeles (UCLA)",
+   "target_entity_name": "Los Angeles",
+   "relation_type": "LOCATED_IN",
+   "fact": "University of California, Los Angeles (UCLA) is located in Los Angeles, CA.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of California, Los Angeles (UCLA)",
+   "target_entity_name": "Arcadia, California",
+   "relation_type": "DISTANCE_FROM",
+   "fact": "University of California, Los Angeles (UCLA) is about 45 minutes from Arcadia, California.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of California, San Diego (UCSD)",
+   "target_entity_name": "La Jolla",
+   "relation_type": "LOCATED_IN",
+   "fact": "University of California, San Diego (UCSD) is located in La Jolla, CA.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of California, San Diego (UCSD)",
+   "target_entity_name": "Arcadia, California",
+   "relation_type": "DISTANCE_FROM",
+   "fact": "University of California, San Diego (UCSD) is about a 2-hour drive from Arcadia, California.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Carnegie Mellon University (CMU) - Silicon Valley",
+   "target_entity_name": "Mountain View",
+   "relation_type": "LOCATED_IN",
+   "fact": "Carnegie Mellon University (CMU) - Silicon Valley is located in Mountain View, CA.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Carnegie Mellon University (CMU) - Silicon Valley",
+   "target_entity_name": "Silicon Valley",
+   "relation_type": "LOCATED_IN",
+   "fact": "Carnegie Mellon University (CMU) has a satellite campus in Silicon Valley offering a Master's in CS focused on software engineering and data science.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of California, Berkeley",
+   "target_entity_name": "Bay Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "University of California, Berkeley is located in the heart of the Bay Area, providing unparalleled access to tech companies, startups, and research opportunities.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Google",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "NEAR",
+   "fact": "Google is within a short drive or BART ride from the University of California, Berkeley campus.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Apple",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "NEAR",
+   "fact": "Apple is within a short drive or BART ride from the University of California, Berkeley campus.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Facebook",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "NEAR",
+   "fact": "Facebook is within a short drive or BART ride from the University of California, Berkeley campus.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "BART",
+   "target_entity_name": "University of California, Berkeley",
+   "relation_type": "PROVIDES_ACCESS_TO",
+   "fact": "BART provides a ride option to reach nearby tech companies from the University of California, Berkeley campus.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Google",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "COLLABORATES_WITH",
+   "fact": "Google collaborates with University of California, Los Angeles (UCLA) on industry-sponsored projects, internships, or research collaborations.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Facebook",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "COLLABORATES_WITH",
+   "fact": "Facebook collaborates with University of California, Los Angeles (UCLA) on industry-sponsored projects, internships, or research collaborations.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Microsoft",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "COLLABORATES_WITH",
+   "fact": "Microsoft collaborates with University of California, Los Angeles (UCLA) on industry-sponsored projects, internships, or research collaborations.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Startup UCLA Accelerator",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "PART_OF",
+   "fact": "The Startup UCLA Accelerator is UCLA's own startup incubator, providing resources and funding for students to develop their own startups.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UCLA Artificial Intelligence Research Laboratory",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "PART_OF",
+   "fact": "The UCLA Artificial Intelligence Research Laboratory is a research center at UCLA focused on AI, machine learning, and data science research.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UCLA Center for Networked Systems",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "PART_OF",
+   "fact": "The UCLA Center for Networked Systems is a research center at UCLA that explores the design and optimization of networked systems, including the Internet of Things (IoT).",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UCLA Institute for Pure and Applied Mathematics",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "PART_OF",
+   "fact": "The UCLA Institute for Pure and Applied Mathematics brings together mathematicians, computer scientists, and engineers at UCLA to work on interdisciplinary problems.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "UCLA Center for Health Policy Research",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "PART_OF",
+   "fact": "The UCLA Center for Health Policy Research applies data science and CS techniques to healthcare policy and research at UCLA.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Yizhou Sun",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "WORKS_AT",
+   "fact": "Prof. Yizhou Sun is a faculty member in UCLA's AI and ML research group, an expert in machine learning, data mining, and artificial intelligence.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Song-Chun Zhu",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "WORKS_AT",
+   "fact": "Prof. Song-Chun Zhu is a faculty member in UCLA's AI and ML research group, a renowned researcher in computer vision, machine learning, and cognitive science.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Cho-Jui Hsieh",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "WORKS_AT",
+   "fact": "Prof. Cho-Jui Hsieh is a faculty member in UCLA's AI and ML research group, an expert in machine learning, optimization, and deep learning.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Greg Ver Steeg",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "WORKS_AT",
+   "fact": "Prof. Greg Ver Steeg is a faculty member in UCLA's AI and ML research group, researching explainable AI, fairness in machine learning, and causal inference.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Margo Seltzer",
+   "target_entity_name": "University of California, Los Angeles (UCLA)",
+   "relation_type": "WORKS_AT",
+   "fact": "Prof. Margo Seltzer is a faculty member in UCLA's AI and ML research group, researching AI for social good, human-centered AI, and AI ethics.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Yizhou Sun",
+   "target_entity_name": "NeurIPS",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Yizhou Sun has published numerous papers on graph neural networks, recommender systems, and anomaly detection in NeurIPS.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Yizhou Sun",
+   "target_entity_name": "ICML",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Yizhou Sun has published numerous papers on graph neural networks, recommender systems, and anomaly detection in ICML.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Yizhou Sun",
+   "target_entity_name": "KDD",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Yizhou Sun has published numerous papers on graph neural networks, recommender systems, and anomaly detection in KDD.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Song-Chun Zhu",
+   "target_entity_name": "CVPR",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Song-Chun Zhu has published papers on visual perception, object recognition, and human-computer interaction in CVPR.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Song-Chun Zhu",
+   "target_entity_name": "ICCV",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Song-Chun Zhu has published papers on visual perception, object recognition, and human-computer interaction in ICCV.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Song-Chun Zhu",
+   "target_entity_name": "ECCV",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Song-Chun Zhu has published papers on visual perception, object recognition, and human-computer interaction in ECCV.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Cho-Jui Hsieh",
+   "target_entity_name": "NeurIPS",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Cho-Jui Hsieh has published papers on scalable optimization methods, neural networks, and robustness in machine learning in NeurIPS.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Cho-Jui Hsieh",
+   "target_entity_name": "ICML",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Cho-Jui Hsieh has published papers on scalable optimization methods, neural networks, and robustness in machine learning in ICML.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Cho-Jui Hsieh",
+   "target_entity_name": "ICLR",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Cho-Jui Hsieh has published papers on scalable optimization methods, neural networks, and robustness in machine learning in ICLR.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Greg Ver Steeg",
+   "target_entity_name": "NeurIPS",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Greg Ver Steeg has published papers on explainable AI, fairness in machine learning, and causal inference in NeurIPS.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Greg Ver Steeg",
+   "target_entity_name": "ICML",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Greg Ver Steeg has published papers on explainable AI, fairness in machine learning, and causal inference in ICML.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Greg Ver Steeg",
+   "target_entity_name": "AISTATS",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Greg Ver Steeg has published papers on explainable AI, fairness in machine learning, and causal inference in AISTATS.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Margo Seltzer",
+   "target_entity_name": "AAAI",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Margo Seltzer has published papers on AI for social good, human-centered AI, and AI ethics in AAAI.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Margo Seltzer",
+   "target_entity_name": "IJCAI",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Margo Seltzer has published papers on AI for social good, human-centered AI, and AI ethics in IJCAI.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Prof. Margo Seltzer",
+   "target_entity_name": "HCOMP",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "Prof. Margo Seltzer has published papers on AI for social good, human-centered AI, and AI ethics in HCOMP.",
+   "valid_at": "2021-08-20T00:45:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

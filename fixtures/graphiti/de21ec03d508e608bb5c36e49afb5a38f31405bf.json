@@ -1,0 +1,52 @@
+{
+ "summaries": [
+  {
+   "name": "Strava",
+   "summary": "Strava is an online route-planning tool for finding popular cycling routes in a given area. It also integrates with dedicated bike computers and GPS devices for performance tracking."
+  },
+  {
+   "name": "Ride with GPS",
+   "summary": "Ride with GPS is an online route-planning tool for finding popular cycling routes in a given area."
+  },
+  {
+   "name": "MapMyRide",
+   "summary": "MapMyRide is an online route-planning tool for finding popular cycling routes in a given area."
+  },
+  {
+   "name": "Garmin Edge series",
+   "summary": "Garmin Edge series is a line of dedicated bike computers/GPS devices from Garmin, offering GPS navigation, heart rate monitoring, and performance tracking."
+  },
+  {
+   "name": "Wahoo Elemnt series",
+   "summary": "Wahoo Elemnt series is a line of dedicated bike computers/GPS devices from Wahoo, offering GPS navigation, heart rate monitoring, and integration with popular cycling apps."
+  },
+  {
+   "name": "Lezyne Super GPS",
+   "summary": "Lezyne Super GPS is a compact, affordable dedicated bike GPS device offering GPS navigation, heart rate monitoring, and customizable data screens."
+  },
+  {
+   "name": "Training Peaks",
+   "summary": "Training Peaks is a cycling app that dedicated bike computers/GPS devices can integrate with for performance tracking."
+  },
+  {
+   "name": "Lifeproof",
+   "summary": "Lifeproof makes protective phone cases designed for cycling use."
+  },
+  {
+   "name": "Quad Lock",
+   "summary": "Quad Lock makes protective phone cases and universal phone mounts that attach to bike handlebars or stems."
+  },
+  {
+   "name": "Rokform",
+   "summary": "Rokform makes universal phone mounts that attach to bike handlebars or stems."
+  },
+  {
+   "name": "Aquapac",
+   "summary": "Aquapac makes weather-resistant phone pouches that protect phones from the elements while cycling."
+  },
+  {
+   "name": "H2O Audio",
+   "summary": "H2O Audio makes weather-resistant phone pouches that protect phones from the elements while cycling."
+  }
+ ]
+}

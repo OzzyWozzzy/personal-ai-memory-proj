@@ -1,0 +1,70 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "the user's snake plant",
+   "target_entity_name": "the user's sister",
+   "relation_type": "RECEIVED_FROM",
+   "fact": "The user's snake plant was a gift from the user's sister, received about a month before May 23, 2023.",
+   "valid_at": "2023-05-23T12:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's fern",
+   "target_entity_name": "spider mites",
+   "relation_type": "POSSIBLY_INFESTED_WITH",
+   "fact": "The tiny, moving dots seen crawling on the leaves and stems of the user's fern are suspected to possibly be spider mites.",
+   "valid_at": "2023-05-23T12:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's fern",
+   "target_entity_name": "springtails",
+   "relation_type": "POSSIBLY_INFESTED_WITH",
+   "fact": "The tiny, moving dots seen crawling on the leaves and stems of the user's fern are suspected to possibly be springtails.",
+   "valid_at": "2023-05-23T12:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "neem oil",
+   "target_entity_name": "the user's fern",
+   "relation_type": "USED_TO_TREAT",
+   "fact": "The user plans to use neem oil to treat the pests found on the user's fern.",
+   "valid_at": "2023-05-23T12:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "neem oil",
+   "target_entity_name": "spider mites",
+   "relation_type": "EFFECTIVE_AGAINST",
+   "fact": "Neem oil is a natural insecticide that can help disrupt the life cycle of pests including spider mites.",
+   "valid_at": "2023-05-23T12:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "neem oil",
+   "target_entity_name": "springtails",
+   "relation_type": "EFFECTIVE_AGAINST",
+   "fact": "Neem oil is a natural insecticide that can help disrupt the life cycle of pests including springtails.",
+   "valid_at": "2023-05-23T12:58:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

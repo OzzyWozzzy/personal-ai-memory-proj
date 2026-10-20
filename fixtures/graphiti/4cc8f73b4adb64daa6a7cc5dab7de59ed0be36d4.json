@@ -1,0 +1,16 @@
+{
+ "summaries": [
+  {
+   "name": "Delta",
+   "summary": "Delta SkyMiles is Delta's frequent flyer loyalty program, used to redeem miles for flights and upgrades, and transferable from Chase Ultimate Rewards (via Chase Sapphire Preferred). Delta partners with SkyTeam alliance airlines including LATAM, Air France, KLM, and Virgin Atlantic (but not American Airlines, so SkyMiles can't be redeemed on American). Delta offers non-stop Boston (BOS)-Miami (MIA) flights redeemable with SkyMiles, including a 6:00 AM departure via ATL layover priced at $158 (earning 2,344 SkyMiles). The user's booked return flight, DL 1242/DL 2166 from Fort Lauderdale to Boston via an ATL layover (departing 5:30 PM, arriving 9:35 PM), was considered for a SkyMiles upgrade to Comfort+ (15,000 miles) or First Class (30,000 miles). ExpertFlyer is a third-party service used to set up custom alerts for Delta flight upgrade availability."
+  },
+  {
+   "name": "Uber",
+   "summary": "Uber is a ride-hailing service suggested as an alternative to a hotel shuttle for getting to a destination, offering more flexibility when a hotel doesn't provide shuttle service."
+  },
+  {
+   "name": "Lyft",
+   "summary": "Lyft is a ride-hailing service suggested as an alternative to a hotel shuttle for getting to a destination, offering more flexibility when a hotel doesn't provide shuttle service."
+  }
+ ]
+}

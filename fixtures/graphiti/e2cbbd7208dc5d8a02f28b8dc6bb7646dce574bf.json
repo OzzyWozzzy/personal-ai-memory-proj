@@ -1,0 +1,213 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "r/MachineLearning",
+   "target_entity_name": "Reddit",
+   "relation_type": "PART_OF",
+   "fact": "r/MachineLearning is an active Reddit community discussing ML and AI",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "r/AI",
+   "target_entity_name": "Reddit",
+   "relation_type": "PART_OF",
+   "fact": "r/AI is an active Reddit community discussing ML and AI",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Robotics subreddit",
+   "target_entity_name": "Reddit",
+   "relation_type": "PART_OF",
+   "fact": "The Robotics subreddit is a Reddit community of robotics enthusiasts, researchers, and engineers",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "DeepLearning.ai",
+   "target_entity_name": "Andrew Ng",
+   "relation_type": "FOUNDED_BY",
+   "fact": "DeepLearning.ai offers Andrew Ng's AI and ML courses",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "DeepLearning.ai",
+   "target_entity_name": "Coursera",
+   "relation_type": "OFFERED_ON",
+   "fact": "DeepLearning.ai's AI and ML courses are hosted on Coursera",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Stanford CS231n: Convolutional Neural Networks for Visual Recognition",
+   "target_entity_name": "Stanford",
+   "relation_type": "OFFERED_BY",
+   "fact": "Stanford CS231n: Convolutional Neural Networks for Visual Recognition is a popular course on CNNs offered by Stanford",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Stanford CS235: Robotics",
+   "target_entity_name": "Stanford",
+   "relation_type": "OFFERED_BY",
+   "fact": "Stanford CS235: Robotics covers robotics, AI, and machine learning with a focus on autonomous systems, offered by Stanford",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "MIT OpenCourseWare: Artificial Intelligence",
+   "target_entity_name": "MIT",
+   "relation_type": "OFFERED_BY",
+   "fact": "MIT OpenCourseWare: Artificial Intelligence is a comprehensive AI course offered by MIT",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "MIT OpenCourseWare: Robotics",
+   "target_entity_name": "MIT",
+   "relation_type": "OFFERED_BY",
+   "fact": "MIT OpenCourseWare: Robotics covers control systems, vision, and machine learning, offered by MIT",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Boston Dynamics",
+   "target_entity_name": "Atlas",
+   "relation_type": "CREATED",
+   "fact": "Boston Dynamics is known for its advanced robot Atlas",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Boston Dynamics",
+   "target_entity_name": "Spot",
+   "relation_type": "CREATED",
+   "fact": "Boston Dynamics is known for its advanced robot Spot",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Carnegie Mellon Robotics Institute",
+   "target_entity_name": "Carnegie Mellon",
+   "relation_type": "PART_OF",
+   "fact": "The Carnegie Mellon Robotics Institute is a renowned research institution at Carnegie Mellon focused on robotics, AI, and machine learning",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+   "target_entity_name": "MIT",
+   "relation_type": "PART_OF",
+   "fact": "MIT CSAIL is a research institution at MIT that explores AI, robotics, and related areas",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Stanford Health Care",
+   "target_entity_name": "Stanford",
+   "relation_type": "PART_OF",
+   "fact": "Stanford Health Care is a healthcare system at Stanford that leverages AI and machine learning to improve patient care",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Stanford Radiology",
+   "target_entity_name": "Stanford",
+   "relation_type": "PART_OF",
+   "fact": "Stanford Radiology is a research institution at Stanford that focuses on AI applications in radiology and medical imaging",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Deep Learning for Computer Vision with Python",
+   "target_entity_name": "Adrian Rosebrock",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Deep Learning for Computer Vision with Python\" was written by Adrian Rosebrock, covering deep learning techniques for computer vision including medical imaging",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Deep Learning for Medical Imaging with Python",
+   "target_entity_name": "Adrian Rosebrock",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Deep Learning for Medical Imaging with Python\" was written by Adrian Rosebrock, covering deep learning techniques for computer vision including medical imaging",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Medical Image Analysis",
+   "target_entity_name": "Joseph M. Reinhardt",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Medical Image Analysis\" was written by Joseph M. Reinhardt, covering AI and machine learning applications in medical image analysis",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Medical Image Analysis",
+   "target_entity_name": "Matthew J. McAuliffe",
+   "relation_type": "AUTHORED_BY",
+   "fact": "\"Medical Image Analysis\" was co-written by Matthew J. McAuliffe, covering AI and machine learning applications in medical image analysis",
+   "valid_at": "2021-08-20T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

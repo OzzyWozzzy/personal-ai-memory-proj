@@ -1,0 +1,356 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Kind of Blue",
+   "target_entity_name": "Miles Davis",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Kind of Blue\" is a must-listen album by Miles Davis",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Birth of the Cool",
+   "target_entity_name": "Miles Davis",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Birth of the Cool\" is a must-listen album by Miles Davis",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "A Love Supreme",
+   "target_entity_name": "John Coltrane",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"A Love Supreme\" is a 1965 must-listen album by John Coltrane",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Giant Steps",
+   "target_entity_name": "John Coltrane",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Giant Steps\" is a must-listen album by John Coltrane",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bird: The Complete Charlie Parker on Verve",
+   "target_entity_name": "Charlie Parker",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Bird: The Complete Charlie Parker on Verve\" is a must-listen album by Charlie Parker",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Charlie Parker with Strings",
+   "target_entity_name": "Charlie Parker",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Charlie Parker with Strings\" is a must-listen album by Charlie Parker",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Monk's Dream",
+   "target_entity_name": "Thelonious Monk",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Monk's Dream\" is a must-listen album by Thelonious Monk",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Straight, No Chaser",
+   "target_entity_name": "Thelonious Monk",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Straight, No Chaser\" is a must-listen album by Thelonious Monk",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Epic",
+   "target_entity_name": "Kamasi Washington",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"The Epic\" is a must-listen album by Kamasi Washington",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Heaven and Earth",
+   "target_entity_name": "Kamasi Washington",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Heaven and Earth\" is a must-listen album by Kamasi Washington",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Black Radio",
+   "target_entity_name": "Robert Glasper",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Black Radio\" is a must-listen album by Robert Glasper",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Everything's Beautiful",
+   "target_entity_name": "Robert Glasper",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Everything's Beautiful\" is a must-listen album by Robert Glasper",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Window",
+   "target_entity_name": "Cécile McLorin Salvant",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"The Window\" is a must-listen album by Cécile McLorin Salvant",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dreams and Daggers",
+   "target_entity_name": "Cécile McLorin Salvant",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Dreams and Daggers\" is a must-listen album by Cécile McLorin Salvant",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Art of the Trio",
+   "target_entity_name": "Brad Mehldau",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"The Art of the Trio\" is a must-listen album by Brad Mehldau",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Highway Rider",
+   "target_entity_name": "Brad Mehldau",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Highway Rider\" is a must-listen album by Brad Mehldau",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miles Smiles",
+   "target_entity_name": "Miles Davis",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Miles Smiles\" is a 1967 album by Miles Davis featuring his second great quintet",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miles Smiles",
+   "target_entity_name": "Herbie Hancock",
+   "relation_type": "FEATURES",
+   "fact": "\"Miles Smiles\" (1967) features Herbie Hancock as part of Miles Davis's second great quintet",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miles Smiles",
+   "target_entity_name": "Wayne Shorter",
+   "relation_type": "FEATURES",
+   "fact": "\"Miles Smiles\" (1967) features Wayne Shorter as part of Miles Davis's second great quintet",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miles Smiles",
+   "target_entity_name": "Tony Williams",
+   "relation_type": "FEATURES",
+   "fact": "\"Miles Smiles\" (1967) features Tony Williams as part of Miles Davis's second great quintet",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "A Love Supreme",
+   "target_entity_name": "McCoy Tyner",
+   "relation_type": "FEATURES",
+   "fact": "\"A Love Supreme\" (1965) features McCoy Tyner as part of John Coltrane's classic quartet",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "A Love Supreme",
+   "target_entity_name": "Jimmy Garrison",
+   "relation_type": "FEATURES",
+   "fact": "\"A Love Supreme\" (1965) features Jimmy Garrison as part of John Coltrane's classic quartet",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "A Love Supreme",
+   "target_entity_name": "Elvin Jones",
+   "relation_type": "FEATURES",
+   "fact": "\"A Love Supreme\" (1965) features Elvin Jones as part of John Coltrane's classic quartet",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Take Five",
+   "target_entity_name": "The Dave Brubeck Quartet",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Take Five\" is a 1959 album by The Dave Brubeck Quartet featuring its iconic 5/4 time signature",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Take Five",
+   "target_entity_name": "Paul Desmond",
+   "relation_type": "FEATURES",
+   "fact": "\"Take Five\" (1959) features Paul Desmond's saxophone",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mingus Ah Um",
+   "target_entity_name": "Charles Mingus",
+   "relation_type": "ALBUM_BY",
+   "fact": "\"Mingus Ah Um\" is a 1959 album by Charles Mingus featuring his unique bass playing and compositions",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Earl Scruggs",
+   "target_entity_name": "Flatt and Scruggs",
+   "relation_type": "MEMBER_OF",
+   "fact": "Earl Scruggs is part of the iconic duo Flatt and Scruggs, known for their harmonies, banjo, and guitar work",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Punch Brothers",
+   "target_entity_name": "Chris Thile",
+   "relation_type": "FEATURES",
+   "fact": "The Punch Brothers is a progressive bluegrass band featuring Chris Thile on mandolin",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Punch Brothers",
+   "target_entity_name": "Noam Pikelny",
+   "relation_type": "FEATURES",
+   "fact": "The Punch Brothers is a progressive bluegrass band featuring Noam Pikelny on banjo",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sam Bush",
+   "target_entity_name": "New Grass Revival",
+   "relation_type": "FOUNDED",
+   "fact": "Sam Bush, a mandolin master, is one of the founders of New Grass Revival",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ricky Skaggs",
+   "target_entity_name": "Emmylou Harris",
+   "relation_type": "WORKED_WITH",
+   "fact": "Ricky Skaggs, a bluegrass legend, is known for his work with Emmylou Harris",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ricky Skaggs",
+   "target_entity_name": "Kentucky Thunder",
+   "relation_type": "FOUNDED",
+   "fact": "Ricky Skaggs is known for his work with his band Kentucky Thunder",
+   "valid_at": "2023-03-31T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

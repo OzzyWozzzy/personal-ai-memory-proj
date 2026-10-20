@@ -1,0 +1,884 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Kyoto",
+   "target_entity_name": "Japan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kyoto is a city in Japan.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fushimi Inari Shrine",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Fushimi Inari Shrine, famous for its thousands of vermilion torii gates forming a tunnel up the mountain, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kinkaku-ji Temple",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kinkaku-ji Temple (Golden Pavilion), a temple covered in gold leaf surrounded by serene gardens and a lake, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Arashiyama Bamboo Grove",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Arashiyama Bamboo Grove, a picturesque bamboo forest, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kiyomizu-dera Temple",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kiyomizu-dera Temple, a UNESCO World Heritage site offering a panoramic view of the city from its wooden stage, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gion District",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Gion District, a traditional quarter known for its geisha culture and traditional Japanese architecture, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hanami-koji Street",
+   "target_entity_name": "Gion District",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hanami-koji Street is the main street of the Gion District.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nijo Castle",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nijo Castle, a UNESCO World Heritage site and former residence of the Tokugawa shoguns featuring \"nightingale floors,\" is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Philosopher's Path",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Philosopher's Path, a scenic walking path lined with cherry blossom trees and temples, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ginkaku-ji Temple",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Ginkaku-ji Temple (Silver Pavilion), known for its moss-covered grounds, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sanjusangendo Temple",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Sanjusangendo Temple, famous for its 1,001 life-size statues of Kannon, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nishiki Market",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nishiki Market, known as \"Kyoto's Kitchen,\" offering local food, fresh seafood, and Japanese snacks, is located in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "ICOCA",
+   "target_entity_name": "Kyoto",
+   "relation_type": "USABLE_IN",
+   "fact": "ICOCA is a prepaid IC card recommended for convenient travel around Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Suica",
+   "target_entity_name": "Kyoto",
+   "relation_type": "USABLE_IN",
+   "fact": "Suica is a prepaid IC card recommended for convenient travel around Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kaiseki",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCAL_CUISINE_OF",
+   "fact": "Kaiseki, a multi-course meal, is recommended local cuisine to try in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Shojin-ryori",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCAL_CUISINE_OF",
+   "fact": "Shojin-ryori, Buddhist vegetarian cuisine, is recommended local cuisine to try in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yudofu",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCAL_CUISINE_OF",
+   "fact": "Yudofu, boiled tofu, is recommended local cuisine to try in Kyoto.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Guesthouse Kiyomizu",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Guesthouse Kiyomizu is a budget-friendly guesthouse in Kyoto starting from ¥2,500 (around $23 USD) per night.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Guesthouse Ninja",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Guesthouse Ninja is a budget-friendly guesthouse in Kyoto starting from ¥2,800 (around $26 USD) per night.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Guesthouse Kinoe",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Guesthouse Kinoe is a budget-friendly guesthouse in Kyoto starting from ¥3,000 (around $28 USD) per night.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nijo Guest House",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nijo Guest House is a Kyoto hostel offering dorm beds starting from ¥2,000 (around $18 USD) per night.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "K's House Kyoto",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "K's House Kyoto is a hostel in Kyoto offering dorm beds starting from ¥2,500 (around $23 USD) per night.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hostel Mundo",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hostel Mundo is a hostel in Kyoto offering dorm beds starting from ¥2,800 (around $26 USD) per night.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nine Hours Kyoto",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nine Hours Kyoto is a capsule hotel in Kyoto starting from ¥2,000 (around $18 USD) per night.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Capsule Hotel Anshin Oyado",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Capsule Hotel Anshin Oyado is a capsule hotel in Kyoto starting from ¥2,500 (around $23 USD) per night.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kawaramachi",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kawaramachi is a recommended neighborhood to stay in within Kyoto, offering easy access to Kyoto's main attractions.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kurama Onsen",
+   "target_entity_name": "Kyoto Station",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Kurama Onsen, located in the Kurama mountains and famous for its natural hot springs, is about an hour's train ride from Kyoto Station.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Yunessun",
+   "target_entity_name": "Kameoka",
+   "relation_type": "LOCATED_IN",
+   "fact": "Yunessun is a hot spring resort located in Kameoka, about 30 minutes from Kyoto Station by train, offering baths like a wine bath and coffee bath.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kameoka",
+   "target_entity_name": "Kyoto Station",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Kameoka is about 30 minutes from Kyoto Station by train.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Funaoka Onsen",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Funaoka Onsen is a public bathhouse in Kyoto City known for its traditional atmosphere and mineral-rich hot spring water, with admission around ¥400 (about $4 USD).",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tenzan no Yu",
+   "target_entity_name": "Kyoto",
+   "relation_type": "LOCATED_IN",
+   "fact": "Tenzan no Yu is a hot spring bathhouse in the heart of Kyoto with admission around ¥1,000 (about $9 USD).",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kawaramachi Onsen",
+   "target_entity_name": "Gion District",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kawaramachi Onsen is a public bathhouse located in the Gion District with a view of the Kamo River, admission around ¥400 (about $4 USD).",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kawaramachi Onsen",
+   "target_entity_name": "Kamo River",
+   "relation_type": "OFFERS_VIEW_OF",
+   "fact": "Kawaramachi Onsen offers a view of the Kamo River.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Angkor Wat",
+   "target_entity_name": "Cambodia",
+   "relation_type": "LOCATED_IN",
+   "fact": "Angkor Wat, a majestic ancient temple complex, is located in Cambodia.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ha Long Bay",
+   "target_entity_name": "Vietnam",
+   "relation_type": "LOCATED_IN",
+   "fact": "Ha Long Bay, with emerald waters and limestone karsts, is located in Vietnam.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bali",
+   "target_entity_name": "Indonesia",
+   "relation_type": "LOCATED_IN",
+   "fact": "Bali, known for beautiful beaches, temples, and vibrant culture, is located in Indonesia.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chiang Mai",
+   "target_entity_name": "Thailand",
+   "relation_type": "LOCATED_IN",
+   "fact": "Chiang Mai, known for its old city's temples, markets, and street food, is located in Thailand.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gardens by the Bay",
+   "target_entity_name": "Singapore",
+   "relation_type": "LOCATED_IN",
+   "fact": "Gardens by the Bay is located in Singapore.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Great Wall of China",
+   "target_entity_name": "China",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Great Wall of China, an ancient series of fortifications, is located in China.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Seoul",
+   "target_entity_name": "South Korea",
+   "relation_type": "LOCATED_IN",
+   "fact": "Seoul is a city in South Korea known for its K-pop scene, palaces, and street food.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Taipei",
+   "target_entity_name": "Taiwan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Taipei is a city in Taiwan featuring the National Palace Museum, night markets, and beef noodle soup.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "National Palace Museum",
+   "target_entity_name": "Taipei",
+   "relation_type": "LOCATED_IN",
+   "fact": "The National Palace Museum is located in Taipei.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hong Kong",
+   "target_entity_name": "China",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hong Kong, China, is known for its stunning skyline, Victoria Peak, and bustling streets.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Victoria Peak",
+   "target_entity_name": "Hong Kong",
+   "relation_type": "LOCATED_IN",
+   "fact": "Victoria Peak is located in Hong Kong.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Taj Mahal",
+   "target_entity_name": "Agra",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Taj Mahal, an iconic white marble mausoleum, is located in Agra.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Agra",
+   "target_entity_name": "India",
+   "relation_type": "LOCATED_IN",
+   "fact": "Agra is a city in India.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Varanasi",
+   "target_entity_name": "India",
+   "relation_type": "LOCATED_IN",
+   "fact": "Varanasi, the spiritual heart of India with its Ganges River and colorful streets, is located in India.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ganges River",
+   "target_entity_name": "Varanasi",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Ganges River runs through Varanasi.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Everest Base Camp",
+   "target_entity_name": "Nepal",
+   "relation_type": "LOCATED_IN",
+   "fact": "Everest Base Camp, a trekking destination, is located in Nepal.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kathmandu",
+   "target_entity_name": "Nepal",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kathmandu, with its old town, is located in Nepal.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Anuradhapura",
+   "target_entity_name": "Sri Lanka",
+   "relation_type": "LOCATED_IN",
+   "fact": "Anuradhapura, an ancient city, is located in Sri Lanka.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Polonnaruwa",
+   "target_entity_name": "Sri Lanka",
+   "relation_type": "LOCATED_IN",
+   "fact": "Polonnaruwa, an ancient city, is located in Sri Lanka.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Samarkand",
+   "target_entity_name": "Uzbekistan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Samarkand, known for stunning Islamic architecture, is located in Uzbekistan.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Registan Square",
+   "target_entity_name": "Samarkand",
+   "relation_type": "LOCATED_IN",
+   "fact": "Registan Square is located in Samarkand.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bukhara",
+   "target_entity_name": "Uzbekistan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Bukhara, an ancient city with mosques, madrasas, and bustling bazaars, is located in Uzbekistan.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Astana",
+   "target_entity_name": "Kazakhstan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Astana, the futuristic capital, is located in Kazakhstan.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Almaty",
+   "target_entity_name": "Kazakhstan",
+   "relation_type": "LOCATED_IN",
+   "fact": "Almaty, an ancient Silk Road city, is located in Kazakhstan.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Gwangjang Market",
+   "target_entity_name": "Seoul",
+   "relation_type": "LOCATED_IN",
+   "fact": "Gwangjang Market, a traditional market and bustling food market, is located in Seoul.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bindaetteok",
+   "target_entity_name": "Gwangjang Market",
+   "relation_type": "SERVED_AT",
+   "fact": "Bindaetteok (mung bean pancake) is a famous dish served at Gwangjang Market.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Makgeolli",
+   "target_entity_name": "Gwangjang Market",
+   "relation_type": "SERVED_AT",
+   "fact": "Makgeolli (traditional rice wine) is served at Gwangjang Market.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Myeong-dong Kyoja",
+   "target_entity_name": "Seoul",
+   "relation_type": "LOCATED_IN",
+   "fact": "Myeong-dong Kyoja is a popular restaurant chain in Seoul serving naengmyeon and other Korean dishes.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Naengmyeon",
+   "target_entity_name": "Myeong-dong Kyoja",
+   "relation_type": "SERVED_AT",
+   "fact": "Naengmyeon (cold noodles) is served at Myeong-dong Kyoja.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tosokchon Samgyetang",
+   "target_entity_name": "Seoul",
+   "relation_type": "LOCATED_IN",
+   "fact": "Tosokchon Samgyetang is a Seoul restaurant known for its signature ginseng chicken soup.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jinju Hoegwan",
+   "target_entity_name": "Seoul",
+   "relation_type": "LOCATED_IN",
+   "fact": "Jinju Hoegwan is a Seoul restaurant offering a wide range of traditional Korean dishes in a rustic setting.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bulgogi",
+   "target_entity_name": "Jinju Hoegwan",
+   "relation_type": "SERVED_AT",
+   "fact": "Bulgogi is served at Jinju Hoegwan.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kimchi Stew",
+   "target_entity_name": "Jinju Hoegwan",
+   "relation_type": "SERVED_AT",
+   "fact": "Kimchi Stew is served at Jinju Hoegwan.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bicena",
+   "target_entity_name": "Seoul",
+   "relation_type": "LOCATED_IN",
+   "fact": "Bicena is a modern Korean bistro in Seoul offering creative dishes like kimchi risotto and bulgogi tacos.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Myeong-dong Night Market",
+   "target_entity_name": "Seoul",
+   "relation_type": "LOCATED_IN",
+   "fact": "Myeong-dong Night Market is located in Seoul.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hotteok",
+   "target_entity_name": "Myeong-dong Night Market",
+   "relation_type": "SERVED_AT",
+   "fact": "Hotteok (sweet pancakes) is sold at Myeong-dong Night Market.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tteokbokki",
+   "target_entity_name": "Myeong-dong Night Market",
+   "relation_type": "SERVED_AT",
+   "fact": "Tteokbokki is sold at Myeong-dong Night Market.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hongdae Food Street",
+   "target_entity_name": "Seoul",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hongdae Food Street, a trendy neighborhood with street food, cafes, and restaurants, is located in Seoul.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Demilitarized Zone (DMZ)",
+   "target_entity_name": "North Korea",
+   "relation_type": "LOCATED_BETWEEN",
+   "fact": "The Demilitarized Zone (DMZ) is a buffer zone between North Korea and South Korea.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Demilitarized Zone (DMZ)",
+   "target_entity_name": "South Korea",
+   "relation_type": "LOCATED_BETWEEN",
+   "fact": "The Demilitarized Zone (DMZ) is a buffer zone between North Korea and South Korea.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Joint Security Area",
+   "target_entity_name": "Demilitarized Zone (DMZ)",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Joint Security Area (JSA), the only portion of the DMZ where North and South Korean forces stand face-to-face, is located within the Demilitarized Zone.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Third Tunnel",
+   "target_entity_name": "Demilitarized Zone (DMZ)",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Third Tunnel is one of four tunnels discovered beneath the Demilitarized Zone (DMZ).",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dora Observatory",
+   "target_entity_name": "North Korea",
+   "relation_type": "OFFERS_VIEW_OF",
+   "fact": "From the Dora Observatory, visitors can see North Korea.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Panmunjom Museum",
+   "target_entity_name": "Joint Security Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Panmunjom Museum is located in the Joint Security Area and showcases the history of the Korean War and the DMZ.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Panmunjom Museum",
+   "target_entity_name": "Korean War",
+   "relation_type": "ABOUT",
+   "fact": "Panmunjom Museum showcases the history of the Korean War and the DMZ.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Freedom House",
+   "target_entity_name": "Joint Security Area",
+   "relation_type": "LOCATED_IN",
+   "fact": "Freedom House is visited as part of the Panmunjom Tour of the Joint Security Area.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "War Memorial Museum",
+   "target_entity_name": "Korean War",
+   "relation_type": "ABOUT",
+   "fact": "The War Memorial Museum, visited as part of the Imjingak Tour, covers the history of the Korean War.",
+   "valid_at": "2023-05-26T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

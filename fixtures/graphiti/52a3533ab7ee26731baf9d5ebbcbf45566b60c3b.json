@@ -1,0 +1,36 @@
+{
+ "summaries": [
+  {
+   "name": "Verizon International Plan",
+   "summary": "Offers a monthly plan with a set amount of data, voice minutes, and texts for international use. Monthly plans cost $70-$130 depending on data allowance and features; pay-as-you-go rates are $2.05 per minute for voice calls, $0.50 per sent text, and $2.05 per MB of data."
+  },
+  {
+   "name": "AT&T International Day Pass",
+   "summary": "Allows use of a domestic plan's data, voice, and text allowances in over 100 countries, including the US, for a daily fee of $10 per day per line. Overage rates apply if the daily allowance is exceeded."
+  },
+  {
+   "name": "T-Mobile International Plan",
+   "summary": "Offers unlimited data and texting in over 200 countries with voice calls at a flat rate of $0.20 per minute. Costs $10 per month for unlimited data and texting at 2G speeds, or $20 per month for 4G LTE speeds."
+  },
+  {
+   "name": "Google Fi",
+   "summary": "A prepaid SIM card offering affordable rates for data, voice, and texts, with coverage in over 200 countries."
+  },
+  {
+   "name": "Cricket Wireless",
+   "summary": "A prepaid carrier offering affordable plans with international coverage."
+  },
+  {
+   "name": "WhatsApp",
+   "summary": "A cross-platform messaging app usable on smartphone, tablet, or computer, offering voice and video calls and text messaging with end-to-end encryption. Supports group chats of up to 256 members (group name up to 25 characters, group description up to 512 characters), group voice/video calls with up to 8 people at a time, file sharing up to 100 MB, a web version at web.whatsapp.com, and 24-hour disappearing status updates. To set up: download from the App Store or Google Play Store, verify phone number via SMS code, then create a profile."
+  },
+  {
+   "name": "Facebook Messenger",
+   "summary": "A messaging app allowing voice and video calls as well as text messaging, with a large user base."
+  },
+  {
+   "name": "Skype",
+   "summary": "A video conferencing app offering voice and video calls as well as text messaging, with affordable international rates."
+  }
+ ]
+}

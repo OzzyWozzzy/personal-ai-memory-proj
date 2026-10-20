@@ -1,0 +1,39 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Ford F-150",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Micro Set",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Vallejo Model Color Rust",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Vallejo Model Color Rusty Red",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Vallejo Model Color Burnt Iron",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Mig Productions Rust Powder",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "AK Interactive Rust and Scale Powder",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

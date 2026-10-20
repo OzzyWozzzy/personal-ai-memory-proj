@@ -1,0 +1,81 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "George Nelson",
+   "target_entity_name": "Ball Clock",
+   "relation_type": "DESIGNED",
+   "fact": "George Nelson designed the Ball Clock, an iconic mid-century modern piece.",
+   "valid_at": "2023-05-25T09:09:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "George Nelson",
+   "target_entity_name": "Marshmallow Sofa",
+   "relation_type": "DESIGNED",
+   "fact": "George Nelson designed the Marshmallow Sofa, an iconic mid-century modern piece.",
+   "valid_at": "2023-05-25T09:09:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "George Nelson",
+   "target_entity_name": "Nelson Bench",
+   "relation_type": "DESIGNED",
+   "fact": "George Nelson designed the Nelson Bench, a sleek, low-profile design.",
+   "valid_at": "2023-05-25T09:09:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cara Greenberg",
+   "target_entity_name": "Mid-Century Modern: Furniture of the 1950s",
+   "relation_type": "AUTHORED",
+   "fact": "Cara Greenberg authored the book \"Mid-Century Modern: Furniture of the 1950s\".",
+   "valid_at": "2023-05-25T09:09:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "John Neuhart",
+   "target_entity_name": "Eames Design: The Work of Charles and Ray Eames",
+   "relation_type": "AUTHORED",
+   "fact": "John Neuhart authored the book \"Eames Design: The Work of Charles and Ray Eames\".",
+   "valid_at": "2023-05-25T09:09:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Charles and Ray Eames",
+   "target_entity_name": "Eames Design: The Work of Charles and Ray Eames",
+   "relation_type": "SUBJECT_OF",
+   "fact": "\"Eames Design: The Work of Charles and Ray Eames\" is a book about the work of Charles and Ray Eames.",
+   "valid_at": "2023-05-25T09:09:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Charles and Ray Eames",
+   "target_entity_name": "Eames Storage Unit",
+   "relation_type": "DESIGNED",
+   "fact": "Charles and Ray Eames designed the Eames Storage Unit, a classic modular design.",
+   "valid_at": "2023-05-25T09:09:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

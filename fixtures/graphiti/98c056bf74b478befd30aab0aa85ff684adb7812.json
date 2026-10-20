@@ -1,0 +1,100 @@
+{
+ "summaries": [
+  {
+   "name": "Trello",
+   "summary": "Trello is a visual task management tool using boards, lists, and cards to organize tasks and projects, useful for breaking larger tasks into smaller chunks."
+  },
+  {
+   "name": "Any.do",
+   "summary": "Any.do is a simple, intuitive app for creating to-do lists, setting reminders, and collaborating with others."
+  },
+  {
+   "name": "Google Calendar",
+   "summary": "Google Calendar can integrate tasks and events for a clear daily overview, and can be used to create recurring yoga practice events with reminders (e.g., every Monday, Wednesday, and Friday at 7:00 am, with a reminder 10-15 minutes beforehand)."
+  },
+  {
+   "name": "Apple Calendar",
+   "summary": "Apple Calendar can integrate tasks and events for a clear daily overview, and can be used to create recurring yoga practice events with reminders."
+  },
+  {
+   "name": "Fantastical",
+   "summary": "Fantastical is an iOS-only calendar app that integrates with tasks and reminders, offering a clean, intuitive interface."
+  },
+  {
+   "name": "Yoga Studio",
+   "summary": "Yoga Studio is a comprehensive yoga app with classes, custom sequences, and a schedule feature to help plan a yoga practice."
+  },
+  {
+   "name": "Habitica",
+   "summary": "Habitica is a habit-tracking app that gamifies daily tasks and activities, including exercise and yoga practice, and can be used to set reminders and track yoga practice progress."
+  },
+  {
+   "name": "Strides",
+   "summary": "Strides is a goal-setting app that helps track progress toward objectives, including fitness and wellness goals like yoga practice."
+  },
+  {
+   "name": "Google Keep",
+   "summary": "Google Keep (for Android) can be used to set phone reminders, such as recurring reminders for a Monday/Wednesday/Friday 7:00 am yoga practice at 6:50 am (10 minutes before)."
+  },
+  {
+   "name": "HabitBull",
+   "summary": "HabitBull is a habit-tracking app that can be used to set reminders for yoga practice and track progress."
+  },
+  {
+   "name": "Loop Habit Tracker",
+   "summary": "Loop Habit Tracker is a habit-tracking app that can be used to set reminders for yoga practice and track progress."
+  },
+  {
+   "name": "Mountain Pose",
+   "summary": "Mountain Pose is a foundational yoga posture recommended for beginners to master before moving to more advanced poses."
+  },
+  {
+   "name": "Downward-Facing Dog",
+   "summary": "Downward-Facing Dog is a foundational yoga posture recommended for beginners to master before moving to more advanced poses."
+  },
+  {
+   "name": "Cobra",
+   "summary": "Cobra is a foundational yoga posture recommended for beginners to master before moving to more advanced poses."
+  },
+  {
+   "name": "Snake Plant",
+   "summary": "Snake Plant (Sansevieria Trifasciata) is a low-maintenance, indoor-friendly plant recommended to create a peaceful, calming atmosphere in a home yoga space."
+  },
+  {
+   "name": "Spider Plant",
+   "summary": "Spider Plant (Chlorophytum comosum) is a low-maintenance, indoor-friendly plant recommended to create a peaceful, calming atmosphere in a home yoga space."
+  },
+  {
+   "name": "Pothos",
+   "summary": "Pothos (Epipremnum aureum) is a low-maintenance, indoor-friendly plant recommended to create a peaceful, calming atmosphere in a home yoga space."
+  },
+  {
+   "name": "Dracaena",
+   "summary": "Dracaena (Dracaena spp.) is a low-maintenance, indoor-friendly plant recommended to create a peaceful, calming atmosphere in a home yoga space."
+  },
+  {
+   "name": "Peace Lily",
+   "summary": "Peace Lily (Spathiphyllum wallisii) is a low-maintenance, indoor-friendly plant recommended to create a peaceful, calming atmosphere in a home yoga space."
+  },
+  {
+   "name": "Manduka",
+   "summary": "Manduka is a popular yoga mat brand recommended for good grip, cushioning, and eco-friendly, non-toxic materials."
+  },
+  {
+   "name": "Lululemon",
+   "summary": "Lululemon is a popular yoga mat brand recommended for good grip, cushioning, and eco-friendly, non-toxic materials."
+  },
+  {
+   "name": "Gaiam",
+   "summary": "Gaiam is a popular yoga mat brand recommended for good grip, cushioning, and eco-friendly, non-toxic materials."
+  },
+  {
+   "name": "Jade Yoga",
+   "summary": "Jade Yoga is a popular yoga mat brand recommended for good grip, cushioning, and eco-friendly, non-toxic materials."
+  },
+  {
+   "name": "Hugger Mugger",
+   "summary": "Hugger Mugger is a popular yoga mat brand recommended for good grip, cushioning, and eco-friendly, non-toxic materials."
+  }
+ ]
+}

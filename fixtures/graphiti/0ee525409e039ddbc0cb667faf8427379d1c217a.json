@@ -1,0 +1,180 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Dua Lipa",
+   "target_entity_name": "Future Nostalgia",
+   "relation_type": "CREATED",
+   "fact": "Dua Lipa released \"Future Nostalgia,\" a fusion of 80s inspired pop and contemporary dance music.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fiona Apple",
+   "target_entity_name": "Fetch the Bolt Cutters",
+   "relation_type": "CREATED",
+   "fact": "Fiona Apple released \"Fetch the Bolt Cutters,\" an experimental album exploring themes of self-discovery and liberation.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Taylor Swift",
+   "target_entity_name": "folklore",
+   "relation_type": "CREATED",
+   "fact": "Taylor Swift released \"folklore,\" a moody and introspective album exploring a more indie folk sound.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Run the Jewels",
+   "target_entity_name": "RTJ4",
+   "relation_type": "CREATED",
+   "fact": "Run the Jewels released \"RTJ4,\" a politically charged hip-hop album featuring razor-sharp verses and production, with rock and electronic influences.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Phoebe Bridgers",
+   "target_entity_name": "Punisher",
+   "relation_type": "CREATED",
+   "fact": "Phoebe Bridgers released \"Punisher,\" a melancholic indie album exploring themes of love, loss, and mental health.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nine Inch Nails",
+   "target_entity_name": "Ghosts V: Together",
+   "relation_type": "CREATED",
+   "fact": "Nine Inch Nails released \"Ghosts V: Together,\" an ambient instrumental album released during the early stages of the COVID-19 pandemic showcasing the band's experimental side.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nine Inch Nails",
+   "target_entity_name": "Ghosts VI: Locusts",
+   "relation_type": "CREATED",
+   "fact": "Nine Inch Nails released \"Ghosts VI: Locusts,\" an ambient instrumental album released during the early stages of the COVID-19 pandemic showcasing the band's experimental side.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tame Impala",
+   "target_entity_name": "The Slow Rush",
+   "relation_type": "CREATED",
+   "fact": "Tame Impala released \"The Slow Rush,\" a psychedelic blend of rock and pop featuring introspective lyrics.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Killers",
+   "target_entity_name": "Imploding the Mirage",
+   "relation_type": "CREATED",
+   "fact": "The Killers released \"Imploding the Mirage,\" a vibrant and anthemic album featuring the band's signature pop-rock sound with some electronic elements.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Beck",
+   "target_entity_name": "Hyperspace",
+   "relation_type": "CREATED",
+   "fact": "Beck released \"Hyperspace,\" a genre-blending album featuring elements of rock, pop, and electronic music.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Weeknd",
+   "target_entity_name": "After Hours",
+   "relation_type": "CREATED",
+   "fact": "The Weeknd released \"After Hours,\" a pop and R&B infused album with some rock influences.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chloe x Halle",
+   "target_entity_name": "Ungodly Hour",
+   "relation_type": "CREATED",
+   "fact": "Chloe x Halle released \"Ungodly Hour,\" an R&B and pop-infused album featuring powerful vocals and experimental production.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Beach Bunny",
+   "target_entity_name": "Honeymoon",
+   "relation_type": "CREATED",
+   "fact": "Beach Bunny released \"Honeymoon,\" an indie rock album with catchy hooks and relatable lyrics.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Tallest Man on Earth",
+   "target_entity_name": "Kristian Matsson",
+   "relation_type": "IS_SOLO_PROJECT_OF",
+   "fact": "The Tallest Man on Earth is the solo project of Swedish singer-songwriter Kristian Matsson, who mixes fingerpicked acoustic guitar with poetic and introspective lyrics.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Iron & Wine",
+   "target_entity_name": "Sam Beam",
+   "relation_type": "IS_MONIKER_OF",
+   "fact": "Iron & Wine is the moniker of American singer-songwriter Sam Beam, who creates beautiful and melancholic folk music with delicate arrangements.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bon Iver",
+   "target_entity_name": "Justin Vernon",
+   "relation_type": "LED_BY",
+   "fact": "Bon Iver is a project led by Justin Vernon, who mixes traditional folk elements with experimental production and beautiful harmonies.",
+   "valid_at": "2023-05-20T17:03:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

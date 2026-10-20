@@ -1,0 +1,34 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Holiday Market",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Zazzle",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "CaseApp",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Shutterfly",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Mixbook",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Adobe Spark",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

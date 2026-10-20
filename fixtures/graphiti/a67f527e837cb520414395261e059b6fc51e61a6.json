@@ -1,0 +1,202 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Delta SkyMiles",
+   "target_entity_name": "Delta",
+   "relation_type": "PART_OF",
+   "fact": "Delta SkyMiles is Delta's frequent flyer loyalty program used to redeem miles for flights",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Boston",
+   "relation_type": "OPERATES_FLIGHTS_FROM",
+   "fact": "Delta offers non-stop flights from Boston (BOS) to Miami (MIA), redeemable with SkyMiles",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Miami",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "Delta offers non-stop flights from Boston (BOS) to Miami (MIA), redeemable with SkyMiles",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "JetBlue",
+   "target_entity_name": "San Francisco",
+   "relation_type": "OPERATES_FLIGHTS_FROM",
+   "fact": "The user took a red-eye JetBlue flight from San Francisco to Boston and slept for almost the entire flight",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "JetBlue",
+   "target_entity_name": "Boston",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "The user took a red-eye JetBlue flight from San Francisco to Boston and slept for almost the entire flight",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines AAdvantage",
+   "target_entity_name": "American Airlines",
+   "relation_type": "PART_OF",
+   "fact": "American Airlines AAdvantage is American Airlines' frequent flyer loyalty program",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Citi AAdvantage Executive credit card",
+   "target_entity_name": "American Airlines AAdvantage",
+   "relation_type": "EARNS_MILES_FOR",
+   "fact": "The Citi AAdvantage Executive credit card earns American Airlines AAdvantage miles, including a 50,000-mile sign-up bonus after spending $5,000 within the first 3 months",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Admirals Club",
+   "target_entity_name": "American Airlines",
+   "relation_type": "PART_OF",
+   "fact": "Admirals Club lounge access for the cardholder and up to 2 guests is a benefit of the Citi AAdvantage Executive credit card tied to American Airlines",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "New York",
+   "relation_type": "OPERATES_FLIGHTS_FROM",
+   "fact": "The user flew American Airlines from New York to Los Angeles on February 10th and had a bad experience with the in-flight entertainment system",
+   "valid_at": "2022-02-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Los Angeles",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "The user flew American Airlines from New York to Los Angeles on February 10th and had a bad experience with the in-flight entertainment system",
+   "valid_at": "2022-02-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Spirit Airlines",
+   "target_entity_name": "Fort Lauderdale",
+   "relation_type": "OPERATES_FLIGHTS_TO",
+   "fact": "The user is flying Spirit Airlines for a spring break trip to Fort Lauderdale in March",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Free Spirit",
+   "target_entity_name": "Spirit Airlines",
+   "relation_type": "PART_OF",
+   "fact": "Free Spirit is Spirit Airlines' loyalty program, which affects baggage fee rates for members",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jazz Hostel",
+   "target_entity_name": "Miami",
+   "relation_type": "LOCATED_IN",
+   "fact": "Jazz Hostel is a popular, centrally located hostel in Miami with dorms and private rooms starting around $30-40 per night",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Miami Beach Hostel",
+   "target_entity_name": "Miami",
+   "relation_type": "LOCATED_IN",
+   "fact": "Miami Beach Hostel is a well-reviewed hostel in Miami with dorms and private rooms starting around $30-40 per night",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Red Roof Inn Miami Airport",
+   "target_entity_name": "Miami",
+   "relation_type": "LOCATED_IN",
+   "fact": "Red Roof Inn Miami Airport is a no-frills hotel in Miami with rooms starting around $60-80 per night",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Super 8 by Wyndham Miami",
+   "target_entity_name": "Miami",
+   "relation_type": "LOCATED_IN",
+   "fact": "Super 8 by Wyndham Miami is a budget-friendly hotel in Miami with rooms starting around $70-90 per night",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hampton Inn & Suites Miami Midtown",
+   "target_entity_name": "Miami",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hampton Inn & Suites Miami Midtown is a comfortable hotel in Miami with rooms starting around $100-120 per night",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hyatt Place Miami Airport East",
+   "target_entity_name": "Miami",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hyatt Place Miami Airport East is a modern hotel in Miami with rooms starting around $120-140 per night",
+   "valid_at": "2022-11-17T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Coursera",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Coursera's Sustainable Development specialization",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "University of Michigan",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "MIT",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "FutureLearn",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 5,
+   "name": "Sustainable Cities (FutureLearn course)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 6,
+   "name": "Udemy",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 7,
+   "name": "Walkable Urbanism: A Guide to Creating Healthy, Efficient, and Economically Vibrant Cities",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 8,
+   "name": "Sustainable Development Goals (SDGs)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 9,
+   "name": "International Council for Local Environmental Initiatives (ICLEI)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 10,
+   "name": "Dr. Jonathan T. Overpeck",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 11,
+   "name": "Climate Change 2007: Impacts, Vulnerability and Adaptation",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 12,
+   "name": "Paleoclimatology: Reconstructing Climates of the Quaternary",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 13,
+   "name": "Geological Society of America (GSA)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 14,
+   "name": "NSF CAREER Award",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 15,
+   "name": "Attribution of anthropogenic influence on sea level rise from 1993 to 2012",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 16,
+   "name": "Sea Level Rise Technical Report",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 17,
+   "name": "U.S. National Oceanic and Atmospheric Administration (NOAA)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 18,
+   "name": "National Climate Assessment (NCA)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 19,
+   "name": "U.S. Geological Survey (USGS)",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 20,
+   "name": "U.S. Army Corps of Engineers",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 21,
+   "name": "Sea-Level Rise Projections for the 21st Century",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

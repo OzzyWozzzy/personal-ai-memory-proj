@@ -1,0 +1,510 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Oahu",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "Oahu is one of the main Hawaiian islands recommended for a birthday snorkeling trip",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Maui",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "Maui is one of the main Hawaiian islands recommended for a birthday snorkeling trip",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kauai",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kauai is one of the main Hawaiian islands recommended for a birthday snorkeling trip",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Big Island",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Big Island is one of the main Hawaiian islands recommended for a birthday snorkeling trip",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lanai",
+   "target_entity_name": "Hawaii",
+   "relation_type": "LOCATED_IN",
+   "fact": "Lanai is one of the main Hawaiian islands recommended for a birthday snorkeling trip",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hanauma Bay Nature Preserve",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hanauma Bay Nature Preserve, a protected marine sanctuary, is one of the most popular snorkeling spots on Oahu",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Shark's Cove",
+   "target_entity_name": "Oahu's North Shore",
+   "relation_type": "LOCATED_IN",
+   "fact": "Shark's Cove is a scenic snorkeling spot on Oahu's North Shore known for clear waters, sharks, rays, and sea turtles",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Molokini Crater",
+   "target_entity_name": "Maui",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Molokini Crater, a crescent-shaped volcanic crater and marine sanctuary, is located about 3 miles off the coast of Maui",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Honolua Bay",
+   "target_entity_name": "Maui",
+   "relation_type": "LOCATED_IN",
+   "fact": "Honolua Bay, a protected marine preserve, is one of Maui's most popular snorkeling spots",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Poipu Beach",
+   "target_entity_name": "Kauai",
+   "relation_type": "LOCATED_IN",
+   "fact": "Poipu Beach is a family-friendly snorkeling spot on the south shore of Kauai with calm and clear waters",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ke'e Beach",
+   "target_entity_name": "Kauai",
+   "relation_type": "LOCATED_IN",
+   "fact": "Ke'e Beach is a picturesque beach on the north shore of Kauai with a protected cove for snorkeling with sea turtles and monk seals",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kealakekua Bay",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kealakekua Bay, a marine sanctuary, is one of the best snorkeling spots on the Big Island, home to spinner dolphins and sea turtles",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hapuna Beach",
+   "target_entity_name": "Big Island",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hapuna Beach is a white sand beach on the west coast of the Big Island known for clear waters and sea turtles",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hulopoe Beach",
+   "target_entity_name": "Lanai",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hulopoe Beach is a picturesque beach on the south coast of Lanai with a protected cove for snorkeling",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Manoa Falls Trail",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Manoa Falls Trail is a 1.6-mile hike on Oahu through a lush tropical rainforest leading to a 150-foot waterfall",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Makapu'u Point Lighthouse Trail",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Makapu'u Point Lighthouse Trail is a 2-mile hike on Oahu with breathtaking coastline and ocean views",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Diamond Head State Monument",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Diamond Head State Monument is a 1.5-mile hike on Oahu",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Diamond Head State Monument",
+   "target_entity_name": "Honolulu",
+   "relation_type": "OFFERS_VIEWS_OF",
+   "fact": "Diamond Head State Monument offers stunning views of Honolulu",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Diamond Head State Monument",
+   "target_entity_name": "Waikiki Beach",
+   "relation_type": "OFFERS_VIEWS_OF",
+   "fact": "Diamond Head State Monument offers stunning views of Waikiki Beach",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Olomana Trail",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Olomana Trail is a 4.5-mile hike on Oahu with spectacular coastline and ocean views",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kuliouou Ridge Trail",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kuliouou Ridge Trail is a 4-mile hike on Oahu with stunning coastline and ocean views",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Waimea Valley Trail",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Waimea Valley Trail is a 3.5-mile hike on Oahu through a lush valley leading to a waterfall",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Na Ala Hele Trail System",
+   "target_entity_name": "Oahu",
+   "relation_type": "PROVIDES_INFO_ABOUT",
+   "fact": "The Na Ala Hele Trail System provides detailed information on Oahu's trails, including maps, directions, and difficulty levels",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Manoa Falls Trail",
+   "target_entity_name": "University of Hawaii at Manoa",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "The Manoa Falls Trail is located near the University of Hawaii at Manoa",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Morning Glass Coffee + Cafe",
+   "target_entity_name": "Manoa Falls Trail",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Morning Glass Coffee + Cafe is about 10-15 minutes from the Manoa Falls Trailhead",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Nook Neighborhood Bistro",
+   "target_entity_name": "Manoa Falls Trail",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "The Nook Neighborhood Bistro is about 10-15 minutes from the Manoa Falls Trailhead",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Koko Head Cafe",
+   "target_entity_name": "Manoa Falls Trail",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Koko Head Cafe is about 15-20 minutes from the Manoa Falls Trailhead",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Manoa Marketplace",
+   "target_entity_name": "Manoa Falls Trail",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Manoa Marketplace is about 5-10 minutes from the Manoa Falls Trailhead",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Morning Glass Coffee + Cafe",
+   "target_entity_name": "University of Hawaii at Manoa",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "It is about a 10-15 minute walk from Morning Glass Coffee + Cafe to the University of Hawaii at Manoa campus",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University of Hawaii at Manoa",
+   "target_entity_name": "Manoa Marketplace",
+   "relation_type": "CONNECTED_BY_BUS_TO",
+   "fact": "Bus routes 4 or 6 run from the University of Hawaii at Manoa campus towards Manoa Marketplace",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "University Avenue",
+   "target_entity_name": "Oahu Avenue",
+   "relation_type": "CONNECTS_TO",
+   "fact": "Driving directions from Morning Glass Coffee + Cafe go east on University Avenue towards Oahu Avenue",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Oahu Avenue",
+   "target_entity_name": "Manoa Road",
+   "relation_type": "CONNECTS_TO",
+   "fact": "Driving directions turn left onto Oahu Avenue for about 0.4 miles then right onto Manoa Road",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Manoa Road",
+   "target_entity_name": "Manoa Falls Trail",
+   "relation_type": "LEADS_TO",
+   "fact": "Following Manoa Road for about 2.5 miles leads to the Manoa Falls Trailhead, marked by a sign and small parking lot",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Uber",
+   "target_entity_name": "Manoa Falls Trail",
+   "relation_type": "PROVIDES_RIDES_TO",
+   "fact": "Uber can be used as a ride-hailing service to get to the Manoa Falls Trailhead from Morning Glass Coffee + Cafe",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lyft",
+   "target_entity_name": "Manoa Falls Trail",
+   "relation_type": "PROVIDES_RIDES_TO",
+   "fact": "Lyft can be used as a ride-hailing service to get to the Manoa Falls Trailhead from Morning Glass Coffee + Cafe",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kaimana Beach",
+   "target_entity_name": "Kahala",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kaimana Beach is located in the Kahala neighborhood",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kahala",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Kahala is a neighborhood on Oahu",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kaimana Beach",
+   "target_entity_name": "Waikiki Beach",
+   "relation_type": "LESS_CROWDED_THAN",
+   "fact": "Kaimana Beach is often less crowded than Waikiki Beach",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kailua Beach",
+   "target_entity_name": "Honolulu",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Kailua Beach on the windward coast is a bit of a drive from Honolulu",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Kailua Beach",
+   "target_entity_name": "Waikiki Beach",
+   "relation_type": "LESS_CROWDED_THAN",
+   "fact": "Kailua Beach is less crowded than Waikiki Beach",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lanikai Beach",
+   "target_entity_name": "Waikiki Beach",
+   "relation_type": "LESS_CROWDED_THAN",
+   "fact": "Lanikai Beach, a secluded spot with turquoise waters and powdery white sand, is less crowded than Waikiki Beach",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Shark's Cove",
+   "target_entity_name": "Waikiki Beach",
+   "relation_type": "LESS_CROWDED_THAN",
+   "fact": "Shark's Cove, protected and calm for swimming, is less crowded than Waikiki Beach",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Waialae Beach",
+   "target_entity_name": "Hawaii Kai",
+   "relation_type": "LOCATED_IN",
+   "fact": "Waialae Beach is located in the East Oahu neighborhood of Hawaii Kai",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hawaii Kai",
+   "target_entity_name": "Oahu",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hawaii Kai is an East Oahu neighborhood",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Waialae Beach",
+   "target_entity_name": "Ko'olau Mountains",
+   "relation_type": "OFFERS_VIEWS_OF",
+   "fact": "Waialae Beach has a picturesque view of the Ko'olau Mountains",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Waialae Beach",
+   "target_entity_name": "Waikiki Beach",
+   "relation_type": "LESS_CROWDED_THAN",
+   "fact": "Waialae Beach is less crowded than Waikiki Beach",
+   "valid_at": "2023-05-30T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

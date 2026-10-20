@@ -1,0 +1,64 @@
+{
+ "summaries": [
+  {
+   "name": "Big Island",
+   "summary": "Hawaii's Big Island offers stunning beaches, lush scenery, and outdoor activities like snorkeling, surfing, and luaus, recommended as a destination for both solo travelers and families."
+  },
+  {
+   "name": "Cancun",
+   "summary": "Cancun, Mexico is a popular beach destination with all-inclusive resorts, beautiful beaches, and a vibrant city center, recommended for both solo travelers (water sports, cultural attractions, nightlife) and families (kid-friendly amenities)."
+  },
+  {
+   "name": "Bali",
+   "summary": "Bali, Indonesia has stunning beaches, temples, and vibrant culture, recommended for both solo travelers (spiritual exploration, hiking, surf lessons) and families (water sports, yoga, wellness retreats)."
+  },
+  {
+   "name": "Yellowstone National Park",
+   "summary": "Yellowstone National Park, America's first national park, features geysers, hot springs, and abundant wildlife, recommended for solo travelers (hiking, camping) and families (guided tours, scenic drives, horseback riding)."
+  },
+  {
+   "name": "Costa Rica",
+   "summary": "Costa Rica has lush rainforests, beautiful beaches, and eco-lodges, recommended for outdoor enthusiasts: solo travelers (surfing, zip-lining, hiking) and families (wildlife watching, rafting, beachside villas)."
+  },
+  {
+   "name": "New Zealand",
+   "summary": "New Zealand offers outdoor activities from hiking and biking to bungee jumping and skydiving, recommended for solo travelers (scenic routes, national parks, adventure sports) and families (wildlife encounters, kayaking, horseback riding)."
+  },
+  {
+   "name": "Alaska",
+   "summary": "A cruise to Alaska offers breathtaking natural beauty, wildlife viewing, and outdoor adventures, recommended for solo travelers (scenic cruising, hiking) and families (kids' clubs, shore excursions)."
+  },
+  {
+   "name": "Hawaii Tropical Botanical Garden",
+   "summary": "Hawaii Tropical Botanical Garden features over 2,000 species of plants and flowers, recommended as a spot to stroll through on the Big Island."
+  },
+  {
+   "name": "Kaloko-Honokohau National Historical Park",
+   "summary": "Kaloko-Honokohau National Historical Park is a coastal park on the Big Island featuring ancient Hawaiian temples, fishponds, and petroglyphs."
+  },
+  {
+   "name": "Merriman's",
+   "summary": "Merriman's is a Big Island restaurant recommended for farm-to-table dining featuring fresh, locally sourced cuisine."
+  },
+  {
+   "name": "The Farmhouse at Kahua Ranch",
+   "summary": "The Farmhouse at Kahua Ranch is a Big Island restaurant recommended for farm-to-table dining featuring fresh, locally sourced cuisine."
+  },
+  {
+   "name": "Shave Ice Co.",
+   "summary": "Shave Ice Co. is a Big Island shop recommended for trying classic Hawaiian shave ice."
+  },
+  {
+   "name": "Anuenue Ice Cream",
+   "summary": "Anuenue Ice Cream is a Big Island shop recommended for trying classic Hawaiian shave ice."
+  },
+  {
+   "name": "Lomi Salmon",
+   "summary": "Lomi Salmon is a classic Hawaiian dish made with salted salmon, diced tomatoes, onions, and chili peppers, found on the menu at many Big Island restaurants."
+  },
+  {
+   "name": "Haupia",
+   "summary": "Haupia is a traditional Hawaiian coconut milk dessert similar to pudding, found on the menu at many Big Island eateries and bakeries."
+  }
+ ]
+}

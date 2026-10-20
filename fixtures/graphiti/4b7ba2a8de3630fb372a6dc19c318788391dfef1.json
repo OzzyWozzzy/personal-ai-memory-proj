@@ -1,0 +1,26 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "the user's townhouse",
+   "target_entity_name": "Brookside",
+   "relation_type": "LOCATED_IN",
+   "fact": "The user's 3-bedroom townhouse, which had a home inspection revealing minor plumbing and electrical issues, is located in the Brookside neighborhood.",
+   "valid_at": "2023-03-08T12:16:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "the user's real estate agent",
+   "target_entity_name": "the user's townhouse",
+   "relation_type": "PROVIDES_RECOMMENDATIONS_FOR",
+   "fact": "The user plans to ask her real estate agent for recommendations for a third-party contractor with plumbing and electrical expertise to fix issues found during the townhouse's home inspection.",
+   "valid_at": "2023-03-08T12:16:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

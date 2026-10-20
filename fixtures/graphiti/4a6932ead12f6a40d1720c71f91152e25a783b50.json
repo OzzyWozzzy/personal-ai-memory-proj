@@ -1,0 +1,312 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Delta SkyMiles",
+   "target_entity_name": "Delta",
+   "relation_type": "IS_LOYALTY_PROGRAM_OF",
+   "fact": "Delta SkyMiles is Delta's frequent flyer loyalty program.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "LATAM",
+   "relation_type": "PARTNERS_WITH",
+   "fact": "Delta is airline partners with LATAM, allowing Delta SkyMiles to be redeemed on LATAM flights.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Air France",
+   "relation_type": "PARTNERS_WITH",
+   "fact": "Delta is airline partners with Air France.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "KLM",
+   "relation_type": "PARTNERS_WITH",
+   "fact": "Delta is airline partners with KLM.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "Virgin Atlantic",
+   "relation_type": "PARTNERS_WITH",
+   "fact": "Delta is airline partners with Virgin Atlantic.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "American Airlines",
+   "relation_type": "NOT_PARTNERS_WITH",
+   "fact": "Delta and American Airlines are not airline partners, so Delta SkyMiles cannot be redeemed on American Airlines flights.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Delta",
+   "target_entity_name": "SkyTeam",
+   "relation_type": "IS_MEMBER_OF",
+   "fact": "Delta SkyMiles offers a wide range of redemption options on Delta and its SkyTeam alliance partners.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "AAdvantage",
+   "relation_type": "HAS_LOYALTY_PROGRAM",
+   "fact": "American Airlines' loyalty program is called AAdvantage.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "American Airlines",
+   "target_entity_name": "Oneworld",
+   "relation_type": "IS_MEMBER_OF",
+   "fact": "American Airlines is part of the Oneworld airline alliance.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Oneworld",
+   "target_entity_name": "British Airways",
+   "relation_type": "INCLUDES",
+   "fact": "The Oneworld alliance includes British Airways.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Oneworld",
+   "target_entity_name": "Cathay Pacific",
+   "relation_type": "INCLUDES",
+   "fact": "The Oneworld alliance includes Cathay Pacific.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Oneworld",
+   "target_entity_name": "Qantas",
+   "relation_type": "INCLUDES",
+   "fact": "The Oneworld alliance includes Qantas.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Citi AAdvantage Executive",
+   "target_entity_name": "AAdvantage",
+   "relation_type": "EARNS_MILES_FOR",
+   "fact": "The Citi AAdvantage Executive credit card earns American Airlines AAdvantage miles, including a 50,000-mile bonus after spending $5,000 in the first 3 months.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "Chase Ultimate Rewards",
+   "relation_type": "EARNS_POINTS_IN",
+   "fact": "The Chase Sapphire Preferred card earns Chase Ultimate Rewards points, including 2X points on travel and dining and a 60,000 bonus points offer after spending $4,000 in the first 3 months.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "United",
+   "relation_type": "TRANSFERS_POINTS_TO",
+   "fact": "Chase Ultimate Rewards points earned via the Chase Sapphire Preferred can be transferred to United.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "American Airlines",
+   "relation_type": "TRANSFERS_POINTS_TO",
+   "fact": "Chase Ultimate Rewards points earned via the Chase Sapphire Preferred can be transferred to American Airlines.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "Delta",
+   "relation_type": "TRANSFERS_POINTS_TO",
+   "fact": "Chase Ultimate Rewards points earned via the Chase Sapphire Preferred can be transferred to Delta.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "British Airways",
+   "relation_type": "TRANSFERS_POINTS_TO",
+   "fact": "Chase Ultimate Rewards points earned via the Chase Sapphire Preferred can be transferred to British Airways.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "Air France",
+   "relation_type": "TRANSFERS_POINTS_TO",
+   "fact": "Chase Ultimate Rewards points earned via the Chase Sapphire Preferred can be transferred to Air France.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "Marriott",
+   "relation_type": "TRANSFERS_POINTS_TO",
+   "fact": "Chase Ultimate Rewards points earned via the Chase Sapphire Preferred can be transferred to Marriott.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "IHG",
+   "relation_type": "TRANSFERS_POINTS_TO",
+   "fact": "Chase Ultimate Rewards points earned via the Chase Sapphire Preferred can be transferred to IHG.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Preferred",
+   "target_entity_name": "Hyatt",
+   "relation_type": "TRANSFERS_POINTS_TO",
+   "fact": "Chase Ultimate Rewards points earned via the Chase Sapphire Preferred can be transferred to Hyatt.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Chase Sapphire Reserve",
+   "target_entity_name": "Chase Sapphire Preferred",
+   "relation_type": "IS_PREMIUM_VERSION_OF",
+   "fact": "The Chase Sapphire Reserve is similar to the Chase Sapphire Preferred but offers more premium benefits, such as a $300 travel credit, airport lounge access, and a higher points earning rate.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "United MileagePlus",
+   "target_entity_name": "United",
+   "relation_type": "IS_LOYALTY_PROGRAM_OF",
+   "fact": "United MileagePlus is United's frequent flyer loyalty program.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "United MileagePlus",
+   "target_entity_name": "Star Alliance",
+   "relation_type": "REDEEMABLE_ON",
+   "fact": "United MileagePlus miles can be redeemed on flights on United and its Star Alliance partners.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "ExpertFlyer",
+   "target_entity_name": "Delta SkyMiles",
+   "relation_type": "USED_TO_TRACK",
+   "fact": "ExpertFlyer is a third-party tool suggested for tracking prices and finding the best redemption opportunities for Delta SkyMiles.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Google Flights",
+   "target_entity_name": "Delta SkyMiles",
+   "relation_type": "USED_TO_TRACK",
+   "fact": "Google Flights is a third-party tool suggested for tracking prices and finding the best redemption opportunities for Delta SkyMiles.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "LATAM",
+   "target_entity_name": "Miami",
+   "relation_type": "OFFERS_ROUTE_TO",
+   "fact": "LATAM offers a flight route from Boston to Miami that could be booked using redeemed Delta SkyMiles.",
+   "valid_at": "2023-01-15T17:51:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "John Mulaney",
+   "target_entity_name": "Netflix",
+   "relation_type": "HAS_SPECIAL_ON",
+   "fact": "John Mulaney has a stand-up comedy special on Netflix that got the user into watching stand-up regularly starting about 3 months before 2023-05-27.",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mike Birbiglia",
+   "target_entity_name": "My Girlfriend's Boyfriend",
+   "relation_type": "CREATED",
+   "fact": "Mike Birbiglia created the Netflix stand-up special \"My Girlfriend's Boyfriend.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mike Birbiglia",
+   "target_entity_name": "Thank God for Jokes",
+   "relation_type": "CREATED",
+   "fact": "Mike Birbiglia created the Netflix stand-up special \"Thank God for Jokes.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Demetri Martin",
+   "target_entity_name": "Live (At the Time)",
+   "relation_type": "CREATED",
+   "fact": "Demetri Martin created the Netflix stand-up special \"Live (At the Time),\" known for quirky, deadpan humor and clever wordplay.",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Brian Regan",
+   "target_entity_name": "Nunchucks and Flamethrowers",
+   "relation_type": "CREATED",
+   "fact": "Brian Regan created the Netflix stand-up special \"Nunchucks and Flamethrowers,\" featuring high-energy, physical comedy.",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hasan Minhaj",
+   "target_entity_name": "Homecoming King",
+   "relation_type": "CREATED",
+   "fact": "Hasan Minhaj created the Netflix stand-up special \"Homecoming King.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hasan Minhaj",
+   "target_entity_name": "Patriot Act",
+   "relation_type": "CREATED",
+   "fact": "Hasan Minhaj created the Netflix show \"Patriot Act,\" featuring sharp commentary on politics and culture.",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ali Wong",
+   "target_entity_name": "Baby Cobra",
+   "relation_type": "CREATED",
+   "fact": "Ali Wong created the Netflix stand-up special \"Baby Cobra.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Ali Wong",
+   "target_entity_name": "Hard Knock Wife",
+   "relation_type": "CREATED",
+   "fact": "Ali Wong created the Netflix stand-up special \"Hard Knock Wife.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "W. Kamau Bell",
+   "target_entity_name": "Private School Negro",
+   "relation_type": "CREATED",
+   "fact": "W. Kamau Bell created the Netflix stand-up special \"Private School Negro,\" featuring incisive commentary on race, politics, and culture.",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Trevor Noah",
+   "target_entity_name": "Son of Patricia",
+   "relation_type": "CREATED",
+   "fact": "Trevor Noah created the Netflix stand-up special \"Son of Patricia.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Trevor Noah",
+   "target_entity_name": "Afraid of the Dark",
+   "relation_type": "CREATED",
+   "fact": "Trevor Noah created the Netflix stand-up special \"Afraid of the Dark.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sarah Silverman",
+   "target_entity_name": "A Speck of Dust",
+   "relation_type": "CREATED",
+   "fact": "Sarah Silverman created the Netflix stand-up special \"A Speck of Dust.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hannah Gadsby",
+   "target_entity_name": "Nanette",
+   "relation_type": "CREATED",
+   "fact": "Hannah Gadsby created the groundbreaking Netflix stand-up special \"Nanette,\" which challenges traditional stand-up comedy norms.",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Taylor Tomlinson",
+   "target_entity_name": "Quarter-Life Crisis",
+   "relation_type": "CREATED",
+   "fact": "Taylor Tomlinson created the Netflix stand-up special \"Quarter-Life Crisis.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sam Morril",
+   "target_entity_name": "I Got This",
+   "relation_type": "CREATED",
+   "fact": "Sam Morril created the Netflix stand-up special \"I Got This.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mark Normand",
+   "target_entity_name": "Don't Be Yourself",
+   "relation_type": "CREATED",
+   "fact": "Mark Normand created the Netflix stand-up special \"Don't Be Yourself.\"",
+   "valid_at": "2023-05-27T00:21:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

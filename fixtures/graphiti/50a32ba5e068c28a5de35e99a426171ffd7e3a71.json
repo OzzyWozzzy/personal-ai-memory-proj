@@ -1,0 +1,268 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Amazonia",
+   "target_entity_name": "neon tetras",
+   "relation_type": "HOUSES",
+   "fact": "Amazonia, the user's 20-gallon freshwater community tank, houses neon tetras.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Amazonia",
+   "target_entity_name": "harlequin rasboras",
+   "relation_type": "HOUSES",
+   "fact": "Amazonia, the user's 20-gallon freshwater community tank, houses harlequin rasboras.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Amazonia",
+   "target_entity_name": "platies",
+   "relation_type": "HOUSES",
+   "fact": "Amazonia, the user's 20-gallon freshwater community tank, houses platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "TetraMin",
+   "target_entity_name": "neon tetras",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "TetraMin's flakes and granules are formulated to provide balanced nutrition for small schooling fish like neon tetras.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "TetraMin",
+   "target_entity_name": "harlequin rasboras",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "TetraMin's flakes and granules are formulated to provide balanced nutrition for small schooling fish like harlequin rasboras.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "New Life Spectrum",
+   "target_entity_name": "platies",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "New Life Spectrum's community fish foods are formulated to meet the nutritional needs of small, peaceful fish like platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "New Life Spectrum",
+   "target_entity_name": "harlequin rasboras",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "New Life Spectrum's community fish foods are formulated to meet the nutritional needs of small, peaceful fish like harlequin rasboras.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hikari",
+   "target_entity_name": "neon tetras",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Hikari's community fish foods are formulated to provide balanced nutrition and are suitable for small, peaceful fish like neon tetras.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hikari",
+   "target_entity_name": "platies",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Hikari's community fish foods are formulated to provide balanced nutrition and are suitable for small, peaceful fish like platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "TetraMin",
+   "target_entity_name": "Amazonia",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "TetraMin is recommended as a fish food brand for a community tank like Amazonia.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "API",
+   "target_entity_name": "Amazonia",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "API is recommended as a fish food brand for a community tank like Amazonia.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "New Life Spectrum",
+   "target_entity_name": "Amazonia",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "New Life Spectrum is recommended as a fish food brand for a community tank like Amazonia.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Omega One",
+   "target_entity_name": "Amazonia",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Omega One is recommended as a fish food brand for a community tank like Amazonia.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hikari",
+   "target_entity_name": "Amazonia",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Hikari is recommended as a fish food brand for a community tank like Amazonia.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "plecos",
+   "target_entity_name": "Amazonia",
+   "relation_type": "CONTROLS_ALGAE_IN",
+   "fact": "Algae-eating plecos are recommended to help control the algae growth on the glass walls of Amazonia.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "otocinclus catfish",
+   "target_entity_name": "Amazonia",
+   "relation_type": "CONTROLS_ALGAE_IN",
+   "fact": "Otocinclus catfish are recommended to help control the algae growth on the glass walls of Amazonia.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Amano shrimp",
+   "target_entity_name": "Amazonia",
+   "relation_type": "CONTROLS_ALGAE_IN",
+   "fact": "Amano shrimp are recommended to help control the algae growth on the glass walls of Amazonia.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Java Moss",
+   "target_entity_name": "Amazonia",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Java Moss, a low-maintenance carpeting plant, is recommended for Amazonia's community tank with neon tetras, harlequin rasboras, and platies, and the user is setting up a trellis to hold it in place.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Anacharis",
+   "target_entity_name": "Amazonia",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Anacharis, a fast-growing floating plant, is recommended for Amazonia's community tank with neon tetras, harlequin rasboras, and platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Water Wisteria",
+   "target_entity_name": "Amazonia",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Water Wisteria, a versatile stem-based plant, is recommended for Amazonia's community tank with neon tetras, harlequin rasboras, and platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hornwort",
+   "target_entity_name": "Amazonia",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Hornwort, a low-maintenance stem-based plant, is recommended for Amazonia's community tank with neon tetras, harlequin rasboras, and platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Cryptocorynes",
+   "target_entity_name": "Amazonia",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Cryptocorynes, a low-maintenance plant, are recommended for Amazonia's community tank with neon tetras, harlequin rasboras, and platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Amazon Swords",
+   "target_entity_name": "Amazonia",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Amazon Swords, a low-maintenance sword-shaped plant, are recommended for Amazonia's community tank with neon tetras, harlequin rasboras, and platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dwarf Hairgrass",
+   "target_entity_name": "Amazonia",
+   "relation_type": "SUITABLE_FOR",
+   "fact": "Dwarf Hairgrass, a low-maintenance carpeting plant, is recommended for Amazonia's community tank with neon tetras, harlequin rasboras, and platies.",
+   "valid_at": "2023-05-20T09:11:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Andy McKee",
+   "target_entity_name": "TrueFire",
+   "relation_type": "TEACHES_ON",
+   "fact": "Andy McKee, known for his percussive fingerstyle technique, teaches fingerpicking and thumb-picking courses on TrueFire.",
+   "valid_at": "2023-03-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Peppino D'Agostino",
+   "target_entity_name": "TrueFire",
+   "relation_type": "TEACHES_ON",
+   "fact": "Peppino D'Agostino, a master of fingerstyle guitar, teaches techniques including arpeggios and tremolos on TrueFire.",
+   "valid_at": "2023-03-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Muriel Anderson",
+   "target_entity_name": "TrueFire",
+   "relation_type": "TEACHES_ON",
+   "fact": "Muriel Anderson, a renowned fingerstyle guitarist, teaches finger independence, thumb-picking, and arrangement ideas on TrueFire.",
+   "valid_at": "2023-03-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "TrueFire",
+   "target_entity_name": "Justin Guitar",
+   "relation_type": "MORE_IN_DEPTH_THAN",
+   "fact": "TrueFire's lessons are often more in-depth than Justin Guitar's, with a focus on specific styles or techniques and more complex patterns and arrangements.",
+   "valid_at": "2023-03-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Fender Play",
+   "target_entity_name": "Fender CD-60S",
+   "relation_type": "RECOMMENDED_FOR",
+   "fact": "Fender Play, a mobile app offering video lessons and interactive exercises, is recommended for Fender guitar owners, such as the user who owns a Fender CD-60S.",
+   "valid_at": "2023-03-25T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

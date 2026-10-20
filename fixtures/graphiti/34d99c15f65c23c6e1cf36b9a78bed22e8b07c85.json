@@ -1,0 +1,70 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "City View Rooftop",
+   "target_entity_name": "Corporate Team Building Package",
+   "relation_type": "OFFERS",
+   "fact": "City View Rooftop offers a Corporate Team Building Package for corporate groups, including a 2-hour private rooftop rental and a complimentary drink ticket per guest, accommodating up to 20 people, starting at $500 for a weekday afternoon event.",
+   "valid_at": "2023-05-23T07:35:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Corporate Team Building Package",
+   "target_entity_name": "Giant Jenga",
+   "relation_type": "INCLUDES",
+   "fact": "The Corporate Team Building Package includes a selection of outdoor games such as Giant Jenga.",
+   "valid_at": "2023-05-23T07:35:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "City View Rooftop",
+   "target_entity_name": "Giant Jenga",
+   "relation_type": "HAS_GAME",
+   "fact": "City View Rooftop has a variety of outdoor games, including Giant Jenga and Ring Toss, and can accommodate groups of up to 20 people.",
+   "valid_at": "2023-05-23T07:35:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Samantha",
+   "target_entity_name": "City View Rooftop",
+   "relation_type": "WORKS_AT",
+   "fact": "Samantha is the events manager at City View Rooftop who helps with corporate bookings.",
+   "valid_at": "2023-05-23T07:35:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Senior Software Engineer",
+   "target_entity_name": "Rachel",
+   "relation_type": "REPORTS_TO",
+   "fact": "In the new role of Senior Software Engineer leading a team of 4 engineers, the user reports to manager Rachel.",
+   "valid_at": "2023-05-23T07:35:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rachel",
+   "target_entity_name": "City View Rooftop",
+   "relation_type": "INVITED_TO",
+   "fact": "Rachel, the user's manager, was invited to join the team outing planned at City View Rooftop.",
+   "valid_at": "2023-05-23T07:35:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "entity_resolutions": [
+  {
+   "id": 0,
+   "name": "Classic Whole Wheat Bread",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 1,
+   "name": "Honey and Oat Whole Wheat Bread",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 2,
+   "name": "Garlic and Herb Whole Wheat Focaccia",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 3,
+   "name": "Whole Wheat Ciabatta",
+   "duplicate_candidate_id": -1
+  },
+  {
+   "id": 4,
+   "name": "Multigrain Whole Wheat Bread",
+   "duplicate_candidate_id": -1
+  }
+ ]
+}

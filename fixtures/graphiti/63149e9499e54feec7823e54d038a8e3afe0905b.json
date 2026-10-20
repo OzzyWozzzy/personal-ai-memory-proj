@@ -1,0 +1,70 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Alex",
+   "target_entity_name": "China",
+   "relation_type": "ADOPTED_CHILD_FROM",
+   "fact": "The user's cousin Alex adopted a baby girl from China in January, and had a positive experience with an agency that prioritized supporting birth mothers, receiving updates about the birth mother's background.",
+   "valid_at": "2023-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Adoption Connection",
+   "target_entity_name": "California",
+   "relation_type": "LOCATED_IN",
+   "fact": "Adoption Connection is a California-based adoption agency that offers comprehensive support services for birth mothers, including counseling, case management, and advocacy.",
+   "valid_at": "2023-03-17T19:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nightlight Christian Adoptions",
+   "target_entity_name": "California",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nightlight Christian Adoptions is a California-based agency offering counseling, case management, and post-placement support to support birth mothers throughout the adoption journey.",
+   "valid_at": "2023-03-17T19:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Family Builders",
+   "target_entity_name": "California",
+   "relation_type": "LOCATED_IN",
+   "fact": "Family Builders is a California-based agency that provides birth mothers with counseling, support groups, and resources to help them navigate the adoption process.",
+   "valid_at": "2023-03-17T19:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Live Scan",
+   "target_entity_name": "California",
+   "relation_type": "USED_IN",
+   "fact": "Live Scan criminal background checks are required as part of the home study documentation process for adoption in California.",
+   "valid_at": "2023-03-17T19:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "FBI",
+   "target_entity_name": "California",
+   "relation_type": "USED_IN",
+   "fact": "FBI criminal background checks are required as part of the home study documentation process for adoption in California.",
+   "valid_at": "2023-03-17T19:23:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

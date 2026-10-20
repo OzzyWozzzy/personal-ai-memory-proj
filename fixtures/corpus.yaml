@@ -1,0 +1,169 @@
+# Extraction benchmark corpus (design plan §4.3/§4.4/§10).
+#
+# A tiny, varied, deterministic corpus (≤15 short episodes) that exercises the
+# whole Lane-3 surface: state/event/atemporal facts, entity-object resolution,
+# the Kaohsiung implicit-contradiction case, a policy-authoritative doc chunk
+# with an effective date, a reference-only passage that must yield ZERO facts,
+# a novel relation, and semantic-memory ADD ops. Entities/subjects recur across
+# episodes so entity resolution and supersession get real reuse.
+#
+# HOW THIS DRIVES FIXTURES
+# ------------------------
+# Each episode's `content` (the exact string below) is hashed to the episode
+# content_hash = sha256(content) and the extractor calls the provider with
+# fixture_key = "extract:{content_hash}". The FixtureProvider then loads
+# Graph extraction responses are replayed from the current fixtures/graphiti set.
+# for the fixture_key format, the JSON schema, and the worked example — a Haiku
+# agent generates the remaining fixture files from that README alone.
+#
+# `expect` on each episode is human guidance for the fixture author; it is NOT
+# consumed by any code.
+
+entities:
+  # Pre-seedable subjects (the extractor also creates any it does not find).
+  - {canonical_name: Jane Okafor, entity_type: person}
+  - {canonical_name: Bob Reyes,   entity_type: person}
+  - {canonical_name: Tom Vega,    entity_type: person}
+  - {canonical_name: Sue Ellis,   entity_type: person}
+  - {canonical_name: Nordwind,    entity_type: account}
+  - {canonical_name: Acme,        entity_type: org}
+  - {canonical_name: expense policy, entity_type: policy}
+  - {canonical_name: churn,       entity_type: concept}
+
+episodes:
+  - key: e01
+    source: chat
+    occurred_at: "2026-01-10T09:00:00+00:00"
+    content: "Jane Okafor just moved to Taipei and is starting as our new SRE lead."
+    expect: >
+      facts: (Jane Okafor, lives_in, value=Taipei, present-tense) and
+      (Jane Okafor, has_role, value=SRE lead, present-tense). No time_mention →
+      valid_from = occurred_at. One memory ADD (observation) is acceptable.
+
+  - key: e02
+    source: email
+    occurred_at: "2026-05-02T14:30:00+00:00"
+    meta: {thread_id: T-relocation}
+    content: "Jane Okafor mentioned she is loving the new Kaohsiung office since the relocation."
+    expect: >
+      The Kaohsiung implicit-contradiction case. fact
+      (Jane Okafor, lives_in, value=Kaohsiung, present-tense) AND an invalidates
+      hint targeting the open (Jane Okafor, lives_in) fact with high confidence
+      (≈0.9) and evidence_quote "loving the new Kaohsiung office". No same-key
+      time_mention → proposed_valid_to defaults to occurred_at.
+
+  - key: e03
+    source: email
+    occurred_at: "2026-02-01T11:00:00+00:00"
+    meta: {thread_id: T-nordwind, participants: [Tom Vega, Sue Ellis]}
+    content: "Tom Vega will be the primary contact for the Nordwind account going forward."
+    expect: >
+      fact (Nordwind, primary_contact_of, entity_name=Tom Vega, present-tense).
+      Entity object → resolves/creates Tom Vega. Tier 3 (email, third party).
+
+  - key: e04
+    source: email
+    occurred_at: "2026-03-05T16:00:00+00:00"
+    meta: {thread_id: T-nordwind, participants: [Tom Vega, Sue Ellis]}
+    content: "Update: Sue Ellis is taking over as Nordwind's primary contact, effective next Monday."
+    expect: >
+      fact (Nordwind, primary_contact_of, entity_name=Sue Ellis) with
+      time_mention "next Monday" (resolves against occurred_at) → supersedes e03.
+
+  - key: e05
+    source: doc
+    occurred_at: "2026-06-20T00:00:00+00:00"
+    meta: {policy_authoritative: true, effective_date: "2026-07-01", doc_id: policy-expense-v2}
+    content: "The per diem reimbursement limit is 75 USD per day."
+    expect: >
+      Policy-authoritative chunk. fact
+      (expense policy, reimbursement_limit, value=75, present-tense). Tier 2 and
+      valid_from = effective_date 2026-07-01 (set by the ingestion endpoint;
+      the extractor still emits present-tense with no time_mention). reimbursement_limit
+      is a novel relation → registered llm_proposed.
+
+  - key: e06
+    source: doc
+    occurred_at: "2026-06-20T00:00:00+00:00"
+    meta: {doc_id: policy-expense-v2, chunk_ix: 1}
+    content: "Expenses are submitted through the finance portal. Refer to the handbook for step-by-step guidance."
+    expect: >
+      Reference-only passage (§4.6). MUST yield ZERO facts, ZERO invalidates.
+      A single knowledge memory ADD is optional; five empty arrays is also valid.
+
+  - key: e07
+    source: chat
+    occurred_at: "2026-03-12T08:15:00+00:00"
+    content: "Acme shipped order #4471 this morning."
+    expect: >
+      fact (Acme, order_shipped, value=#4471). order_shipped is an event relation
+      → valid_from == valid_to. time_mention "this morning" resolves to occurred_at day.
+
+  - key: e08
+    source: chat
+    occurred_at: "2026-03-15T10:00:00+00:00"
+    content: "The Nordwind account clearly cares more about latency than about price."
+    expect: >
+      No provable fact. One memory ADD (preference_note):
+      "Nordwind cares more about latency than price." subject_refs=[Nordwind].
+
+  - key: e09
+    source: email
+    occurred_at: "2026-03-18T09:30:00+00:00"
+    meta: {thread_id: T-team}
+    content: "Heads up: Jane Okafor tends to escalate quickly when SLAs slip."
+    expect: >
+      No provable fact. One memory ADD (observation):
+      "Jane Okafor escalates quickly when SLAs slip." subject_refs=[Jane Okafor].
+
+  - key: e10
+    source: chat
+    occurred_at: "2026-04-15T13:00:00+00:00"
+    content: "As of today, Bob Reyes now reports to Jane Okafor."
+    expect: >
+      fact (Bob Reyes, reports_to, entity_name=Jane Okafor, present-tense).
+      Change marker "now"; entity object.
+
+  - key: e11
+    source: doc
+    occurred_at: "2026-01-05T00:00:00+00:00"
+    meta: {doc_id: glossary}
+    content: "Churn means a customer canceling their subscription."
+    expect: >
+      fact (churn, defined_as, value=a customer canceling their subscription).
+      Atemporal (registry: defined_as). Rendered without validity notation.
+
+  - key: e12
+    source: chat
+    occurred_at: "2026-02-20T12:00:00+00:00"
+    content: "Acme currently uses AcmeCloud and Datadog as its vendors."
+    expect: >
+      Two facts (Acme, uses_vendor, value=AcmeCloud) and
+      (Acme, uses_vendor, value=Datadog). Multi-valued → both coexist open.
+
+  - key: e13
+    source: email
+    occurred_at: "2026-05-10T15:00:00+00:00"
+    meta: {thread_id: T-vendors}
+    content: "Acme is dropping Datadog next quarter."
+    expect: >
+      fact (Acme, uses_vendor, value=Datadog, negation=true) → retracts the open
+      Datadog vendor fact. time_mention "next quarter" resolves to a quarter start.
+
+  - key: e14
+    source: chat
+    occurred_at: "2026-06-01T17:00:00+00:00"
+    content: "We held the renewal review meeting with Nordwind on 2026-06-01."
+    expect: >
+      fact (Nordwind, meeting_held, value=renewal review) event with resolved
+      time_mention "2026-06-01" → valid_from == valid_to == 2026-06-01.
+
+  - key: e15
+    source: chat
+    occurred_at: "2026-04-02T10:45:00+00:00"
+    content: "Jane Okafor's preferred contact channel is Slack."
+    expect: >
+      Novel relation. fact (Jane Okafor, prefers_channel, value=Slack,
+      present-tense). novel_relations lists prefers_channel (cardinality_guess
+      single_valued, temporal_class_guess state). The system registers it
+      llm_proposed with conservative defaults regardless of the guess.

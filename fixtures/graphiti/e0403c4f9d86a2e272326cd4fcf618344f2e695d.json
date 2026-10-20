@@ -1,0 +1,24 @@
+{
+ "summaries": [
+  {
+   "name": "Comedy Cellar",
+   "summary": "A well-known comedy club suggested as a place to check for a nearby location with a calendar of upcoming shows and open mics."
+  },
+  {
+   "name": "Carolines on Broadway",
+   "summary": "A well-known comedy club suggested as a place to check for a nearby location with a calendar of upcoming shows and open mics."
+  },
+  {
+   "name": "Laugh Factory",
+   "summary": "A well-known comedy club suggested as a place to check for a nearby location with a calendar of upcoming shows and open mics."
+  },
+  {
+   "name": "Facebook",
+   "summary": "Suggested as a place to search for local comedy events, since comedy clubs, promoters, and comedians often create events there to promote their shows."
+  },
+  {
+   "name": "Meetup.com",
+   "summary": "Suggested for joining local comedy-related groups that organize outings to comedy clubs, open mics, or improv nights."
+  }
+ ]
+}

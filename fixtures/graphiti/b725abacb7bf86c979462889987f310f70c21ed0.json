@@ -1,0 +1,543 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Coursera",
+   "target_entity_name": "Coursera's Sustainable Development specialization",
+   "relation_type": "HOSTS",
+   "fact": "Coursera hosts the Sustainable Development specialization, a 4-course specialization covering the basics of sustainable development including urban planning, energy, and climate change.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Coursera's Sustainable Development specialization",
+   "target_entity_name": "University of Michigan",
+   "relation_type": "OFFERED_BY",
+   "fact": "Coursera's Sustainable Development specialization is offered by the University of Michigan.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "edX",
+   "target_entity_name": "Urban Planning and Development (edX course)",
+   "relation_type": "HOSTS",
+   "fact": "edX hosts the Urban Planning and Development course, a 12-week course exploring urban planning principles including transportation, housing, and urban design.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Urban Planning and Development (edX course)",
+   "target_entity_name": "MIT",
+   "relation_type": "OFFERED_BY",
+   "fact": "The Urban Planning and Development edX course is offered by MIT.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "FutureLearn",
+   "target_entity_name": "Sustainable Cities (FutureLearn course)",
+   "relation_type": "HOSTS",
+   "fact": "FutureLearn hosts the Sustainable Cities course, a 6-week course examining the challenges and opportunities of creating sustainable cities.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sustainable Cities (FutureLearn course)",
+   "target_entity_name": "University of Leeds",
+   "relation_type": "OFFERED_BY",
+   "fact": "The Sustainable Cities FutureLearn course is offered by the University of Leeds.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Udemy",
+   "target_entity_name": "Urban Planning and Sustainable Development (Udemy course)",
+   "relation_type": "HOSTS",
+   "fact": "Udemy hosts a range of courses on Urban Planning and Sustainable Development, including courses on green infrastructure, transportation planning, and urban design.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jane Jacobs",
+   "target_entity_name": "The Death and Life of Great American Cities",
+   "relation_type": "AUTHORED",
+   "fact": "Jane Jacobs wrote \"The Death and Life of Great American Cities\", a classic book critiquing urban planning approaches and advocating for human-scale, mixed-use development.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Richard W. Judd",
+   "target_entity_name": "Sustainable Urban Planning: A Framework for Sustainable Development",
+   "relation_type": "AUTHORED",
+   "fact": "Dr. Richard W. Judd wrote \"Sustainable Urban Planning: A Framework for Sustainable Development\", a comprehensive textbook on the principles and practices of sustainable urban planning.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Steven Cohen",
+   "target_entity_name": "The Sustainable City",
+   "relation_type": "AUTHORED",
+   "fact": "Steven Cohen wrote \"The Sustainable City\", a book exploring the challenges and opportunities of creating sustainable cities.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Christopher Leinberger",
+   "target_entity_name": "Walkable Urbanism: A Guide to Creating Healthy, Efficient, and Economically Vibrant Cities",
+   "relation_type": "AUTHORED",
+   "fact": "Christopher Leinberger wrote \"Walkable Urbanism: A Guide to Creating Healthy, Efficient, and Economically Vibrant Cities\", arguing for the importance of walkable, mixed-use development.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sustainable Development Goals (SDGs)",
+   "target_entity_name": "Goal 11: Sustainable Cities and Communities",
+   "relation_type": "INCLUDES",
+   "fact": "The Sustainable Development Goals (SDGs) include Goal 11: Sustainable Cities and Communities.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Coursera's Sustainable Development specialization",
+   "relation_type": "TEACHES",
+   "fact": "Dr. Jonathan T. Overpeck teaches Coursera's Sustainable Development specialization from the University of Michigan.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "University of Michigan",
+   "relation_type": "WORKS_AT",
+   "fact": "Dr. Jonathan T. Overpeck is a Professor of Environmental Science and Policy at the University of Michigan's School for Environment and Sustainability.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Purdue University",
+   "relation_type": "STUDIED_AT",
+   "fact": "Dr. Jonathan T. Overpeck received his Bachelor's degree in Geological Sciences from Purdue University in 1981.",
+   "valid_at": "1981-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "University of Arizona",
+   "relation_type": "STUDIED_AT",
+   "fact": "Dr. Jonathan T. Overpeck earned his Master's degree in Geological Sciences from the University of Arizona in 1984.",
+   "valid_at": "1984-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Brown University",
+   "relation_type": "STUDIED_AT",
+   "fact": "Dr. Jonathan T. Overpeck earned his Ph.D. in Geology from Brown University in 1990.",
+   "valid_at": "1990-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "IPCC Fourth Assessment Report",
+   "relation_type": "COORDINATING_LEAD_AUTHOR_OF",
+   "fact": "Dr. Jonathan T. Overpeck was a Coordinating Lead Author for the Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report.",
+   "valid_at": null,
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "IPCC Fifth Assessment Report",
+   "relation_type": "COORDINATING_LEAD_AUTHOR_OF",
+   "fact": "Dr. Jonathan T. Overpeck was a Coordinating Lead Author for the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2013), specifically for the chapter on Sea Level Rise.",
+   "valid_at": "2013-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Intergovernmental Panel on Climate Change (IPCC)",
+   "target_entity_name": "Climate Change 2007: Impacts, Vulnerability and Adaptation",
+   "relation_type": "PRODUCED",
+   "fact": "\"Climate Change 2007: Impacts, Vulnerability and Adaptation\" is an IPCC report.",
+   "valid_at": "2007-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Climate Change 2007: Impacts, Vulnerability and Adaptation",
+   "relation_type": "CO_AUTHORED",
+   "fact": "Dr. Jonathan T. Overpeck co-authored the 2007 IPCC report \"Climate Change 2007: Impacts, Vulnerability and Adaptation\".",
+   "valid_at": "2007-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate Change 2007: Impacts, Vulnerability and Adaptation",
+   "target_entity_name": "Nobel Peace Prize",
+   "relation_type": "AWARDED",
+   "fact": "The IPCC report \"Climate Change 2007: Impacts, Vulnerability and Adaptation\" was awarded the Nobel Peace Prize in 2007.",
+   "valid_at": "2007-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Paleoclimatology: Reconstructing Climates of the Quaternary",
+   "relation_type": "CO_AUTHORED",
+   "fact": "Dr. Jonathan T. Overpeck co-authored \"Paleoclimatology: Reconstructing Climates of the Quaternary\" (2013), a comprehensive overview of paleoclimatology and its applications in understanding climate change.",
+   "valid_at": "2013-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Raymond S. Bradley",
+   "target_entity_name": "Paleoclimatology: Reconstructing Climates of the Quaternary",
+   "relation_type": "CO_AUTHORED",
+   "fact": "Dr. Raymond S. Bradley co-authored \"Paleoclimatology: Reconstructing Climates of the Quaternary\" (2013) with Dr. Jonathan T. Overpeck.",
+   "valid_at": "2013-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Climate Change and the Integrity of Science",
+   "relation_type": "CO_AUTHORED",
+   "fact": "Dr. Jonathan T. Overpeck and colleagues co-authored \"Climate Change and the Integrity of Science\" (2010), discussing the importance of maintaining the integrity of climate science.",
+   "valid_at": "2010-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate Change and the Integrity of Science",
+   "target_entity_name": "Science (journal)",
+   "relation_type": "PUBLISHED_IN",
+   "fact": "\"Climate Change and the Integrity of Science\" (2010) was published in the journal Science.",
+   "valid_at": "2010-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "American Association for the Advancement of Science (AAAS)",
+   "relation_type": "FELLOW_OF",
+   "fact": "Dr. Jonathan T. Overpeck is a Fellow of the American Association for the Advancement of Science (AAAS).",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "American Geophysical Union (AGU)",
+   "relation_type": "FELLOW_OF",
+   "fact": "Dr. Jonathan T. Overpeck is a Fellow of the American Geophysical Union (AGU).",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Geological Society of America (GSA)",
+   "relation_type": "FELLOW_OF",
+   "fact": "Dr. Jonathan T. Overpeck is a Fellow of the Geological Society of America (GSA).",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "NSF CAREER Award",
+   "relation_type": "RECEIVED",
+   "fact": "Dr. Jonathan T. Overpeck received a National Science Foundation (NSF) CAREER Award.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "NSF CAREER Award",
+   "target_entity_name": "National Science Foundation (NSF)",
+   "relation_type": "AWARDED_BY",
+   "fact": "The NSF CAREER Award is awarded by the National Science Foundation (NSF).",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Implications of recent sea-level rise science for coastal protection",
+   "relation_type": "AUTHORED",
+   "fact": "Dr. Jonathan T. Overpeck and colleagues authored \"Implications of recent sea-level rise science for coastal protection\" (2019), discussing implications of recent sea-level rise research for coastal protection and adaptation planning.",
+   "valid_at": "2019-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Sea level rise and implications for coastal erosion",
+   "relation_type": "CO_AUTHORED",
+   "fact": "Dr. Jonathan T. Overpeck co-authored \"Sea level rise and implications for coastal erosion\" (2017), examining the impacts of sea-level rise on coastal erosion.",
+   "valid_at": "2017-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Attribution of anthropogenic influence on sea level rise from 1993 to 2012",
+   "relation_type": "AUTHORED",
+   "fact": "Dr. Jonathan T. Overpeck and colleagues used statistical analysis in \"Attribution of anthropogenic influence on sea level rise from 1993 to 2012\" (2015) to attribute observed sea-level rise from 1993 to 2012 to anthropogenic greenhouse gas emissions.",
+   "valid_at": "2015-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Sea Level Rise Technical Report",
+   "relation_type": "LEAD_AUTHOR_OF",
+   "fact": "Dr. Jonathan T. Overpeck was the lead author of the Sea Level Rise Technical Report (2017), a comprehensive assessment of sea-level rise science and its implications for the United States.",
+   "valid_at": "2017-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sea Level Rise Technical Report",
+   "target_entity_name": "U.S. National Oceanic and Atmospheric Administration (NOAA)",
+   "relation_type": "COMMISSIONED_BY",
+   "fact": "The Sea Level Rise Technical Report (2017) was commissioned by the U.S. National Oceanic and Atmospheric Administration (NOAA).",
+   "valid_at": "2017-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sea Level Rise Technical Report",
+   "target_entity_name": "U.S. Army Corps of Engineers",
+   "relation_type": "ASSOCIATED_WITH",
+   "fact": "The Sea Level Rise Technical Report is referred to as the U.S. Army Corps of Engineers' Sea-Level Rise Technical Report.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Sea Level Rise and Coastal Impacts (SLRCI) Project",
+   "relation_type": "LED",
+   "fact": "Dr. Jonathan T. Overpeck led the Sea Level Rise and Coastal Impacts (SLRCI) Project (2014-2017), which aimed to improve sea-level rise projections and develop adaptation strategies for coastal communities.",
+   "valid_at": "2014-01-01T00:00:00Z",
+   "invalid_at": "2017-01-01T00:00:00Z",
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Climate and Sea-Level Rise (C&SLR) Initiative",
+   "relation_type": "LED",
+   "fact": "Dr. Jonathan T. Overpeck led the Climate and Sea-Level Rise (C&SLR) Initiative (2010-2014) at the University of Arizona, focused on understanding climate change impacts on sea-level rise and coastal adaptation.",
+   "valid_at": "2010-01-01T00:00:00Z",
+   "invalid_at": "2014-01-01T00:00:00Z",
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate and Sea-Level Rise (C&SLR) Initiative",
+   "target_entity_name": "University of Arizona",
+   "relation_type": "BASED_AT",
+   "fact": "The Climate and Sea-Level Rise (C&SLR) Initiative was based at the University of Arizona from 2010 to 2014.",
+   "valid_at": "2010-01-01T00:00:00Z",
+   "invalid_at": "2014-01-01T00:00:00Z",
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate and Sea-Level Rise (C&SLR) Initiative",
+   "target_entity_name": "National Climate Assessment (NCA)",
+   "relation_type": "INFORMED",
+   "fact": "The Climate and Sea-Level Rise (C&SLR) Initiative provided scientific input to the U.S. National Climate Assessment.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate and Sea-Level Rise (C&SLR) Initiative",
+   "target_entity_name": "IPCC Fifth Assessment Report",
+   "relation_type": "INFORMED",
+   "fact": "The Climate and Sea-Level Rise (C&SLR) Initiative provided scientific input to the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate and Sea-Level Rise (C&SLR) Initiative",
+   "target_entity_name": "Sea Level Rise Technical Report",
+   "relation_type": "INFORMED",
+   "fact": "The Climate and Sea-Level Rise (C&SLR) Initiative provided scientific input to the U.S. Army Corps of Engineers' Sea-Level Rise Technical Report.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate and Sea-Level Rise (C&SLR) Initiative",
+   "target_entity_name": "Sea-Level Rise and Impacts on Coastal Ecosystems",
+   "relation_type": "PRODUCED",
+   "fact": "The Climate and Sea-Level Rise (C&SLR) Initiative produced the report \"Sea-Level Rise and Impacts on Coastal Ecosystems\" (2012), assessing impacts of sea-level rise on coastal ecosystems and recommending ecosystem-based adaptation approaches.",
+   "valid_at": "2012-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate and Sea-Level Rise (C&SLR) Initiative",
+   "target_entity_name": "Coastal Vulnerability to Sea-Level Rise: A Framework for Assessment and Adaptation",
+   "relation_type": "PRODUCED",
+   "fact": "The Climate and Sea-Level Rise (C&SLR) Initiative produced \"Coastal Vulnerability to Sea-Level Rise: A Framework for Assessment and Adaptation\" (2013), a framework for assessing coastal vulnerability and developing adaptation strategies.",
+   "valid_at": "2013-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Climate and Sea-Level Rise (C&SLR) Initiative",
+   "target_entity_name": "Sea-Level Rise Projections for the 21st Century",
+   "relation_type": "PRODUCED",
+   "fact": "The Climate and Sea-Level Rise (C&SLR) Initiative produced \"Sea-Level Rise Projections for the 21st Century\" (2014), providing improved sea-level rise projections incorporating paleoclimate records, instrumental observations, and climate model simulations.",
+   "valid_at": "2014-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "National Climate Assessment (NCA)",
+   "relation_type": "LEAD_AUTHOR_OF",
+   "fact": "Dr. Jonathan T. Overpeck was a lead author of the National Climate Assessment (NCA) Technical Report on Sea Level Rise (2014).",
+   "valid_at": "2014-01-01T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Dr. Jonathan T. Overpeck",
+   "target_entity_name": "Sea-Level Rise and Coastal Change Project",
+   "relation_type": "ADVISOR_TO",
+   "fact": "Dr. Jonathan T. Overpeck served as an advisor to the U.S. Geological Survey (USGS) Sea-Level Rise and Coastal Change Project.",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Sea-Level Rise and Coastal Change Project",
+   "target_entity_name": "U.S. Geological Survey (USGS)",
+   "relation_type": "RUN_BY",
+   "fact": "The Sea-Level Rise and Coastal Change Project is run by the U.S. Geological Survey (USGS).",
+   "valid_at": "2023-05-01T04:33:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

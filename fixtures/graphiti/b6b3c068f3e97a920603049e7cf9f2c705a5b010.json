@@ -1,0 +1,48 @@
+{
+ "summaries": [
+  {
+   "name": "Lyft",
+   "summary": "Popular ride-sharing service operating in many cities. Provides airport pickup and drop-off transportation, known as Lyft Airport."
+  },
+  {
+   "name": "Via",
+   "summary": "Ride-sharing service focused on carpooling and shared rides, often a more affordable option for group travel."
+  },
+  {
+   "name": "Wingz",
+   "summary": "A local, region-specific ride-hailing service available at some airports."
+  },
+  {
+   "name": "ExecuCar",
+   "summary": "A local, region-specific ride-hailing service available at some airports."
+  },
+  {
+   "name": "Blacklane",
+   "summary": "A local, region-specific ride-hailing service available at some airports."
+  },
+  {
+   "name": "Expedia",
+   "summary": "A travel booking website usable to search for flights, including connecting flights with layovers."
+  },
+  {
+   "name": "Kayak",
+   "summary": "A travel booking website usable to search for flights, including connecting flights with layovers."
+  },
+  {
+   "name": "Skyscanner",
+   "summary": "A travel booking website usable to search for flights, including connecting flights with layovers."
+  },
+  {
+   "name": "Los Angeles International Airport",
+   "summary": "Referred to by its IATA code, LAX."
+  },
+  {
+   "name": "Twitter",
+   "summary": "A social media platform airports may use to post updates about transportation services or respond to passenger inquiries."
+  },
+  {
+   "name": "Facebook",
+   "summary": "A social media platform airports may use to post updates about transportation services or respond to passenger inquiries."
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "summaries": [
+  {
+   "name": "arXiv",
+   "summary": "arXiv is a popular online repository of electronic preprints in physics, mathematics, computer science, and related disciplines, with dedicated sections for robotics and medical imaging research papers."
+  },
+  {
+   "name": "Papers with Code",
+   "summary": "Papers with Code is a website that aggregates AI/ML research papers with code implementations."
+  },
+  {
+   "name": "Journal of Machine Learning Research (JMLR)",
+   "summary": "Journal of Machine Learning Research (JMLR) is a leading journal that publishes ML research articles."
+  },
+  {
+   "name": "Neural Computing and Applications",
+   "summary": "Neural Computing and Applications is a journal covering neural networks and their applications."
+  },
+  {
+   "name": "The AI Alignment Forum",
+   "summary": "The AI Alignment Forum is a blog that discusses AI safety, ethics, and alignment."
+  },
+  {
+   "name": "KDnuggets",
+   "summary": "KDnuggets is a popular blog covering AI, ML, and data science news, tutorials, and more."
+  },
+  {
+   "name": "AI Impacts",
+   "summary": "AI Impacts is a blog that explores the potential impacts of AI on society."
+  },
+  {
+   "name": "AI in Industry",
+   "summary": "AI in Industry is a podcast that discusses AI applications in various industries."
+  },
+  {
+   "name": "Machine Learning Podcast",
+   "summary": "Machine Learning Podcast is a podcast that explores ML concepts and applications."
+  },
+  {
+   "name": "Data Science Podcast",
+   "summary": "Data Science Podcast is a podcast covering data science, ML, and AI topics."
+  },
+  {
+   "name": "GitHub",
+   "summary": "GitHub is recommended for exploring open-source ML and AI projects and repositories."
+  },
+  {
+   "name": "AI Newsletter",
+   "summary": "AI Newsletter is a weekly newsletter that summarizes AI and ML news."
+  },
+  {
+   "name": "Machine Learning Weekly",
+   "summary": "Machine Learning Weekly is a newsletter covering ML news, research, and tutorials."
+  },
+  {
+   "name": "AI Alignment Newsletter",
+   "summary": "AI Alignment Newsletter is a newsletter that focuses on AI safety and alignment."
+  },
+  {
+   "name": "IEEE Robotics and Automation Magazine",
+   "summary": "IEEE Robotics and Automation Magazine is a leading journal covering the latest research and developments in robotics."
+  },
+  {
+   "name": "IJRR (International Journal of Robotics Research)",
+   "summary": "IJRR (International Journal of Robotics Research) is a premier journal publishing original research papers on robotics."
+  },
+  {
+   "name": "Robotics and Autonomous Systems",
+   "summary": "Robotics and Autonomous Systems is a journal focused on autonomous systems, robotics, and AI."
+  },
+  {
+   "name": "ICRA (International Conference on Robotics and Automation)",
+   "summary": "ICRA (International Conference on Robotics and Automation) is a premier conference that brings together researchers and engineers in robotics and automation."
+  },
+  {
+   "name": "IROS (International Conference on Intelligent Robots and Systems)",
+   "summary": "IROS (International Conference on Intelligent Robots and Systems) is a leading conference covering robotics, AI, and related areas."
+  },
+  {
+   "name": "RSS (Robotics: Science and Systems)",
+   "summary": "RSS (Robotics: Science and Systems) is a conference focused on the intersection of robotics and AI."
+  },
+  {
+   "name": "The Robot Report",
+   "summary": "The Robot Report is a news site covering the latest developments in robotics, AI, and automation."
+  },
+  {
+   "name": "Robotics Trends",
+   "summary": "Robotics Trends is a blog providing insights and news on robotics, AI, and related technologies."
+  },
+  {
+   "name": "IEEE Spectrum Robotics",
+   "summary": "IEEE Spectrum Robotics is a section on IEEE Spectrum dedicated to robotics news, articles, and research."
+  },
+  {
+   "name": "Robotics Business Review",
+   "summary": "Robotics Business Review is a publication covering the business side of robotics and AI."
+  },
+  {
+   "name": "Robot Operating System (ROS)",
+   "summary": "Robot Operating System (ROS) has an online community platform for developers and researchers working with it."
+  },
+  {
+   "name": "NASA Robotics",
+   "summary": "NASA Robotics is NASA's robotics division, which develops robots for space exploration and research."
+  },
+  {
+   "name": "Nature Medicine",
+   "summary": "Nature Medicine is a leading journal publishing original research papers on medicine and healthcare, including AI applications in healthcare and medical imaging."
+  },
+  {
+   "name": "npj Digital Medicine",
+   "summary": "npj Digital Medicine is a journal that focuses on the intersection of AI, data science, and medicine."
+  },
+  {
+   "name": "Journal of Medical Systems",
+   "summary": "Journal of Medical Systems is a journal covering AI, machine learning, and data analytics in healthcare."
+  },
+  {
+   "name": "AMIA (American Medical Informatics Association) Annual Symposium",
+   "summary": "AMIA (American Medical Informatics Association) Annual Symposium is a premier conference covering AI, machine learning, and data science in healthcare."
+  }
+ ]
+}

@@ -1,0 +1,477 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "San Francisco",
+   "target_entity_name": "New York City",
+   "relation_type": "ROAD_TRIP_TO",
+   "fact": "The user is driving from San Francisco to New York City over about 10 days, planning to cycle for 3-4 of those days along low-traffic, scenic routes with a road bike.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "San Francisco",
+   "target_entity_name": "Lake Tahoe",
+   "relation_type": "ROUTE_TO",
+   "fact": "The itinerary drives from San Francisco to Lake Tahoe, CA, approximately 200 miles taking about 3 hours, via US-50 East.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "US-50",
+   "target_entity_name": "Sierra Nevada",
+   "relation_type": "OFFERS_VIEW_OF",
+   "fact": "US-50 East offers stunning views of the Sierra Nevada mountains on the drive from San Francisco to Lake Tahoe.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Placerville Bike Shop",
+   "target_entity_name": "Placerville",
+   "relation_type": "LOCATED_IN",
+   "fact": "Placerville Bike Shop, recommended for last-minute tune-ups or gear, is located in Placerville, CA, a stop on the San Francisco to Lake Tahoe route.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lake Tahoe",
+   "target_entity_name": "Tahoe City Bike Trail",
+   "relation_type": "HAS_BIKE_TRAIL",
+   "fact": "Lake Tahoe offers a bike ride around the lake on the Tahoe City Bike Trail, which has scenic views and relatively low traffic.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lake Tahoe",
+   "target_entity_name": "Truckee River Bike Trail",
+   "relation_type": "HAS_BIKE_TRAIL",
+   "fact": "Lake Tahoe offers a bike ride around the lake on the Truckee River Bike Trail, which has scenic views and relatively low traffic.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Village at Squaw Valley",
+   "target_entity_name": "Lake Tahoe",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Village at Squaw Valley, an accommodation offering bike storage, is located in Lake Tahoe close to the bike trails.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Tahoe City Bikes",
+   "target_entity_name": "Lake Tahoe",
+   "relation_type": "LOCATED_IN",
+   "fact": "Tahoe City Bikes, which offers bike rentals, guided tours, and shuttle services for cyclists, is located in Lake Tahoe.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mountain Bike Tahoe",
+   "target_entity_name": "Lake Tahoe",
+   "relation_type": "LOCATED_IN",
+   "fact": "Mountain Bike Tahoe, which provides guided mountain bike tours and rentals, is located in Lake Tahoe.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Lake Tahoe",
+   "target_entity_name": "Jackson Hole",
+   "relation_type": "ROUTE_TO",
+   "fact": "The itinerary drives from Lake Tahoe, CA to Jackson Hole, WY, approximately 770 miles taking about 11 hours.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jackson Hole",
+   "target_entity_name": "Grand Teton National Park",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Jackson Hole is near Grand Teton National Park, where the itinerary explores scenic byways and bike paths.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Grand Teton National Park",
+   "target_entity_name": "Teton Park Road",
+   "relation_type": "HAS_BIKE_ROUTE",
+   "fact": "Grand Teton National Park contains the Teton Park Road, a 48-mile bike route with minimal traffic.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jackson Hole",
+   "target_entity_name": "Jackson Hole Community Path",
+   "relation_type": "HAS_BIKE_ROUTE",
+   "fact": "Jackson Hole has the Jackson Hole Community Path, a 20-mile paved bike trail.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jackson Hole Mountain Resort",
+   "target_entity_name": "Jackson Hole",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Jackson Hole Mountain Resort, which has a bike shop and offers bike storage, is located in Jackson Hole near the Teton Park Road.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hoback Sports",
+   "target_entity_name": "Jackson Hole",
+   "relation_type": "LOCATED_IN",
+   "fact": "Hoback Sports, which rents bikes, offers guided tours, and provides cycling gear, is located in Jackson Hole.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jackson Hole Mountain Resort Bike Park",
+   "target_entity_name": "Jackson Hole",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Jackson Hole Mountain Resort Bike Park, which offers bike rentals, guided tours, and lift-serviced mountain biking, is located in Jackson Hole.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Jackson Hole",
+   "target_entity_name": "Mount Rushmore",
+   "relation_type": "ROUTE_TO",
+   "fact": "The itinerary drives from Jackson Hole, WY to Mount Rushmore, SD, approximately 560 miles taking about 8 hours.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mount Rushmore",
+   "target_entity_name": "Black Hills",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Mount Rushmore is near the Black Hills region, which the itinerary explores.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Black Hills",
+   "target_entity_name": "George S. Mickelson Trail",
+   "relation_type": "HAS_BIKE_TRAIL",
+   "fact": "The Black Hills region contains the George S. Mickelson Trail, a 109-mile converted rail-trail with minimal traffic and stunning views.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rapid City",
+   "target_entity_name": "Mount Rushmore",
+   "relation_type": "LOCATED_NEAR",
+   "fact": "Rapid City, SD is a stop near Mount Rushmore on the itinerary.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Acme Bicycles",
+   "target_entity_name": "Rapid City",
+   "relation_type": "LOCATED_IN",
+   "fact": "Acme Bicycles, recommended for local knowledge and supplies, is located in Rapid City, SD.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Rushmore Hotel & Suites",
+   "target_entity_name": "Mount Rushmore",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Rushmore Hotel & Suites, an accommodation offering bike storage, is located close to the George S. Mickelson Trail near Mount Rushmore.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mount Rushmore Bike Rentals",
+   "target_entity_name": "Black Hills",
+   "relation_type": "LOCATED_IN",
+   "fact": "Mount Rushmore Bike Rentals rents bikes and offers guided tours in the Black Hills region.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Black Hills Bicycles",
+   "target_entity_name": "Black Hills",
+   "relation_type": "LOCATED_IN",
+   "fact": "Black Hills Bicycles provides bike rentals, guided tours, and cycling accessories in the Black Hills region.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Mount Rushmore",
+   "target_entity_name": "Minneapolis",
+   "relation_type": "ROUTE_TO",
+   "fact": "The itinerary drives from Mount Rushmore, SD to Minneapolis, MN, approximately 640 miles taking about 9 hours.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Minneapolis",
+   "target_entity_name": "Grand Rounds Scenic Byway",
+   "relation_type": "HAS_BIKE_ROUTE",
+   "fact": "Minneapolis has the Grand Rounds Scenic Byway, a 13-mile bike route that takes riders through several parks and lakes.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Freewheel Bike",
+   "target_entity_name": "Minneapolis",
+   "relation_type": "LOCATED_IN",
+   "fact": "Freewheel Bike, recommended for a tune-up or exploring a selection of bikes, is located in Minneapolis.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Hotel Ivy, a Luxury Collection Hotel",
+   "target_entity_name": "Minneapolis",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Hotel Ivy, a Luxury Collection Hotel, an accommodation offering bike storage, is located in Minneapolis near the Grand Rounds Scenic Byway.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Nice Ride Minnesota",
+   "target_entity_name": "Minneapolis",
+   "relation_type": "LOCATED_IN",
+   "fact": "Nice Ride Minnesota offers bike-sharing services and guided tours in Minneapolis.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "The Hub Bike Co-op",
+   "target_entity_name": "Minneapolis",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Hub Bike Co-op rents bikes, offers guided tours, and provides cycling gear in Minneapolis.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Minneapolis",
+   "target_entity_name": "Pittsburgh",
+   "relation_type": "ROUTE_TO",
+   "fact": "The itinerary drives from Minneapolis, MN to Pittsburgh, PA, approximately 940 miles taking about 13 hours.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pittsburgh",
+   "target_entity_name": "Three Rivers Heritage Trail",
+   "relation_type": "HAS_BIKE_TRAIL",
+   "fact": "Pittsburgh has the Three Rivers Heritage Trail, a 24-mile bike route along the Allegheny, Monongahela, and Ohio rivers.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Three Rivers Heritage Trail",
+   "target_entity_name": "Allegheny River",
+   "relation_type": "FOLLOWS",
+   "fact": "The 24-mile Three Rivers Heritage Trail runs along the Allegheny River.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Three Rivers Heritage Trail",
+   "target_entity_name": "Monongahela River",
+   "relation_type": "FOLLOWS",
+   "fact": "The 24-mile Three Rivers Heritage Trail runs along the Monongahela River.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Three Rivers Heritage Trail",
+   "target_entity_name": "Ohio River",
+   "relation_type": "FOLLOWS",
+   "fact": "The 24-mile Three Rivers Heritage Trail runs along the Ohio River.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pittsburgh",
+   "target_entity_name": "Great Allegheny Passage",
+   "relation_type": "HAS_BIKE_TRAIL",
+   "fact": "Pittsburgh connects to the Great Allegheny Passage, a 150-mile trail that takes riders through the Pennsylvania countryside.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Thin Man Shop",
+   "target_entity_name": "Pittsburgh",
+   "relation_type": "LOCATED_IN",
+   "fact": "Thin Man Shop, recommended for bike supplies and advice on local trails, is located in Pittsburgh.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Omni William Penn Hotel",
+   "target_entity_name": "Pittsburgh",
+   "relation_type": "LOCATED_IN",
+   "fact": "The Omni William Penn Hotel, an accommodation offering bike storage, is located in Pittsburgh close to the Three Rivers Heritage Trail.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Golden Triangle Bike Rentals",
+   "target_entity_name": "Pittsburgh",
+   "relation_type": "LOCATED_IN",
+   "fact": "Golden Triangle Bike Rentals rents bikes and offers guided tours in Pittsburgh.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Venture Outdoors",
+   "target_entity_name": "Pittsburgh",
+   "relation_type": "LOCATED_IN",
+   "fact": "Venture Outdoors provides bike rentals, guided tours, and outdoor adventure programs in Pittsburgh.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Pittsburgh",
+   "target_entity_name": "New York City",
+   "relation_type": "ROUTE_TO",
+   "fact": "The itinerary drives from Pittsburgh, PA to New York City, approximately 340 miles taking about 6 hours.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "New York City",
+   "target_entity_name": "Hudson River Greenway",
+   "relation_type": "HAS_BIKE_ROUTE",
+   "fact": "New York City has the Hudson River Greenway, an 11-mile bike route along the Hudson River with stunning city views.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Hudson River Greenway",
+   "target_entity_name": "Hudson River",
+   "relation_type": "FOLLOWS",
+   "fact": "The 11-mile Hudson River Greenway bike route runs along the Hudson River.",
+   "valid_at": "2023-10-10T00:00:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

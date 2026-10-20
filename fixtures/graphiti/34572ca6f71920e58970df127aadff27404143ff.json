@@ -1,0 +1,70 @@
+{
+ "edges": [
+  {
+   "source_entity_name": "Bea Johnson",
+   "target_entity_name": "Zero Waste Home",
+   "relation_type": "AUTHOR_OF",
+   "fact": "Bea Johnson wrote the book \"Zero Waste Home\" and runs the Zero Waste Home website (www.zerowastehome.com), a resource for getting started with zero-waste living.",
+   "valid_at": "2023-05-01T07:29:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Amy Korst",
+   "target_entity_name": "The Zero Waste Lifestyle",
+   "relation_type": "AUTHOR_OF",
+   "fact": "Amy Korst wrote the book \"The Zero Waste Lifestyle\", recommended as a resource for getting started with zero-waste living.",
+   "valid_at": "2023-05-01T07:29:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "@zerowastehome",
+   "target_entity_name": "Instagram",
+   "relation_type": "POSTS_ON",
+   "fact": "@zerowastehome is a zero-waste influencer to follow on Instagram.",
+   "valid_at": "2023-05-01T07:29:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "@thezerowasteblog",
+   "target_entity_name": "Instagram",
+   "relation_type": "POSTS_ON",
+   "fact": "@thezerowasteblog is a zero-waste influencer to follow on Instagram.",
+   "valid_at": "2023-05-01T07:29:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "@ecowarriorprincess",
+   "target_entity_name": "Instagram",
+   "relation_type": "POSTS_ON",
+   "fact": "@ecowarriorprincess is a zero-waste influencer to follow on Instagram.",
+   "valid_at": "2023-05-01T07:29:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  },
+  {
+   "source_entity_name": "Bike-a-Thon for Cancer Research",
+   "target_entity_name": "Cancer Research",
+   "relation_type": "RAISES_FUNDS_FOR",
+   "fact": "The user's team raised $5,000 for Cancer Research by participating in the Bike-a-Thon for Cancer Research.",
+   "valid_at": "2023-05-01T07:29:00Z",
+   "invalid_at": null,
+   "episode_indices": [
+    0
+   ]
+  }
+ ]
+}

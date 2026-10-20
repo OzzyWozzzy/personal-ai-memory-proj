@@ -1,0 +1,16 @@
+{
+ "summaries": [
+  {
+   "name": "Ruby",
+   "summary": "Ruby is recommended as a back-end programming language to learn for building server-side applications and working with databases, alongside Python or PHP."
+  },
+  {
+   "name": "PHP",
+   "summary": "PHP is recommended as a back-end programming language to learn for building server-side applications and working with databases, alongside Ruby or Python."
+  },
+  {
+   "name": "Udemy",
+   "summary": "Udemy offers a wide range of front-end development courses, from beginner to advanced."
+  }
+ ]
+}

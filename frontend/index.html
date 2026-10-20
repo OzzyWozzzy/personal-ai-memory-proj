@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Temporal Memory Graph</title>
+  <link rel="stylesheet" href="/ui/style.css">
+  <script src="/ui/graph.js" defer></script>
+  <script src="/ui/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Local-first ML system</p>
+      <h1>Temporal Memory Graph</h1>
+    </div>
+    <div class="status"><span id="status-dot"></span><span id="status-text">Starting local workspace…</span></div>
+  </header>
+
+  <nav class="tabs" aria-label="Views">
+    <button class="tab active" data-view="graph">Graph</button>
+    <button class="tab" data-view="recall">Recall</button>
+    <button class="tab" data-view="governance">Governance</button>
+    <a href="/docs" class="docs-link">API</a>
+  </nav>
+
+  <main>
+    <section id="view-graph" class="view active">
+      <div class="graph-shell">
+        <aside class="panel ingest-panel">
+          <p class="eyebrow">Ingest</p>
+          <h2>Add an episode</h2>
+          <p class="muted">The source is stored first, then Graphiti extracts and invalidates temporal edges.</p>
+          <form id="remember-form">
+            <label for="memory-text">Source text</label>
+            <textarea id="memory-text" rows="8" placeholder="Maya moved from Toronto to Montreal in September."></textarea>
+            <label for="occurred-at">Occurred at <span class="optional">optional</span></label>
+            <input id="occurred-at" placeholder="last September">
+            <button class="primary" type="submit">Remember</button>
+          </form>
+          <div id="remember-result" class="result compact" aria-live="polite"></div>
+        </aside>
+
+        <section class="graph-stage panel">
+          <div class="graph-toolbar">
+            <div class="graph-metrics">
+              <span><b id="entity-count">0</b> entities</span>
+              <span><b id="edge-count">0</b> edges</span>
+              <span><b id="episode-count">0</b> sources</span>
+            </div>
+            <div class="graph-controls">
+              <input id="graph-search" aria-label="Filter graph" placeholder="Find a node">
+              <input id="as-of" type="datetime-local" aria-label="Graph as of">
+              <label class="check"><input id="historical" type="checkbox"> history</label>
+              <label class="check"><input id="episodes" type="checkbox"> provenance</label>
+              <button id="refresh-graph" class="icon-button" title="Refresh">↻</button>
+              <button id="fit-graph" class="icon-button" title="Fit graph">⤢</button>
+            </div>
+          </div>
+          <div class="canvas-wrap">
+            <canvas id="graph-canvas"></canvas>
+            <div id="empty-graph" class="empty-state">
+              <h3>No extracted edges yet</h3>
+              <p>Add a temporal statement or enable provenance to inspect source episodes.</p>
+            </div>
+          </div>
+        </section>
+
+        <aside class="panel inspector-panel">
+          <p class="eyebrow">Inspector</p>
+          <div id="inspector" class="inspector empty-copy">Select a node to inspect its facts, validity windows, and provenance.</div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="view-recall" class="view narrow">
+      <div class="panel feature-panel">
+        <p class="eyebrow">Hybrid retrieval + local reranking</p>
+        <h2>Recall with temporal controls</h2>
+        <form id="recall-form" class="query-form">
+          <label for="recall-query">Question</label>
+          <textarea id="recall-query" rows="3" placeholder="Where was Maya living before Montreal?"></textarea>
+          <div class="form-row">
+            <label>As of <input id="recall-as-of" type="datetime-local"></label>
+            <label>Token budget <input id="token-budget" type="number" min="0" value="1200"></label>
+            <label class="check"><input id="recall-history" type="checkbox"> include historical</label>
+          </div>
+          <button class="primary" type="submit">Assemble context</button>
+        </form>
+        <div id="recall-meta" class="metrics-row"></div>
+        <pre id="recall-result" class="code-result">Ask a question to inspect the exact context sent downstream.</pre>
+      </div>
+    </section>
+
+    <section id="view-governance" class="view narrow">
+      <div class="governance-grid">
+        <div class="panel feature-panel">
+          <p class="eyebrow">Observable behavior</p>
+          <h2>Workspace health</h2>
+          <div id="stats-cards" class="stat-grid"></div>
+          <h3>Retrieval budget</h3>
+          <div id="token-metrics" class="result"></div>
+        </div>
+        <div class="panel feature-panel">
+          <p class="eyebrow">Retention</p>
+          <h2>Source policies</h2>
+          <p class="muted">JSON maps each source to its maximum age in days. An empty object keeps data indefinitely.</p>
+          <textarea id="retention-json" rows="7">{}</textarea>
+          <div class="button-row">
+            <button id="save-retention" class="primary">Save policy</button>
+            <button id="plan-sweep">Plan sweep</button>
+          </div>
+          <div id="retention-result" class="result compact"></div>
+        </div>
+        <div class="panel danger-panel">
+          <p class="eyebrow">Governed deletion</p>
+          <h2>Clear workspace</h2>
+          <p class="muted">Every deletion follows episode lineage, respects legal holds, removes graph evidence, and writes an audit event.</p>
+          <div class="button-row">
+            <button id="plan-clear">Preview clear</button>
+            <button id="apply-clear" class="danger">Apply clear…</button>
+          </div>
+          <div id="clear-result" class="result compact"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
